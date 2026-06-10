@@ -1,12 +1,78 @@
 <!DOCTYPE html>
-<html lang="fr">
+<html lang="fr" data-bs-theme="dark">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Spoti'stat - Statistiques de ma playlist</title>
+    <!-- Bootstrap 5 -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="style/style.css">
-    <title>Spoti'stat</title>
 </head>
 <body>
+    <!-- Lien d'évitement pour l'accessibilité -->
+    <a class="visually-hidden-focusable" href="#contenu">Aller au contenu principal</a>
+
+    <!-- En-tête -->
+    <header class="navbar navbar-expand-lg border-bottom">
+        <div class="container">
+            <a class="navbar-brand fw-bold fs-3" href="#">
+                <span class="text-success">Spoti'</span>stat
+            </a>
+        </div>
+    </header>
+
+    <main id="contenu" class="container py-4">
+
+        <!-- Statistiques générales -->
+        <section aria-labelledby="titre-stats" class="mb-5">
+            <h1 id="titre-stats" class="h2 mb-4">Ma playlist en chiffres</h1>
+            <div id="stats-cards" class="row g-3">
+                <!-- Les cartes de stats sont injectées ici via le template -->
+            </div>
+        </section>
+
+        <!-- Liste des titres -->
+        <section aria-labelledby="titre-liste">
+            <h2 id="titre-liste" class="mb-4">Les titres</h2>
+            <div id="liste-titres" class="row g-3">
+                <!-- Les titres sont injectés ici via le template -->
+            </div>
+        </section>
+
+    </main>
+
+    <footer class="border-top py-3 mt-5">
+        <div class="container text-body-secondary">
+            <p class="mb-0">Spoti'stat — Projet R212 — Données issues de Spotify</p>
+        </div>
+    </footer>
+
+    <!-- Template d'une carte de statistique -->
+    <template id="template-stat">
+        <div class="col-6 col-md-3">
+            <div class="card h-100 text-center">
+                <div class="card-body">
+                    <p class="stat-valeur card-title fs-2 fw-bold text-success mb-1"></p>
+                    <p class="stat-label card-text text-body-secondary mb-0"></p>
+                </div>
+            </div>
+        </div>
+    </template>
+
+    <!-- Template d'une carte de titre -->
+    <template id="template-titre">
+        <div class="col-12 col-sm-6 col-lg-4">
+            <div class="card h-100 carte-titre">
+                <img class="cover card-img-top" src="" alt="">
+                <div class="card-body">
+                    <h3 class="nom h5 card-title mb-1"></h3>
+                    <p class="artistes card-text mb-1 text-body-secondary"></p>
+                    <p class="album card-text mb-0"><small></small></p>
+                </div>
+            </div>
+        </div>
+    </template>
+
     <script src="script/script.js"></script>
 </body>
 </html>
