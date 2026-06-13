@@ -1,38 +1,25 @@
-/* Spoti'stat — styles personnalisés (le maximum est géré par Bootstrap) */
-
 :root {
     --spotify-vert: #1db954;
 }
-
 body {
     background-color: #121212;
 }
-
-/* Couleur d'accent verte façon Spotify */
 .accent {
     color: var(--spotify-vert);
 }
-
-/* En-tête collant avec léger fond opaque */
 .entete {
     background-color: rgba(18, 18, 18, 0.95);
     backdrop-filter: blur(6px);
 }
-
-/* Pochettes d'albums carrées */
 .carte-titre .cover {
     aspect-ratio: 1 / 1;
     object-fit: cover;
 }
-
-/* Photos d'artistes rondes */
 .carte-artiste .photo {
     width: 96px;
     height: 96px;
     object-fit: cover;
 }
-
-/* Léger effet au survol des cartes (avec respect de prefers-reduced-motion) */
 @media (prefers-reduced-motion: no-preference) {
     .carte-titre,
     .carte-artiste {
@@ -44,25 +31,20 @@ body {
         transform: translateY(-4px);
     }
 }
-
-/* Mosaïque de pochettes sur les cartes de playlists (façon Spotify) */
 .mosaique {
     display: grid;
     grid-template-columns: 1fr 1fr;
     aspect-ratio: 1 / 1;
     background-color: #2a2a2a;
 }
-
 .mosaique img {
     width: 100%;
     height: 100%;
     object-fit: cover;
 }
-
 .carte-playlist {
     overflow: hidden;
 }
-
 @media (prefers-reduced-motion: no-preference) {
     .carte-playlist {
         transition: transform 0.15s ease-in-out;
@@ -72,8 +54,6 @@ body {
         transform: translateY(-4px);
     }
 }
-
-/* Focus visible renforcé pour la navigation clavier (WCAG 2.4.7) */
 a:focus-visible,
 button:focus-visible,
 input:focus-visible,
