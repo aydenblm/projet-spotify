@@ -1,0 +1,3179 @@
+﻿[
+    {
+        "album":  {
+                      "album_type":  "album",
+                      "total_tracks":  0,
+                      "id":  "360644",
+                      "images":  [
+                                     {
+                                         "height":  1000,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/dc937566c6e1d6a00d8c9e2ddb26ed8e/1000x1000-000000-80-0-0.jpg",
+                                         "width":  1000
+                                     },
+                                     {
+                                         "height":  500,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/dc937566c6e1d6a00d8c9e2ddb26ed8e/500x500-000000-80-0-0.jpg",
+                                         "width":  500
+                                     },
+                                     {
+                                         "height":  250,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/dc937566c6e1d6a00d8c9e2ddb26ed8e/250x250-000000-80-0-0.jpg",
+                                         "width":  250
+                                     },
+                                     {
+                                         "height":  56,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/dc937566c6e1d6a00d8c9e2ddb26ed8e/56x56-000000-80-0-0.jpg",
+                                         "width":  56
+                                     }
+                                 ],
+                      "name":  "Romance",
+                      "release_date":  "1991-11-19",
+                      "release_date_precision":  "day",
+                      "type":  "album",
+                      "genres":  [
+                                     "mariachi",
+                                     "bolero",
+                                     "pop latino",
+                                     "ranchera",
+                                     "villancicos"
+                                 ],
+                      "popularity":  79,
+                      "artists":  [
+                                      {
+                                          "followers":  {
+                                                            "total":  1922052
+                                                        },
+                                          "genres":  [
+                                                         "mariachi",
+                                                         "bolero",
+                                                         "pop latino",
+                                                         "ranchera",
+                                                         "villancicos"
+                                                     ],
+                                          "id":  "6123",
+                                          "images":  [
+                                                         {
+                                                             "height":  1000,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/3e8072340c8231b02be241a5113329bc/1000x1000-000000-80-0-0.jpg",
+                                                             "width":  1000
+                                                         },
+                                                         {
+                                                             "height":  500,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/3e8072340c8231b02be241a5113329bc/500x500-000000-80-0-0.jpg",
+                                                             "width":  500
+                                                         },
+                                                         {
+                                                             "height":  250,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/3e8072340c8231b02be241a5113329bc/250x250-000000-80-0-0.jpg",
+                                                             "width":  250
+                                                         },
+                                                         {
+                                                             "height":  56,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/3e8072340c8231b02be241a5113329bc/56x56-000000-80-0-0.jpg",
+                                                             "width":  56
+                                                         }
+                                                     ],
+                                          "name":  "Luis Miguel",
+                                          "popularity":  79,
+                                          "type":  "artist"
+                                      }
+                                  ],
+                      "tracks":  [
+
+                                 ]
+                  },
+        "artists":  [
+                        {
+                            "followers":  {
+                                              "total":  1922052
+                                          },
+                            "genres":  [
+                                           "mariachi",
+                                           "bolero",
+                                           "pop latino",
+                                           "ranchera",
+                                           "villancicos"
+                                       ],
+                            "id":  "6123",
+                            "images":  [
+                                           {
+                                               "height":  1000,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/3e8072340c8231b02be241a5113329bc/1000x1000-000000-80-0-0.jpg",
+                                               "width":  1000
+                                           },
+                                           {
+                                               "height":  500,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/3e8072340c8231b02be241a5113329bc/500x500-000000-80-0-0.jpg",
+                                               "width":  500
+                                           },
+                                           {
+                                               "height":  250,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/3e8072340c8231b02be241a5113329bc/250x250-000000-80-0-0.jpg",
+                                               "width":  250
+                                           },
+                                           {
+                                               "height":  56,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/3e8072340c8231b02be241a5113329bc/56x56-000000-80-0-0.jpg",
+                                               "width":  56
+                                           }
+                                       ],
+                            "name":  "Luis Miguel",
+                            "popularity":  79,
+                            "type":  "artist"
+                        }
+                    ],
+        "duration_ms":  226493,
+        "explicit":  false,
+        "id":  "3860299",
+        "name":  "La Mentira",
+        "popularity":  79,
+        "preview_url":  "https://cdnt-preview.dzcdn.net/api/1/1/2/1/f/0/21f6265757495e3809211cd98c18c4cb.mp3?hdnea=exp=1781369006~acl=/api/1/1/2/1/f/0/21f6265757495e3809211cd98c18c4cb.mp3*~data=user_id=0,application_id=42~hmac=a3f04a797884a05d33a27e4e2c784cad322eaee4d13b667c22274b91d68895bb",
+        "track_number":  0,
+        "type":  "track"
+    },
+    {
+        "album":  {
+                      "album_type":  "album",
+                      "total_tracks":  0,
+                      "id":  "93658742",
+                      "images":  [
+                                     {
+                                         "height":  1000,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/99571dc76a267981fc3a649f871c05a6/1000x1000-000000-80-0-0.jpg",
+                                         "width":  1000
+                                     },
+                                     {
+                                         "height":  500,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/99571dc76a267981fc3a649f871c05a6/500x500-000000-80-0-0.jpg",
+                                         "width":  500
+                                     },
+                                     {
+                                         "height":  250,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/99571dc76a267981fc3a649f871c05a6/250x250-000000-80-0-0.jpg",
+                                         "width":  250
+                                     },
+                                     {
+                                         "height":  56,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/99571dc76a267981fc3a649f871c05a6/56x56-000000-80-0-0.jpg",
+                                         "width":  56
+                                     }
+                                 ],
+                      "name":  "Player",
+                      "release_date":  "1977-09-01",
+                      "release_date_precision":  "day",
+                      "type":  "album",
+                      "genres":  [
+                                     "yacht rock"
+                                 ],
+                      "popularity":  83,
+                      "artists":  [
+                                      {
+                                          "followers":  {
+                                                            "total":  4883
+                                                        },
+                                          "genres":  [
+                                                         "yacht rock"
+                                                     ],
+                                          "id":  "5655",
+                                          "images":  [
+                                                         {
+                                                             "height":  1000,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/c7615d90578e1bdef817b08049d7930b/1000x1000-000000-80-0-0.jpg",
+                                                             "width":  1000
+                                                         },
+                                                         {
+                                                             "height":  500,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/c7615d90578e1bdef817b08049d7930b/500x500-000000-80-0-0.jpg",
+                                                             "width":  500
+                                                         },
+                                                         {
+                                                             "height":  250,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/c7615d90578e1bdef817b08049d7930b/250x250-000000-80-0-0.jpg",
+                                                             "width":  250
+                                                         },
+                                                         {
+                                                             "height":  56,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/c7615d90578e1bdef817b08049d7930b/56x56-000000-80-0-0.jpg",
+                                                             "width":  56
+                                                         }
+                                                     ],
+                                          "name":  "Player",
+                                          "popularity":  83,
+                                          "type":  "artist"
+                                      }
+                                  ],
+                      "tracks":  [
+
+                                 ]
+                  },
+        "artists":  [
+                        {
+                            "followers":  {
+                                              "total":  4883
+                                          },
+                            "genres":  [
+                                           "yacht rock"
+                                       ],
+                            "id":  "5655",
+                            "images":  [
+                                           {
+                                               "height":  1000,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/c7615d90578e1bdef817b08049d7930b/1000x1000-000000-80-0-0.jpg",
+                                               "width":  1000
+                                           },
+                                           {
+                                               "height":  500,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/c7615d90578e1bdef817b08049d7930b/500x500-000000-80-0-0.jpg",
+                                               "width":  500
+                                           },
+                                           {
+                                               "height":  250,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/c7615d90578e1bdef817b08049d7930b/250x250-000000-80-0-0.jpg",
+                                               "width":  250
+                                           },
+                                           {
+                                               "height":  56,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/c7615d90578e1bdef817b08049d7930b/56x56-000000-80-0-0.jpg",
+                                               "width":  56
+                                           }
+                                       ],
+                            "name":  "Player",
+                            "popularity":  83,
+                            "type":  "artist"
+                        }
+                    ],
+        "duration_ms":  255845,
+        "explicit":  false,
+        "id":  "665411512",
+        "name":  "Baby Come Back",
+        "popularity":  83,
+        "preview_url":  "https://cdnt-preview.dzcdn.net/api/1/1/1/1/3/0/1137031651e224ab1111832ccc19168f.mp3?hdnea=exp=1781369020~acl=/api/1/1/1/1/3/0/1137031651e224ab1111832ccc19168f.mp3*~data=user_id=0,application_id=42~hmac=df87f23a89cf59eaed5f7b3461028ab2e53dab770363a62c6e07e15ed8051b0d",
+        "track_number":  0,
+        "type":  "track"
+    },
+    {
+        "album":  {
+                      "album_type":  "album",
+                      "total_tracks":  0,
+                      "id":  "68616591",
+                      "images":  [
+                                     {
+                                         "height":  1000,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/b9a111b687d82473b88c9c3dacfe13d1/1000x1000-000000-80-0-0.jpg",
+                                         "width":  1000
+                                     },
+                                     {
+                                         "height":  500,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/b9a111b687d82473b88c9c3dacfe13d1/500x500-000000-80-0-0.jpg",
+                                         "width":  500
+                                     },
+                                     {
+                                         "height":  250,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/b9a111b687d82473b88c9c3dacfe13d1/250x250-000000-80-0-0.jpg",
+                                         "width":  250
+                                     },
+                                     {
+                                         "height":  56,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/b9a111b687d82473b88c9c3dacfe13d1/56x56-000000-80-0-0.jpg",
+                                         "width":  56
+                                     }
+                                 ],
+                      "name":  "Gold - Greatest Hits",
+                      "release_date":  "2000-01-01",
+                      "release_date_precision":  "day",
+                      "type":  "album",
+                      "genres":  [
+                                     "noel",
+                                     "standards pour adultes"
+                                 ],
+                      "popularity":  49,
+                      "artists":  [
+                                      {
+                                          "followers":  {
+                                                            "total":  254822
+                                                        },
+                                          "genres":  [
+                                                         "noel",
+                                                         "standards pour adultes"
+                                                     ],
+                                          "id":  "3102",
+                                          "images":  [
+                                                         {
+                                                             "height":  1000,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/409c218d729d54a936c038b60ccf5fc9/1000x1000-000000-80-0-0.jpg",
+                                                             "width":  1000
+                                                         },
+                                                         {
+                                                             "height":  500,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/409c218d729d54a936c038b60ccf5fc9/500x500-000000-80-0-0.jpg",
+                                                             "width":  500
+                                                         },
+                                                         {
+                                                             "height":  250,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/409c218d729d54a936c038b60ccf5fc9/250x250-000000-80-0-0.jpg",
+                                                             "width":  250
+                                                         },
+                                                         {
+                                                             "height":  56,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/409c218d729d54a936c038b60ccf5fc9/56x56-000000-80-0-0.jpg",
+                                                             "width":  56
+                                                         }
+                                                     ],
+                                          "name":  "Carpenters",
+                                          "popularity":  49,
+                                          "type":  "artist"
+                                      }
+                                  ],
+                      "tracks":  [
+
+                                 ]
+                  },
+        "artists":  [
+                        {
+                            "followers":  {
+                                              "total":  254822
+                                          },
+                            "genres":  [
+                                           "noel",
+                                           "standards pour adultes"
+                                       ],
+                            "id":  "3102",
+                            "images":  [
+                                           {
+                                               "height":  1000,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/409c218d729d54a936c038b60ccf5fc9/1000x1000-000000-80-0-0.jpg",
+                                               "width":  1000
+                                           },
+                                           {
+                                               "height":  500,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/409c218d729d54a936c038b60ccf5fc9/500x500-000000-80-0-0.jpg",
+                                               "width":  500
+                                           },
+                                           {
+                                               "height":  250,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/409c218d729d54a936c038b60ccf5fc9/250x250-000000-80-0-0.jpg",
+                                               "width":  250
+                                           },
+                                           {
+                                               "height":  56,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/409c218d729d54a936c038b60ccf5fc9/56x56-000000-80-0-0.jpg",
+                                               "width":  56
+                                           }
+                                       ],
+                            "name":  "Carpenters",
+                            "popularity":  49,
+                            "type":  "artist"
+                        }
+                    ],
+        "duration_ms":  221293,
+        "explicit":  false,
+        "id":  "529915801",
+        "name":  "(They Long To Be) Close To You - 1991 Remix",
+        "popularity":  49,
+        "preview_url":  "https://cdnt-preview.dzcdn.net/api/1/1/3/f/f/0/3ff05ddd2d1c14d815cd44dcf16b3b32.mp3?hdnea=exp=1781369424~acl=/api/1/1/3/f/f/0/3ff05ddd2d1c14d815cd44dcf16b3b32.mp3*~data=user_id=0,application_id=42~hmac=0174526a9efa298ced775e73d94d2c61ca36c7cee1cef8eacbab127b9ce85879",
+        "track_number":  0,
+        "type":  "track"
+    },
+    {
+        "album":  {
+                      "album_type":  "album",
+                      "total_tracks":  0,
+                      "id":  "13082992",
+                      "images":  [
+                                     {
+                                         "height":  1000,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/56bdb7a86a27fadb96332c0c8f1b8e81/1000x1000-000000-80-0-0.jpg",
+                                         "width":  1000
+                                     },
+                                     {
+                                         "height":  500,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/56bdb7a86a27fadb96332c0c8f1b8e81/500x500-000000-80-0-0.jpg",
+                                         "width":  500
+                                     },
+                                     {
+                                         "height":  250,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/56bdb7a86a27fadb96332c0c8f1b8e81/250x250-000000-80-0-0.jpg",
+                                         "width":  250
+                                     },
+                                     {
+                                         "height":  56,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/56bdb7a86a27fadb96332c0c8f1b8e81/56x56-000000-80-0-0.jpg",
+                                         "width":  56
+                                     }
+                                 ],
+                      "name":  "Views",
+                      "release_date":  "2016-05-06",
+                      "release_date_precision":  "day",
+                      "type":  "album",
+                      "genres":  [
+                                     "rap"
+                                 ],
+                      "popularity":  61,
+                      "artists":  [
+                                      {
+                                          "followers":  {
+                                                            "total":  23988677
+                                                        },
+                                          "genres":  [
+                                                         "rap"
+                                                     ],
+                                          "id":  "246791",
+                                          "images":  [
+                                                         {
+                                                             "height":  1000,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/eb0ed5b21d1ea5af021fc074ded0e91f/1000x1000-000000-80-0-0.jpg",
+                                                             "width":  1000
+                                                         },
+                                                         {
+                                                             "height":  500,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/eb0ed5b21d1ea5af021fc074ded0e91f/500x500-000000-80-0-0.jpg",
+                                                             "width":  500
+                                                         },
+                                                         {
+                                                             "height":  250,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/eb0ed5b21d1ea5af021fc074ded0e91f/250x250-000000-80-0-0.jpg",
+                                                             "width":  250
+                                                         },
+                                                         {
+                                                             "height":  56,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/eb0ed5b21d1ea5af021fc074ded0e91f/56x56-000000-80-0-0.jpg",
+                                                             "width":  56
+                                                         }
+                                                     ],
+                                          "name":  "Drake",
+                                          "popularity":  61,
+                                          "type":  "artist"
+                                      }
+                                  ],
+                      "tracks":  [
+
+                                 ]
+                  },
+        "artists":  [
+                        {
+                            "followers":  {
+                                              "total":  23988677
+                                          },
+                            "genres":  [
+                                           "rap"
+                                       ],
+                            "id":  "246791",
+                            "images":  [
+                                           {
+                                               "height":  1000,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/eb0ed5b21d1ea5af021fc074ded0e91f/1000x1000-000000-80-0-0.jpg",
+                                               "width":  1000
+                                           },
+                                           {
+                                               "height":  500,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/eb0ed5b21d1ea5af021fc074ded0e91f/500x500-000000-80-0-0.jpg",
+                                               "width":  500
+                                           },
+                                           {
+                                               "height":  250,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/eb0ed5b21d1ea5af021fc074ded0e91f/250x250-000000-80-0-0.jpg",
+                                               "width":  250
+                                           },
+                                           {
+                                               "height":  56,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/eb0ed5b21d1ea5af021fc074ded0e91f/56x56-000000-80-0-0.jpg",
+                                               "width":  56
+                                           }
+                                       ],
+                            "name":  "Drake",
+                            "popularity":  61,
+                            "type":  "artist"
+                        }
+                    ],
+        "duration_ms":  267186,
+        "explicit":  false,
+        "id":  "124603286",
+        "name":  "Hotline Bling",
+        "popularity":  61,
+        "preview_url":  "https://cdnt-preview.dzcdn.net/api/1/1/a/c/1/0/ac1d5a7a9a829c0332a6de32a0f8a90b.mp3?hdnea=exp=1781369424~acl=/api/1/1/a/c/1/0/ac1d5a7a9a829c0332a6de32a0f8a90b.mp3*~data=user_id=0,application_id=42~hmac=fcfb06c2b5190ff7c792272b5518a3753a8452d3c4489c445278630e64e602fc",
+        "track_number":  0,
+        "type":  "track"
+    },
+    {
+        "album":  {
+                      "album_type":  "album",
+                      "total_tracks":  0,
+                      "id":  "681815201",
+                      "images":  [
+                                     {
+                                         "height":  1000,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/a6ca7c7fe50c632ea78251817e111394/1000x1000-000000-80-0-0.jpg",
+                                         "width":  1000
+                                     },
+                                     {
+                                         "height":  500,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/a6ca7c7fe50c632ea78251817e111394/500x500-000000-80-0-0.jpg",
+                                         "width":  500
+                                     },
+                                     {
+                                         "height":  250,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/a6ca7c7fe50c632ea78251817e111394/250x250-000000-80-0-0.jpg",
+                                         "width":  250
+                                     },
+                                     {
+                                         "height":  56,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/a6ca7c7fe50c632ea78251817e111394/56x56-000000-80-0-0.jpg",
+                                         "width":  56
+                                     }
+                                 ],
+                      "name":  "Chamber of Reflection (Remixes)",
+                      "release_date":  "2022-10-31",
+                      "release_date_precision":  "day",
+                      "type":  "album",
+                      "genres":  [
+
+                                 ],
+                      "popularity":  42,
+                      "artists":  [
+                                      {
+                                          "followers":  {
+                                                            "total":  1993
+                                                        },
+                                          "genres":  [
+
+                                                     ],
+                                          "id":  "176427477",
+                                          "images":  [
+                                                         {
+                                                             "height":  1000,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/44f3c5d0b5e3adca740db2dabc1b0134/1000x1000-000000-80-0-0.jpg",
+                                                             "width":  1000
+                                                         },
+                                                         {
+                                                             "height":  500,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/44f3c5d0b5e3adca740db2dabc1b0134/500x500-000000-80-0-0.jpg",
+                                                             "width":  500
+                                                         },
+                                                         {
+                                                             "height":  250,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/44f3c5d0b5e3adca740db2dabc1b0134/250x250-000000-80-0-0.jpg",
+                                                             "width":  250
+                                                         },
+                                                         {
+                                                             "height":  56,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/44f3c5d0b5e3adca740db2dabc1b0134/56x56-000000-80-0-0.jpg",
+                                                             "width":  56
+                                                         }
+                                                     ],
+                                          "name":  "Your Anxiety Buddy",
+                                          "popularity":  42,
+                                          "type":  "artist"
+                                      }
+                                  ],
+                      "tracks":  [
+
+                                 ]
+                  },
+        "artists":  [
+                        {
+                            "followers":  {
+                                              "total":  1993
+                                          },
+                            "genres":  [
+
+                                       ],
+                            "id":  "176427477",
+                            "images":  [
+                                           {
+                                               "height":  1000,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/44f3c5d0b5e3adca740db2dabc1b0134/1000x1000-000000-80-0-0.jpg",
+                                               "width":  1000
+                                           },
+                                           {
+                                               "height":  500,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/44f3c5d0b5e3adca740db2dabc1b0134/500x500-000000-80-0-0.jpg",
+                                               "width":  500
+                                           },
+                                           {
+                                               "height":  250,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/44f3c5d0b5e3adca740db2dabc1b0134/250x250-000000-80-0-0.jpg",
+                                               "width":  250
+                                           },
+                                           {
+                                               "height":  56,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/44f3c5d0b5e3adca740db2dabc1b0134/56x56-000000-80-0-0.jpg",
+                                               "width":  56
+                                           }
+                                       ],
+                            "name":  "Your Anxiety Buddy",
+                            "popularity":  42,
+                            "type":  "artist"
+                        }
+                    ],
+        "duration_ms":  177455,
+        "explicit":  false,
+        "id":  "3134747851",
+        "name":  "Chamber of Reflection - Slowed + Reverb",
+        "popularity":  42,
+        "preview_url":  "https://cdnt-preview.dzcdn.net/api/1/1/9/0/3/0/903483dc97fdda6ae07f2f6a2b731467.mp3?hdnea=exp=1781369425~acl=/api/1/1/9/0/3/0/903483dc97fdda6ae07f2f6a2b731467.mp3*~data=user_id=0,application_id=42~hmac=dab54fd677ac67884d80fe0b1dc1086e2835f0509c46a6ca12b11da13bdd3366",
+        "track_number":  0,
+        "type":  "track"
+    },
+    {
+        "album":  {
+                      "album_type":  "album",
+                      "total_tracks":  0,
+                      "id":  "272158472",
+                      "images":  [
+                                     {
+                                         "height":  1000,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/76d616139ae41c2e14dc643832c92808/1000x1000-000000-80-0-0.jpg",
+                                         "width":  1000
+                                     },
+                                     {
+                                         "height":  500,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/76d616139ae41c2e14dc643832c92808/500x500-000000-80-0-0.jpg",
+                                         "width":  500
+                                     },
+                                     {
+                                         "height":  250,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/76d616139ae41c2e14dc643832c92808/250x250-000000-80-0-0.jpg",
+                                         "width":  250
+                                     },
+                                     {
+                                         "height":  56,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/76d616139ae41c2e14dc643832c92808/56x56-000000-80-0-0.jpg",
+                                         "width":  56
+                                     }
+                                 ],
+                      "name":  "I Love You So",
+                      "release_date":  "2014-11-28",
+                      "release_date_precision":  "day",
+                      "type":  "album",
+                      "genres":  [
+
+                                 ],
+                      "popularity":  88,
+                      "artists":  [
+                                      {
+                                          "followers":  {
+                                                            "total":  33887
+                                                        },
+                                          "genres":  [
+
+                                                     ],
+                                          "id":  "4522497",
+                                          "images":  [
+                                                         {
+                                                             "height":  1000,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/fbbab7483eaec12f5ae9147dcddc1b86/1000x1000-000000-80-0-0.jpg",
+                                                             "width":  1000
+                                                         },
+                                                         {
+                                                             "height":  500,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/fbbab7483eaec12f5ae9147dcddc1b86/500x500-000000-80-0-0.jpg",
+                                                             "width":  500
+                                                         },
+                                                         {
+                                                             "height":  250,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/fbbab7483eaec12f5ae9147dcddc1b86/250x250-000000-80-0-0.jpg",
+                                                             "width":  250
+                                                         },
+                                                         {
+                                                             "height":  56,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/fbbab7483eaec12f5ae9147dcddc1b86/56x56-000000-80-0-0.jpg",
+                                                             "width":  56
+                                                         }
+                                                     ],
+                                          "name":  "The Walters",
+                                          "popularity":  88,
+                                          "type":  "artist"
+                                      }
+                                  ],
+                      "tracks":  [
+
+                                 ]
+                  },
+        "artists":  [
+                        {
+                            "followers":  {
+                                              "total":  33887
+                                          },
+                            "genres":  [
+
+                                       ],
+                            "id":  "4522497",
+                            "images":  [
+                                           {
+                                               "height":  1000,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/fbbab7483eaec12f5ae9147dcddc1b86/1000x1000-000000-80-0-0.jpg",
+                                               "width":  1000
+                                           },
+                                           {
+                                               "height":  500,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/fbbab7483eaec12f5ae9147dcddc1b86/500x500-000000-80-0-0.jpg",
+                                               "width":  500
+                                           },
+                                           {
+                                               "height":  250,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/fbbab7483eaec12f5ae9147dcddc1b86/250x250-000000-80-0-0.jpg",
+                                               "width":  250
+                                           },
+                                           {
+                                               "height":  56,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/fbbab7483eaec12f5ae9147dcddc1b86/56x56-000000-80-0-0.jpg",
+                                               "width":  56
+                                           }
+                                       ],
+                            "name":  "The Walters",
+                            "popularity":  88,
+                            "type":  "artist"
+                        }
+                    ],
+        "duration_ms":  160239,
+        "explicit":  false,
+        "id":  "1550633012",
+        "name":  "I Love You So",
+        "popularity":  88,
+        "preview_url":  "https://cdnt-preview.dzcdn.net/api/1/1/d/2/c/0/d2cd0fe035817f0398a3a71100171186.mp3?hdnea=exp=1781369425~acl=/api/1/1/d/2/c/0/d2cd0fe035817f0398a3a71100171186.mp3*~data=user_id=0,application_id=42~hmac=415c5d1e460ac2f23fc5a40a1f78dc1e9dd8eccdb9dff564f54bcefa479ea93f",
+        "track_number":  0,
+        "type":  "track"
+    },
+    {
+        "album":  {
+                      "album_type":  "album",
+                      "total_tracks":  0,
+                      "id":  "693483721",
+                      "images":  [
+                                     {
+                                         "height":  1000,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/45f0f10df9b07a42826843c122192603/1000x1000-000000-80-0-0.jpg",
+                                         "width":  1000
+                                     },
+                                     {
+                                         "height":  500,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/45f0f10df9b07a42826843c122192603/500x500-000000-80-0-0.jpg",
+                                         "width":  500
+                                     },
+                                     {
+                                         "height":  250,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/45f0f10df9b07a42826843c122192603/250x250-000000-80-0-0.jpg",
+                                         "width":  250
+                                     },
+                                     {
+                                         "height":  56,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/45f0f10df9b07a42826843c122192603/56x56-000000-80-0-0.jpg",
+                                         "width":  56
+                                     }
+                                 ],
+                      "name":  "U Weren\u0027t Here I Really Miss You (slowed)",
+                      "release_date":  "2025-01-07",
+                      "release_date_precision":  "day",
+                      "type":  "album",
+                      "genres":  [
+                                     "house lo-fi"
+                                 ],
+                      "popularity":  69,
+                      "artists":  [
+                                      {
+                                          "followers":  {
+                                                            "total":  0
+                                                        },
+                                          "genres":  [
+                                                         "house lo-fi"
+                                                     ],
+                                          "id":  "cult member;mia martina",
+                                          "images":  [
+
+                                                     ],
+                                          "name":  "Cult Member;Mia Martina",
+                                          "popularity":  69,
+                                          "type":  "artist"
+                                      }
+                                  ],
+                      "tracks":  [
+
+                                 ]
+                  },
+        "artists":  [
+                        {
+                            "followers":  {
+                                              "total":  0
+                                          },
+                            "genres":  [
+                                           "house lo-fi"
+                                       ],
+                            "id":  "cult member;mia martina",
+                            "images":  [
+
+                                       ],
+                            "name":  "Cult Member;Mia Martina",
+                            "popularity":  69,
+                            "type":  "artist"
+                        }
+                    ],
+        "duration_ms":  188464,
+        "explicit":  false,
+        "id":  "3172329621",
+        "name":  "U Weren\u0027t Here I Really Miss You - slowed",
+        "popularity":  69,
+        "preview_url":  "https://cdnt-preview.dzcdn.net/api/1/1/2/8/9/0/2898d776d7673abab5ec071bee6f44ec.mp3?hdnea=exp=1781369425~acl=/api/1/1/2/8/9/0/2898d776d7673abab5ec071bee6f44ec.mp3*~data=user_id=0,application_id=42~hmac=570d1a4bee4396b3a77ca6edb15f8915799c14d0ed4bfa590bfbf7188b8f3547",
+        "track_number":  0,
+        "type":  "track"
+    },
+    {
+        "album":  {
+                      "album_type":  "album",
+                      "total_tracks":  0,
+                      "id":  "796024451",
+                      "images":  [
+                                     {
+                                         "height":  1000,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/542f3cf269ecd13c216546a718a6dc22/1000x1000-000000-80-0-0.jpg",
+                                         "width":  1000
+                                     },
+                                     {
+                                         "height":  500,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/542f3cf269ecd13c216546a718a6dc22/500x500-000000-80-0-0.jpg",
+                                         "width":  500
+                                     },
+                                     {
+                                         "height":  250,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/542f3cf269ecd13c216546a718a6dc22/250x250-000000-80-0-0.jpg",
+                                         "width":  250
+                                     },
+                                     {
+                                         "height":  56,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/542f3cf269ecd13c216546a718a6dc22/56x56-000000-80-0-0.jpg",
+                                         "width":  56
+                                     }
+                                 ],
+                      "name":  "Mulholland Drive",
+                      "release_date":  "2021-08-27",
+                      "release_date_precision":  "day",
+                      "type":  "album",
+                      "genres":  [
+
+                                 ],
+                      "popularity":  32,
+                      "artists":  [
+                                      {
+                                          "followers":  {
+                                                            "total":  113
+                                                        },
+                                          "genres":  [
+
+                                                     ],
+                                          "id":  "261616821",
+                                          "images":  [
+                                                         {
+                                                             "height":  1000,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist//1000x1000-000000-80-0-0.jpg",
+                                                             "width":  1000
+                                                         },
+                                                         {
+                                                             "height":  500,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist//500x500-000000-80-0-0.jpg",
+                                                             "width":  500
+                                                         },
+                                                         {
+                                                             "height":  250,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist//250x250-000000-80-0-0.jpg",
+                                                             "width":  250
+                                                         },
+                                                         {
+                                                             "height":  56,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist//56x56-000000-80-0-0.jpg",
+                                                             "width":  56
+                                                         }
+                                                     ],
+                                          "name":  "Eyedress;Dent May",
+                                          "popularity":  32,
+                                          "type":  "artist"
+                                      }
+                                  ],
+                      "tracks":  [
+
+                                 ]
+                  },
+        "artists":  [
+                        {
+                            "followers":  {
+                                              "total":  113
+                                          },
+                            "genres":  [
+
+                                       ],
+                            "id":  "261616821",
+                            "images":  [
+                                           {
+                                               "height":  1000,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist//1000x1000-000000-80-0-0.jpg",
+                                               "width":  1000
+                                           },
+                                           {
+                                               "height":  500,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist//500x500-000000-80-0-0.jpg",
+                                               "width":  500
+                                           },
+                                           {
+                                               "height":  250,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist//250x250-000000-80-0-0.jpg",
+                                               "width":  250
+                                           },
+                                           {
+                                               "height":  56,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist//56x56-000000-80-0-0.jpg",
+                                               "width":  56
+                                           }
+                                       ],
+                            "name":  "Eyedress;Dent May",
+                            "popularity":  32,
+                            "type":  "artist"
+                        }
+                    ],
+        "duration_ms":  153312,
+        "explicit":  false,
+        "id":  "3482752551",
+        "name":  "Something About You",
+        "popularity":  32,
+        "preview_url":  "https://cdnt-preview.dzcdn.net/api/1/1/f/5/c/0/f5cf1e256313d1394eac582ab40d912a.mp3?hdnea=exp=1781368968~acl=/api/1/1/f/5/c/0/f5cf1e256313d1394eac582ab40d912a.mp3*~data=user_id=0,application_id=42~hmac=1e6f55a5efded7e02b5d5de731702941d7c41c99d7031fd249315e4c475da369",
+        "track_number":  0,
+        "type":  "track"
+    },
+    {
+        "album":  {
+                      "album_type":  "album",
+                      "total_tracks":  0,
+                      "id":  "318676647",
+                      "images":  [
+                                     {
+                                         "height":  1000,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/b7fbbf269348650cee5dd6c5e3df4127/1000x1000-000000-80-0-0.jpg",
+                                         "width":  1000
+                                     },
+                                     {
+                                         "height":  500,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/b7fbbf269348650cee5dd6c5e3df4127/500x500-000000-80-0-0.jpg",
+                                         "width":  500
+                                     },
+                                     {
+                                         "height":  250,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/b7fbbf269348650cee5dd6c5e3df4127/250x250-000000-80-0-0.jpg",
+                                         "width":  250
+                                     },
+                                     {
+                                         "height":  56,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/b7fbbf269348650cee5dd6c5e3df4127/56x56-000000-80-0-0.jpg",
+                                         "width":  56
+                                     }
+                                 ],
+                      "name":  "French Exit",
+                      "release_date":  "2014-06-05",
+                      "release_date_precision":  "day",
+                      "type":  "album",
+                      "genres":  [
+
+                                 ],
+                      "popularity":  89,
+                      "artists":  [
+                                      {
+                                          "followers":  {
+                                                            "total":  421130
+                                                        },
+                                          "genres":  [
+
+                                                     ],
+                                          "id":  "1683410",
+                                          "images":  [
+                                                         {
+                                                             "height":  1000,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/9cec5aa40642063a408ba52be1310b20/1000x1000-000000-80-0-0.jpg",
+                                                             "width":  1000
+                                                         },
+                                                         {
+                                                             "height":  500,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/9cec5aa40642063a408ba52be1310b20/500x500-000000-80-0-0.jpg",
+                                                             "width":  500
+                                                         },
+                                                         {
+                                                             "height":  250,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/9cec5aa40642063a408ba52be1310b20/250x250-000000-80-0-0.jpg",
+                                                             "width":  250
+                                                         },
+                                                         {
+                                                             "height":  56,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/9cec5aa40642063a408ba52be1310b20/56x56-000000-80-0-0.jpg",
+                                                             "width":  56
+                                                         }
+                                                     ],
+                                          "name":  "TV Girl",
+                                          "popularity":  89,
+                                          "type":  "artist"
+                                      }
+                                  ],
+                      "tracks":  [
+
+                                 ]
+                  },
+        "artists":  [
+                        {
+                            "followers":  {
+                                              "total":  421130
+                                          },
+                            "genres":  [
+
+                                       ],
+                            "id":  "1683410",
+                            "images":  [
+                                           {
+                                               "height":  1000,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/9cec5aa40642063a408ba52be1310b20/1000x1000-000000-80-0-0.jpg",
+                                               "width":  1000
+                                           },
+                                           {
+                                               "height":  500,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/9cec5aa40642063a408ba52be1310b20/500x500-000000-80-0-0.jpg",
+                                               "width":  500
+                                           },
+                                           {
+                                               "height":  250,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/9cec5aa40642063a408ba52be1310b20/250x250-000000-80-0-0.jpg",
+                                               "width":  250
+                                           },
+                                           {
+                                               "height":  56,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/9cec5aa40642063a408ba52be1310b20/56x56-000000-80-0-0.jpg",
+                                               "width":  56
+                                           }
+                                       ],
+                            "name":  "TV Girl",
+                            "popularity":  89,
+                            "type":  "artist"
+                        }
+                    ],
+        "duration_ms":  213920,
+        "explicit":  false,
+        "id":  "1751426027",
+        "name":  "Lovers Rock",
+        "popularity":  89,
+        "preview_url":  "https://cdnt-preview.dzcdn.net/api/1/1/e/6/7/0/e6798f8a8096a28b09eeb470713ee088.mp3?hdnea=exp=1781368977~acl=/api/1/1/e/6/7/0/e6798f8a8096a28b09eeb470713ee088.mp3*~data=user_id=0,application_id=42~hmac=631d253d26615e096ad98c1d66ddbd6b00b58b07201d39c00664b5a287862910",
+        "track_number":  0,
+        "type":  "track"
+    },
+    {
+        "album":  {
+                      "album_type":  "album",
+                      "total_tracks":  0,
+                      "id":  "1261478",
+                      "images":  [
+                                     {
+                                         "height":  1000,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/8252e9d1e87b9048ea1252f29bce2c5b/1000x1000-000000-80-0-0.jpg",
+                                         "width":  1000
+                                     },
+                                     {
+                                         "height":  500,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/8252e9d1e87b9048ea1252f29bce2c5b/500x500-000000-80-0-0.jpg",
+                                         "width":  500
+                                     },
+                                     {
+                                         "height":  250,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/8252e9d1e87b9048ea1252f29bce2c5b/250x250-000000-80-0-0.jpg",
+                                         "width":  250
+                                     },
+                                     {
+                                         "height":  56,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/8252e9d1e87b9048ea1252f29bce2c5b/56x56-000000-80-0-0.jpg",
+                                         "width":  56
+                                     }
+                                 ],
+                      "name":  "80\u0027s Chilled",
+                      "release_date":  "2023-04-27",
+                      "release_date_precision":  "day",
+                      "type":  "album",
+                      "genres":  [
+                                     "new wave",
+                                     "madchester",
+                                     "jangle pop"
+                                 ],
+                      "popularity":  12,
+                      "artists":  [
+                                      {
+                                          "followers":  {
+                                                            "total":  1485096
+                                                        },
+                                          "genres":  [
+                                                         "new wave",
+                                                         "madchester",
+                                                         "jangle pop"
+                                                     ],
+                                          "id":  "1297",
+                                          "images":  [
+                                                         {
+                                                             "height":  1000,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/458e4ee61a7fc57a79ac2b9b20c47bd9/1000x1000-000000-80-0-0.jpg",
+                                                             "width":  1000
+                                                         },
+                                                         {
+                                                             "height":  500,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/458e4ee61a7fc57a79ac2b9b20c47bd9/500x500-000000-80-0-0.jpg",
+                                                             "width":  500
+                                                         },
+                                                         {
+                                                             "height":  250,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/458e4ee61a7fc57a79ac2b9b20c47bd9/250x250-000000-80-0-0.jpg",
+                                                             "width":  250
+                                                         },
+                                                         {
+                                                             "height":  56,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/458e4ee61a7fc57a79ac2b9b20c47bd9/56x56-000000-80-0-0.jpg",
+                                                             "width":  56
+                                                         }
+                                                     ],
+                                          "name":  "The Smiths",
+                                          "popularity":  12,
+                                          "type":  "artist"
+                                      }
+                                  ],
+                      "tracks":  [
+
+                                 ]
+                  },
+        "artists":  [
+                        {
+                            "followers":  {
+                                              "total":  1485096
+                                          },
+                            "genres":  [
+                                           "new wave",
+                                           "madchester",
+                                           "jangle pop"
+                                       ],
+                            "id":  "1297",
+                            "images":  [
+                                           {
+                                               "height":  1000,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/458e4ee61a7fc57a79ac2b9b20c47bd9/1000x1000-000000-80-0-0.jpg",
+                                               "width":  1000
+                                           },
+                                           {
+                                               "height":  500,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/458e4ee61a7fc57a79ac2b9b20c47bd9/500x500-000000-80-0-0.jpg",
+                                               "width":  500
+                                           },
+                                           {
+                                               "height":  250,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/458e4ee61a7fc57a79ac2b9b20c47bd9/250x250-000000-80-0-0.jpg",
+                                               "width":  250
+                                           },
+                                           {
+                                               "height":  56,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/458e4ee61a7fc57a79ac2b9b20c47bd9/56x56-000000-80-0-0.jpg",
+                                               "width":  56
+                                           }
+                                       ],
+                            "name":  "The Smiths",
+                            "popularity":  12,
+                            "type":  "artist"
+                        }
+                    ],
+        "duration_ms":  186626,
+        "explicit":  false,
+        "id":  "13786025",
+        "name":  "Back to the Old House - 2011 Remaster",
+        "popularity":  12,
+        "preview_url":  "https://cdnt-preview.dzcdn.net/api/1/1/7/1/5/0/715f88809316e6769e6ecce23c71f40a.mp3?hdnea=exp=1781369425~acl=/api/1/1/7/1/5/0/715f88809316e6769e6ecce23c71f40a.mp3*~data=user_id=0,application_id=42~hmac=eb2bd3679614ee9da8ed53a92ce39126c910062c5471bcbca0cb205e64356c0d",
+        "track_number":  0,
+        "type":  "track"
+    },
+    {
+        "album":  {
+                      "album_type":  "album",
+                      "total_tracks":  0,
+                      "id":  "302858577",
+                      "images":  [
+                                     {
+                                         "height":  1000,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/1b30d8ea595513ac91c92126b37cfe49/1000x1000-000000-80-0-0.jpg",
+                                         "width":  1000
+                                     },
+                                     {
+                                         "height":  500,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/1b30d8ea595513ac91c92126b37cfe49/500x500-000000-80-0-0.jpg",
+                                         "width":  500
+                                     },
+                                     {
+                                         "height":  250,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/1b30d8ea595513ac91c92126b37cfe49/250x250-000000-80-0-0.jpg",
+                                         "width":  250
+                                     },
+                                     {
+                                         "height":  56,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/1b30d8ea595513ac91c92126b37cfe49/56x56-000000-80-0-0.jpg",
+                                         "width":  56
+                                     }
+                                 ],
+                      "name":  "Off Cuts",
+                      "release_date":  "2022-06-03",
+                      "release_date_precision":  "day",
+                      "type":  "album",
+                      "genres":  [
+
+                                 ],
+                      "popularity":  68,
+                      "artists":  [
+                                      {
+                                          "followers":  {
+                                                            "total":  0
+                                                        },
+                                          "genres":  [
+
+                                                     ],
+                                          "id":  "frou frou;imogen heap;guy sigsworth",
+                                          "images":  [
+
+                                                     ],
+                                          "name":  "Frou Frou;Imogen Heap;Guy Sigsworth",
+                                          "popularity":  68,
+                                          "type":  "artist"
+                                      }
+                                  ],
+                      "tracks":  [
+
+                                 ]
+                  },
+        "artists":  [
+                        {
+                            "followers":  {
+                                              "total":  0
+                                          },
+                            "genres":  [
+
+                                       ],
+                            "id":  "frou frou;imogen heap;guy sigsworth",
+                            "images":  [
+
+                                       ],
+                            "name":  "Frou Frou;Imogen Heap;Guy Sigsworth",
+                            "popularity":  68,
+                            "type":  "artist"
+                        }
+                    ],
+        "duration_ms":  260733,
+        "explicit":  false,
+        "id":  "1685295467",
+        "name":  "A New Kind Of Love - Demo",
+        "popularity":  68,
+        "preview_url":  "https://cdnt-preview.dzcdn.net/api/1/1/0/5/3/0/053dd46342e8397d1ea0295604a9953c.mp3?hdnea=exp=1781368964~acl=/api/1/1/0/5/3/0/053dd46342e8397d1ea0295604a9953c.mp3*~data=user_id=0,application_id=42~hmac=32d2daf66b6f23a09545d0370baa5bc9052f7e73d53f5ac6b94680625d8944de",
+        "track_number":  0,
+        "type":  "track"
+    },
+    {
+        "album":  {
+                      "album_type":  "album",
+                      "total_tracks":  0,
+                      "id":  "706299731",
+                      "images":  [
+                                     {
+                                         "height":  1000,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/b47a9dec64c94a1b60114cf229953db7/1000x1000-000000-80-0-0.jpg",
+                                         "width":  1000
+                                     },
+                                     {
+                                         "height":  500,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/b47a9dec64c94a1b60114cf229953db7/500x500-000000-80-0-0.jpg",
+                                         "width":  500
+                                     },
+                                     {
+                                         "height":  250,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/b47a9dec64c94a1b60114cf229953db7/250x250-000000-80-0-0.jpg",
+                                         "width":  250
+                                     },
+                                     {
+                                         "height":  56,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/b47a9dec64c94a1b60114cf229953db7/56x56-000000-80-0-0.jpg",
+                                         "width":  56
+                                     }
+                                 ],
+                      "name":  "Stephanie (Sped Up \u0026 Slowed)",
+                      "release_date":  "2023-09-15",
+                      "release_date_precision":  "day",
+                      "type":  "album",
+                      "genres":  [
+
+                                 ],
+                      "popularity":  58,
+                      "artists":  [
+                                      {
+                                          "followers":  {
+                                                            "total":  0
+                                                        },
+                                          "genres":  [
+
+                                                     ],
+                                          "id":  "nafeesisboujee;10x",
+                                          "images":  [
+
+                                                     ],
+                                          "name":  "Nafeesisboujee;10X",
+                                          "popularity":  58,
+                                          "type":  "artist"
+                                      }
+                                  ],
+                      "tracks":  [
+
+                                 ]
+                  },
+        "artists":  [
+                        {
+                            "followers":  {
+                                              "total":  0
+                                          },
+                            "genres":  [
+
+                                       ],
+                            "id":  "nafeesisboujee;10x",
+                            "images":  [
+
+                                       ],
+                            "name":  "Nafeesisboujee;10X",
+                            "popularity":  58,
+                            "type":  "artist"
+                        }
+                    ],
+        "duration_ms":  142515,
+        "explicit":  true,
+        "id":  "3212779771",
+        "name":  "Stephanie - Slowed",
+        "popularity":  58,
+        "preview_url":  "https://cdnt-preview.dzcdn.net/api/1/1/2/8/9/0/28915b16e97a628d5f4c9eea1dc3e6e0.mp3?hdnea=exp=1781369426~acl=/api/1/1/2/8/9/0/28915b16e97a628d5f4c9eea1dc3e6e0.mp3*~data=user_id=0,application_id=42~hmac=b176d494f9dae4893af063659390acf35b58e605b9fd3713ba8a9f96b2fb9e79",
+        "track_number":  0,
+        "type":  "track"
+    },
+    {
+        "album":  {
+                      "album_type":  "album",
+                      "total_tracks":  0,
+                      "id":  "1335279",
+                      "images":  [
+                                     {
+                                         "height":  1000,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/bb61a054494a99eba6467d8364e3380c/1000x1000-000000-80-0-0.jpg",
+                                         "width":  1000
+                                     },
+                                     {
+                                         "height":  500,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/bb61a054494a99eba6467d8364e3380c/500x500-000000-80-0-0.jpg",
+                                         "width":  500
+                                     },
+                                     {
+                                         "height":  250,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/bb61a054494a99eba6467d8364e3380c/250x250-000000-80-0-0.jpg",
+                                         "width":  250
+                                     },
+                                     {
+                                         "height":  56,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/bb61a054494a99eba6467d8364e3380c/56x56-000000-80-0-0.jpg",
+                                         "width":  56
+                                     }
+                                 ],
+                      "name":  "Ladies \u0026 Gentlemen",
+                      "release_date":  "1998-11-09",
+                      "release_date_precision":  "day",
+                      "type":  "album",
+                      "genres":  [
+
+                                 ],
+                      "popularity":  80,
+                      "artists":  [
+                                      {
+                                          "followers":  {
+                                                            "total":  1479023
+                                                        },
+                                          "genres":  [
+
+                                                     ],
+                                          "id":  "3098",
+                                          "images":  [
+                                                         {
+                                                             "height":  1000,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/4dda8cb6478e01df479cc4b01ce534d4/1000x1000-000000-80-0-0.jpg",
+                                                             "width":  1000
+                                                         },
+                                                         {
+                                                             "height":  500,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/4dda8cb6478e01df479cc4b01ce534d4/500x500-000000-80-0-0.jpg",
+                                                             "width":  500
+                                                         },
+                                                         {
+                                                             "height":  250,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/4dda8cb6478e01df479cc4b01ce534d4/250x250-000000-80-0-0.jpg",
+                                                             "width":  250
+                                                         },
+                                                         {
+                                                             "height":  56,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/4dda8cb6478e01df479cc4b01ce534d4/56x56-000000-80-0-0.jpg",
+                                                             "width":  56
+                                                         }
+                                                     ],
+                                          "name":  "George Michael",
+                                          "popularity":  80,
+                                          "type":  "artist"
+                                      }
+                                  ],
+                      "tracks":  [
+
+                                 ]
+                  },
+        "artists":  [
+                        {
+                            "followers":  {
+                                              "total":  1479023
+                                          },
+                            "genres":  [
+
+                                       ],
+                            "id":  "3098",
+                            "images":  [
+                                           {
+                                               "height":  1000,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/4dda8cb6478e01df479cc4b01ce534d4/1000x1000-000000-80-0-0.jpg",
+                                               "width":  1000
+                                           },
+                                           {
+                                               "height":  500,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/4dda8cb6478e01df479cc4b01ce534d4/500x500-000000-80-0-0.jpg",
+                                               "width":  500
+                                           },
+                                           {
+                                               "height":  250,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/4dda8cb6478e01df479cc4b01ce534d4/250x250-000000-80-0-0.jpg",
+                                               "width":  250
+                                           },
+                                           {
+                                               "height":  56,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/4dda8cb6478e01df479cc4b01ce534d4/56x56-000000-80-0-0.jpg",
+                                               "width":  56
+                                           }
+                                       ],
+                            "name":  "George Michael",
+                            "popularity":  80,
+                            "type":  "artist"
+                        }
+                    ],
+        "duration_ms":  300106,
+        "explicit":  false,
+        "id":  "14525086",
+        "name":  "Careless Whisper",
+        "popularity":  80,
+        "preview_url":  "https://cdnt-preview.dzcdn.net/api/1/1/a/9/1/0/a91845f6dd1265c2f85a3f716d9029e5.mp3?hdnea=exp=1781369426~acl=/api/1/1/a/9/1/0/a91845f6dd1265c2f85a3f716d9029e5.mp3*~data=user_id=0,application_id=42~hmac=d7f4e37374d21b44f051e41de9059ace65bef0aaa2d64d1a8ccdc0b76f31a9d7",
+        "track_number":  0,
+        "type":  "track"
+    },
+    {
+        "album":  {
+                      "album_type":  "album",
+                      "total_tracks":  0,
+                      "id":  "226383",
+                      "images":  [
+                                     {
+                                         "height":  1000,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/22abb990857654105f908a558ea78bc1/1000x1000-000000-80-0-0.jpg",
+                                         "width":  1000
+                                     },
+                                     {
+                                         "height":  500,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/22abb990857654105f908a558ea78bc1/500x500-000000-80-0-0.jpg",
+                                         "width":  500
+                                     },
+                                     {
+                                         "height":  250,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/22abb990857654105f908a558ea78bc1/250x250-000000-80-0-0.jpg",
+                                         "width":  250
+                                     },
+                                     {
+                                         "height":  56,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/22abb990857654105f908a558ea78bc1/56x56-000000-80-0-0.jpg",
+                                         "width":  56
+                                     }
+                                 ],
+                      "name":  "Dynasty",
+                      "release_date":  "1979-03-23",
+                      "release_date_precision":  "day",
+                      "type":  "album",
+                      "genres":  [
+                                     "glam rock",
+                                     "glam metal",
+                                     "hard rock",
+                                     "rock",
+                                     "rock classique"
+                                 ],
+                      "popularity":  88,
+                      "artists":  [
+                                      {
+                                          "followers":  {
+                                                            "total":  2882060
+                                                        },
+                                          "genres":  [
+                                                         "glam rock",
+                                                         "glam metal",
+                                                         "hard rock",
+                                                         "rock",
+                                                         "rock classique"
+                                                     ],
+                                          "id":  "67",
+                                          "images":  [
+                                                         {
+                                                             "height":  1000,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/d841e3ff7379c9272005e53f1c46f5b9/1000x1000-000000-80-0-0.jpg",
+                                                             "width":  1000
+                                                         },
+                                                         {
+                                                             "height":  500,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/d841e3ff7379c9272005e53f1c46f5b9/500x500-000000-80-0-0.jpg",
+                                                             "width":  500
+                                                         },
+                                                         {
+                                                             "height":  250,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/d841e3ff7379c9272005e53f1c46f5b9/250x250-000000-80-0-0.jpg",
+                                                             "width":  250
+                                                         },
+                                                         {
+                                                             "height":  56,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/d841e3ff7379c9272005e53f1c46f5b9/56x56-000000-80-0-0.jpg",
+                                                             "width":  56
+                                                         }
+                                                     ],
+                                          "name":  "KISS",
+                                          "popularity":  88,
+                                          "type":  "artist"
+                                      }
+                                  ],
+                      "tracks":  [
+
+                                 ]
+                  },
+        "artists":  [
+                        {
+                            "followers":  {
+                                              "total":  2882060
+                                          },
+                            "genres":  [
+                                           "glam rock",
+                                           "glam metal",
+                                           "hard rock",
+                                           "rock",
+                                           "rock classique"
+                                       ],
+                            "id":  "67",
+                            "images":  [
+                                           {
+                                               "height":  1000,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/d841e3ff7379c9272005e53f1c46f5b9/1000x1000-000000-80-0-0.jpg",
+                                               "width":  1000
+                                           },
+                                           {
+                                               "height":  500,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/d841e3ff7379c9272005e53f1c46f5b9/500x500-000000-80-0-0.jpg",
+                                               "width":  500
+                                           },
+                                           {
+                                               "height":  250,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/d841e3ff7379c9272005e53f1c46f5b9/250x250-000000-80-0-0.jpg",
+                                               "width":  250
+                                           },
+                                           {
+                                               "height":  56,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/d841e3ff7379c9272005e53f1c46f5b9/56x56-000000-80-0-0.jpg",
+                                               "width":  56
+                                           }
+                                       ],
+                            "name":  "KISS",
+                            "popularity":  88,
+                            "type":  "artist"
+                        }
+                    ],
+        "duration_ms":  271240,
+        "explicit":  false,
+        "id":  "2267042",
+        "name":  "I Was Made For Lovin\u0027 You",
+        "popularity":  88,
+        "preview_url":  "https://cdnt-preview.dzcdn.net/api/1/1/8/c/c/0/8cccbbcb96ba46aac96d45cb76f9ba2f.mp3?hdnea=exp=1781369426~acl=/api/1/1/8/c/c/0/8cccbbcb96ba46aac96d45cb76f9ba2f.mp3*~data=user_id=0,application_id=42~hmac=aee134c36da971424922ece43a7130448c9ebb821dbb0fcccd9623f4c09cd7be",
+        "track_number":  0,
+        "type":  "track"
+    },
+    {
+        "album":  {
+                      "album_type":  "album",
+                      "total_tracks":  0,
+                      "id":  "387620307",
+                      "images":  [
+                                     {
+                                         "height":  1000,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/cdf6215c1f076422f9c37bda9877f36c/1000x1000-000000-80-0-0.jpg",
+                                         "width":  1000
+                                     },
+                                     {
+                                         "height":  500,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/cdf6215c1f076422f9c37bda9877f36c/500x500-000000-80-0-0.jpg",
+                                         "width":  500
+                                     },
+                                     {
+                                         "height":  250,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/cdf6215c1f076422f9c37bda9877f36c/250x250-000000-80-0-0.jpg",
+                                         "width":  250
+                                     },
+                                     {
+                                         "height":  56,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/cdf6215c1f076422f9c37bda9877f36c/56x56-000000-80-0-0.jpg",
+                                         "width":  56
+                                     }
+                                 ],
+                      "name":  "Sex, Drugs, Etc. (Sped Up Version)",
+                      "release_date":  "2022-12-16",
+                      "release_date_precision":  "day",
+                      "type":  "album",
+                      "genres":  [
+
+                                 ],
+                      "popularity":  65,
+                      "artists":  [
+                                      {
+                                          "followers":  {
+                                                            "total":  32675
+                                                        },
+                                          "genres":  [
+
+                                                     ],
+                                          "id":  "8728650",
+                                          "images":  [
+                                                         {
+                                                             "height":  1000,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/23bfb822f2cd3067bdd01de2b1c81d7d/1000x1000-000000-80-0-0.jpg",
+                                                             "width":  1000
+                                                         },
+                                                         {
+                                                             "height":  500,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/23bfb822f2cd3067bdd01de2b1c81d7d/500x500-000000-80-0-0.jpg",
+                                                             "width":  500
+                                                         },
+                                                         {
+                                                             "height":  250,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/23bfb822f2cd3067bdd01de2b1c81d7d/250x250-000000-80-0-0.jpg",
+                                                             "width":  250
+                                                         },
+                                                         {
+                                                             "height":  56,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/23bfb822f2cd3067bdd01de2b1c81d7d/56x56-000000-80-0-0.jpg",
+                                                             "width":  56
+                                                         }
+                                                     ],
+                                          "name":  "Beach Weather",
+                                          "popularity":  65,
+                                          "type":  "artist"
+                                      }
+                                  ],
+                      "tracks":  [
+
+                                 ]
+                  },
+        "artists":  [
+                        {
+                            "followers":  {
+                                              "total":  32675
+                                          },
+                            "genres":  [
+
+                                       ],
+                            "id":  "8728650",
+                            "images":  [
+                                           {
+                                               "height":  1000,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/23bfb822f2cd3067bdd01de2b1c81d7d/1000x1000-000000-80-0-0.jpg",
+                                               "width":  1000
+                                           },
+                                           {
+                                               "height":  500,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/23bfb822f2cd3067bdd01de2b1c81d7d/500x500-000000-80-0-0.jpg",
+                                               "width":  500
+                                           },
+                                           {
+                                               "height":  250,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/23bfb822f2cd3067bdd01de2b1c81d7d/250x250-000000-80-0-0.jpg",
+                                               "width":  250
+                                           },
+                                           {
+                                               "height":  56,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/23bfb822f2cd3067bdd01de2b1c81d7d/56x56-000000-80-0-0.jpg",
+                                               "width":  56
+                                           }
+                                       ],
+                            "name":  "Beach Weather",
+                            "popularity":  65,
+                            "type":  "artist"
+                        }
+                    ],
+        "duration_ms":  176974,
+        "explicit":  false,
+        "id":  "2074542497",
+        "name":  "Sex, Drugs, Etc. - Sped Up Version",
+        "popularity":  65,
+        "preview_url":  "https://cdnt-preview.dzcdn.net/api/1/1/8/5/3/0/853fdd71e2b133b86ea07d87b1ff3489.mp3?hdnea=exp=1781369427~acl=/api/1/1/8/5/3/0/853fdd71e2b133b86ea07d87b1ff3489.mp3*~data=user_id=0,application_id=42~hmac=51b3aa162251a57a261428b4e86f3789d0b7e0313d62662ee0e173257fe1b884",
+        "track_number":  0,
+        "type":  "track"
+    },
+    {
+        "album":  {
+                      "album_type":  "album",
+                      "total_tracks":  0,
+                      "id":  "822345001",
+                      "images":  [
+                                     {
+                                         "height":  1000,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/f2d340d41d5612ed3d875e64c300c732/1000x1000-000000-80-0-0.jpg",
+                                         "width":  1000
+                                     },
+                                     {
+                                         "height":  500,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/f2d340d41d5612ed3d875e64c300c732/500x500-000000-80-0-0.jpg",
+                                         "width":  500
+                                     },
+                                     {
+                                         "height":  250,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/f2d340d41d5612ed3d875e64c300c732/250x250-000000-80-0-0.jpg",
+                                         "width":  250
+                                     },
+                                     {
+                                         "height":  56,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/f2d340d41d5612ed3d875e64c300c732/56x56-000000-80-0-0.jpg",
+                                         "width":  56
+                                     }
+                                 ],
+                      "name":  "melodrama",
+                      "release_date":  "2025-09-26",
+                      "release_date_precision":  "day",
+                      "type":  "album",
+                      "genres":  [
+                                     "rap français",
+                                     "shatta"
+                                 ],
+                      "popularity":  79,
+                      "artists":  [
+                                      {
+                                          "followers":  {
+                                                            "total":  320
+                                                        },
+                                          "genres":  [
+                                                         "rap français",
+                                                         "shatta"
+                                                     ],
+                                          "id":  "346332411",
+                                          "images":  [
+                                                         {
+                                                             "height":  1000,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist//1000x1000-000000-80-0-0.jpg",
+                                                             "width":  1000
+                                                         },
+                                                         {
+                                                             "height":  500,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist//500x500-000000-80-0-0.jpg",
+                                                             "width":  500
+                                                         },
+                                                         {
+                                                             "height":  250,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist//250x250-000000-80-0-0.jpg",
+                                                             "width":  250
+                                                         },
+                                                         {
+                                                             "height":  56,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist//56x56-000000-80-0-0.jpg",
+                                                             "width":  56
+                                                         }
+                                                     ],
+                                          "name":  "disiz;Theodora",
+                                          "popularity":  79,
+                                          "type":  "artist"
+                                      }
+                                  ],
+                      "tracks":  [
+
+                                 ]
+                  },
+        "artists":  [
+                        {
+                            "followers":  {
+                                              "total":  320
+                                          },
+                            "genres":  [
+                                           "rap français",
+                                           "shatta"
+                                       ],
+                            "id":  "346332411",
+                            "images":  [
+                                           {
+                                               "height":  1000,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist//1000x1000-000000-80-0-0.jpg",
+                                               "width":  1000
+                                           },
+                                           {
+                                               "height":  500,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist//500x500-000000-80-0-0.jpg",
+                                               "width":  500
+                                           },
+                                           {
+                                               "height":  250,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist//250x250-000000-80-0-0.jpg",
+                                               "width":  250
+                                           },
+                                           {
+                                               "height":  56,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist//56x56-000000-80-0-0.jpg",
+                                               "width":  56
+                                           }
+                                       ],
+                            "name":  "disiz;Theodora",
+                            "popularity":  79,
+                            "type":  "artist"
+                        }
+                    ],
+        "duration_ms":  176213,
+        "explicit":  false,
+        "id":  "3558373981",
+        "name":  "melodrama",
+        "popularity":  79,
+        "preview_url":  "https://cdnt-preview.dzcdn.net/api/1/1/7/b/0/0/7b0a0bb479cc5badd57186349606d69b.mp3?hdnea=exp=1781369427~acl=/api/1/1/7/b/0/0/7b0a0bb479cc5badd57186349606d69b.mp3*~data=user_id=0,application_id=42~hmac=a781a087240f6ca1b12bff77af8722898dbec199898357b934d087111e4f3f90",
+        "track_number":  0,
+        "type":  "track"
+    },
+    {
+        "album":  {
+                      "album_type":  "album",
+                      "total_tracks":  0,
+                      "id":  "7898255",
+                      "images":  [
+                                     {
+                                         "height":  1000,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/b68adb6788dfa09a314f594aec287850/1000x1000-000000-80-0-0.jpg",
+                                         "width":  1000
+                                     },
+                                     {
+                                         "height":  500,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/b68adb6788dfa09a314f594aec287850/500x500-000000-80-0-0.jpg",
+                                         "width":  500
+                                     },
+                                     {
+                                         "height":  250,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/b68adb6788dfa09a314f594aec287850/250x250-000000-80-0-0.jpg",
+                                         "width":  250
+                                     },
+                                     {
+                                         "height":  56,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/b68adb6788dfa09a314f594aec287850/56x56-000000-80-0-0.jpg",
+                                         "width":  56
+                                     }
+                                 ],
+                      "name":  "Ultraviolence (Deluxe)",
+                      "release_date":  "2014-01-01",
+                      "release_date_precision":  "day",
+                      "type":  "album",
+                      "genres":  [
+
+                                 ],
+                      "popularity":  79,
+                      "artists":  [
+                                      {
+                                          "followers":  {
+                                                            "total":  5736727
+                                                        },
+                                          "genres":  [
+
+                                                     ],
+                                          "id":  "1424821",
+                                          "images":  [
+                                                         {
+                                                             "height":  1000,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/8994d3be1a59a72f887f1f8afd2d4c6c/1000x1000-000000-80-0-0.jpg",
+                                                             "width":  1000
+                                                         },
+                                                         {
+                                                             "height":  500,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/8994d3be1a59a72f887f1f8afd2d4c6c/500x500-000000-80-0-0.jpg",
+                                                             "width":  500
+                                                         },
+                                                         {
+                                                             "height":  250,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/8994d3be1a59a72f887f1f8afd2d4c6c/250x250-000000-80-0-0.jpg",
+                                                             "width":  250
+                                                         },
+                                                         {
+                                                             "height":  56,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/8994d3be1a59a72f887f1f8afd2d4c6c/56x56-000000-80-0-0.jpg",
+                                                             "width":  56
+                                                         }
+                                                     ],
+                                          "name":  "Lana Del Rey",
+                                          "popularity":  79,
+                                          "type":  "artist"
+                                      }
+                                  ],
+                      "tracks":  [
+
+                                 ]
+                  },
+        "artists":  [
+                        {
+                            "followers":  {
+                                              "total":  5736727
+                                          },
+                            "genres":  [
+
+                                       ],
+                            "id":  "1424821",
+                            "images":  [
+                                           {
+                                               "height":  1000,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/8994d3be1a59a72f887f1f8afd2d4c6c/1000x1000-000000-80-0-0.jpg",
+                                               "width":  1000
+                                           },
+                                           {
+                                               "height":  500,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/8994d3be1a59a72f887f1f8afd2d4c6c/500x500-000000-80-0-0.jpg",
+                                               "width":  500
+                                           },
+                                           {
+                                               "height":  250,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/8994d3be1a59a72f887f1f8afd2d4c6c/250x250-000000-80-0-0.jpg",
+                                               "width":  250
+                                           },
+                                           {
+                                               "height":  56,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/8994d3be1a59a72f887f1f8afd2d4c6c/56x56-000000-80-0-0.jpg",
+                                               "width":  56
+                                           }
+                                       ],
+                            "name":  "Lana Del Rey",
+                            "popularity":  79,
+                            "type":  "artist"
+                        }
+                    ],
+        "duration_ms":  234146,
+        "explicit":  true,
+        "id":  "79363297",
+        "name":  "Pretty When You Cry",
+        "popularity":  79,
+        "preview_url":  "https://cdnt-preview.dzcdn.net/api/1/1/6/3/b/0/63b6ea85647e1cdf310e99e00bffbefa.mp3?hdnea=exp=1781369427~acl=/api/1/1/6/3/b/0/63b6ea85647e1cdf310e99e00bffbefa.mp3*~data=user_id=0,application_id=42~hmac=6fbab048240a3b75d066cb4f46f0cfc670c4f71c763d9c69a989dd71aabacbda",
+        "track_number":  0,
+        "type":  "track"
+    },
+    {
+        "album":  {
+                      "album_type":  "album",
+                      "total_tracks":  0,
+                      "id":  "1261474",
+                      "images":  [
+                                     {
+                                         "height":  1000,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/7ca9c4c9988765720bf3b722e101d2c3/1000x1000-000000-80-0-0.jpg",
+                                         "width":  1000
+                                     },
+                                     {
+                                         "height":  500,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/7ca9c4c9988765720bf3b722e101d2c3/500x500-000000-80-0-0.jpg",
+                                         "width":  500
+                                     },
+                                     {
+                                         "height":  250,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/7ca9c4c9988765720bf3b722e101d2c3/250x250-000000-80-0-0.jpg",
+                                         "width":  250
+                                     },
+                                     {
+                                         "height":  56,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/7ca9c4c9988765720bf3b722e101d2c3/56x56-000000-80-0-0.jpg",
+                                         "width":  56
+                                     }
+                                 ],
+                      "name":  "The Queen Is Dead",
+                      "release_date":  "1986-06-16",
+                      "release_date_precision":  "day",
+                      "type":  "album",
+                      "genres":  [
+                                     "new wave",
+                                     "madchester",
+                                     "jangle pop"
+                                 ],
+                      "popularity":  86,
+                      "artists":  [
+                                      {
+                                          "followers":  {
+                                                            "total":  1485096
+                                                        },
+                                          "genres":  [
+                                                         "new wave",
+                                                         "madchester",
+                                                         "jangle pop"
+                                                     ],
+                                          "id":  "1297",
+                                          "images":  [
+                                                         {
+                                                             "height":  1000,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/458e4ee61a7fc57a79ac2b9b20c47bd9/1000x1000-000000-80-0-0.jpg",
+                                                             "width":  1000
+                                                         },
+                                                         {
+                                                             "height":  500,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/458e4ee61a7fc57a79ac2b9b20c47bd9/500x500-000000-80-0-0.jpg",
+                                                             "width":  500
+                                                         },
+                                                         {
+                                                             "height":  250,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/458e4ee61a7fc57a79ac2b9b20c47bd9/250x250-000000-80-0-0.jpg",
+                                                             "width":  250
+                                                         },
+                                                         {
+                                                             "height":  56,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/458e4ee61a7fc57a79ac2b9b20c47bd9/56x56-000000-80-0-0.jpg",
+                                                             "width":  56
+                                                         }
+                                                     ],
+                                          "name":  "The Smiths",
+                                          "popularity":  86,
+                                          "type":  "artist"
+                                      }
+                                  ],
+                      "tracks":  [
+
+                                 ]
+                  },
+        "artists":  [
+                        {
+                            "followers":  {
+                                              "total":  1485096
+                                          },
+                            "genres":  [
+                                           "new wave",
+                                           "madchester",
+                                           "jangle pop"
+                                       ],
+                            "id":  "1297",
+                            "images":  [
+                                           {
+                                               "height":  1000,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/458e4ee61a7fc57a79ac2b9b20c47bd9/1000x1000-000000-80-0-0.jpg",
+                                               "width":  1000
+                                           },
+                                           {
+                                               "height":  500,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/458e4ee61a7fc57a79ac2b9b20c47bd9/500x500-000000-80-0-0.jpg",
+                                               "width":  500
+                                           },
+                                           {
+                                               "height":  250,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/458e4ee61a7fc57a79ac2b9b20c47bd9/250x250-000000-80-0-0.jpg",
+                                               "width":  250
+                                           },
+                                           {
+                                               "height":  56,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/458e4ee61a7fc57a79ac2b9b20c47bd9/56x56-000000-80-0-0.jpg",
+                                               "width":  56
+                                           }
+                                       ],
+                            "name":  "The Smiths",
+                            "popularity":  86,
+                            "type":  "artist"
+                        }
+                    ],
+        "duration_ms":  244586,
+        "explicit":  false,
+        "id":  "13785973",
+        "name":  "There Is a Light That Never Goes Out - 2011 Remaster",
+        "popularity":  86,
+        "preview_url":  "https://cdnt-preview.dzcdn.net/api/1/1/3/0/a/0/30a370e058281fdda3cb8cc9c96f7aa4.mp3?hdnea=exp=1781369427~acl=/api/1/1/3/0/a/0/30a370e058281fdda3cb8cc9c96f7aa4.mp3*~data=user_id=0,application_id=42~hmac=6ca970635cbe3f0dcefab04334605c345c477e08e129429ee71e04b06a384563",
+        "track_number":  0,
+        "type":  "track"
+    },
+    {
+        "album":  {
+                      "album_type":  "album",
+                      "total_tracks":  0,
+                      "id":  "235825",
+                      "images":  [
+                                     {
+                                         "height":  1000,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/cbbe2681bbd5522110587b0e8414ca3a/1000x1000-000000-80-0-0.jpg",
+                                         "width":  1000
+                                     },
+                                     {
+                                         "height":  500,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/cbbe2681bbd5522110587b0e8414ca3a/500x500-000000-80-0-0.jpg",
+                                         "width":  500
+                                     },
+                                     {
+                                         "height":  250,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/cbbe2681bbd5522110587b0e8414ca3a/250x250-000000-80-0-0.jpg",
+                                         "width":  250
+                                     },
+                                     {
+                                         "height":  56,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/cbbe2681bbd5522110587b0e8414ca3a/56x56-000000-80-0-0.jpg",
+                                         "width":  56
+                                     }
+                                 ],
+                      "name":  "Harry James And His Orchestra Selected Hits Vol. 2",
+                      "release_date":  "2006-06-12",
+                      "release_date_precision":  "day",
+                      "type":  "album",
+                      "genres":  [
+                                     "big band",
+                                     "swing",
+                                     "jazz"
+                                 ],
+                      "popularity":  24,
+                      "artists":  [
+                                      {
+                                          "followers":  {
+                                                            "total":  4027
+                                                        },
+                                          "genres":  [
+                                                         "big band",
+                                                         "swing",
+                                                         "jazz"
+                                                     ],
+                                          "id":  "14209",
+                                          "images":  [
+                                                         {
+                                                             "height":  1000,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/ff476b969505d4e9e584e15224bac8c5/1000x1000-000000-80-0-0.jpg",
+                                                             "width":  1000
+                                                         },
+                                                         {
+                                                             "height":  500,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/ff476b969505d4e9e584e15224bac8c5/500x500-000000-80-0-0.jpg",
+                                                             "width":  500
+                                                         },
+                                                         {
+                                                             "height":  250,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/ff476b969505d4e9e584e15224bac8c5/250x250-000000-80-0-0.jpg",
+                                                             "width":  250
+                                                         },
+                                                         {
+                                                             "height":  56,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/ff476b969505d4e9e584e15224bac8c5/56x56-000000-80-0-0.jpg",
+                                                             "width":  56
+                                                         }
+                                                     ],
+                                          "name":  "Harry James",
+                                          "popularity":  24,
+                                          "type":  "artist"
+                                      }
+                                  ],
+                      "tracks":  [
+
+                                 ]
+                  },
+        "artists":  [
+                        {
+                            "followers":  {
+                                              "total":  4027
+                                          },
+                            "genres":  [
+                                           "big band",
+                                           "swing",
+                                           "jazz"
+                                       ],
+                            "id":  "14209",
+                            "images":  [
+                                           {
+                                               "height":  1000,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/ff476b969505d4e9e584e15224bac8c5/1000x1000-000000-80-0-0.jpg",
+                                               "width":  1000
+                                           },
+                                           {
+                                               "height":  500,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/ff476b969505d4e9e584e15224bac8c5/500x500-000000-80-0-0.jpg",
+                                               "width":  500
+                                           },
+                                           {
+                                               "height":  250,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/ff476b969505d4e9e584e15224bac8c5/250x250-000000-80-0-0.jpg",
+                                               "width":  250
+                                           },
+                                           {
+                                               "height":  56,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/ff476b969505d4e9e584e15224bac8c5/56x56-000000-80-0-0.jpg",
+                                               "width":  56
+                                           }
+                                       ],
+                            "name":  "Harry James",
+                            "popularity":  24,
+                            "type":  "artist"
+                        }
+                    ],
+        "duration_ms":  194750,
+        "explicit":  false,
+        "id":  "2381239",
+        "name":  "It\u0027s Been A Long, Long Time - Original",
+        "popularity":  24,
+        "preview_url":  "https://cdnt-preview.dzcdn.net/api/1/1/c/1/d/0/c1dda216333947b04d9a93d5faad75d3.mp3?hdnea=exp=1781369428~acl=/api/1/1/c/1/d/0/c1dda216333947b04d9a93d5faad75d3.mp3*~data=user_id=0,application_id=42~hmac=eeb4706e3d3226048c9307432fe8d6ee5d28980731472c5a2f2c2b52452ebe3c",
+        "track_number":  0,
+        "type":  "track"
+    },
+    {
+        "album":  {
+                      "album_type":  "album",
+                      "total_tracks":  0,
+                      "id":  "347514397",
+                      "images":  [
+                                     {
+                                         "height":  1000,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/013b4e16cc962a5aa91105b5eb8261f2/1000x1000-000000-80-0-0.jpg",
+                                         "width":  1000
+                                     },
+                                     {
+                                         "height":  500,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/013b4e16cc962a5aa91105b5eb8261f2/500x500-000000-80-0-0.jpg",
+                                         "width":  500
+                                     },
+                                     {
+                                         "height":  250,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/013b4e16cc962a5aa91105b5eb8261f2/250x250-000000-80-0-0.jpg",
+                                         "width":  250
+                                     },
+                                     {
+                                         "height":  56,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/013b4e16cc962a5aa91105b5eb8261f2/56x56-000000-80-0-0.jpg",
+                                         "width":  56
+                                     }
+                                 ],
+                      "name":  "Radio",
+                      "release_date":  "2022-10-06",
+                      "release_date_precision":  "day",
+                      "type":  "album",
+                      "genres":  [
+
+                                 ],
+                      "popularity":  62,
+                      "artists":  [
+                                      {
+                                          "followers":  {
+                                                            "total":  515
+                                                        },
+                                          "genres":  [
+
+                                                     ],
+                                          "id":  "63767612",
+                                          "images":  [
+                                                         {
+                                                             "height":  1000,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/a6694676ee4b829bcd5cb36896f63434/1000x1000-000000-80-0-0.jpg",
+                                                             "width":  1000
+                                                         },
+                                                         {
+                                                             "height":  500,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/a6694676ee4b829bcd5cb36896f63434/500x500-000000-80-0-0.jpg",
+                                                             "width":  500
+                                                         },
+                                                         {
+                                                             "height":  250,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/a6694676ee4b829bcd5cb36896f63434/250x250-000000-80-0-0.jpg",
+                                                             "width":  250
+                                                         },
+                                                         {
+                                                             "height":  56,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/a6694676ee4b829bcd5cb36896f63434/56x56-000000-80-0-0.jpg",
+                                                             "width":  56
+                                                         }
+                                                     ],
+                                          "name":  "Bershy",
+                                          "popularity":  62,
+                                          "type":  "artist"
+                                      }
+                                  ],
+                      "tracks":  [
+
+                                 ]
+                  },
+        "artists":  [
+                        {
+                            "followers":  {
+                                              "total":  515
+                                          },
+                            "genres":  [
+
+                                       ],
+                            "id":  "63767612",
+                            "images":  [
+                                           {
+                                               "height":  1000,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/a6694676ee4b829bcd5cb36896f63434/1000x1000-000000-80-0-0.jpg",
+                                               "width":  1000
+                                           },
+                                           {
+                                               "height":  500,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/a6694676ee4b829bcd5cb36896f63434/500x500-000000-80-0-0.jpg",
+                                               "width":  500
+                                           },
+                                           {
+                                               "height":  250,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/a6694676ee4b829bcd5cb36896f63434/250x250-000000-80-0-0.jpg",
+                                               "width":  250
+                                           },
+                                           {
+                                               "height":  56,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/a6694676ee4b829bcd5cb36896f63434/56x56-000000-80-0-0.jpg",
+                                               "width":  56
+                                           }
+                                       ],
+                            "name":  "Bershy",
+                            "popularity":  62,
+                            "type":  "artist"
+                        }
+                    ],
+        "duration_ms":  201853,
+        "explicit":  false,
+        "id":  "1871331667",
+        "name":  "Radio",
+        "popularity":  62,
+        "preview_url":  "https://cdnt-preview.dzcdn.net/api/1/1/d/9/7/0/d97747b74b3730fb071259ce4316ea76.mp3?hdnea=exp=1781369428~acl=/api/1/1/d/9/7/0/d97747b74b3730fb071259ce4316ea76.mp3*~data=user_id=0,application_id=42~hmac=7c9909a6fc0f1ca50a8a706ced94cdce3e0ca1d1e22271fa90b27dfffaf27536",
+        "track_number":  0,
+        "type":  "track"
+    },
+    {
+        "album":  {
+                      "album_type":  "album",
+                      "total_tracks":  0,
+                      "id":  "261217242",
+                      "images":  [
+                                     {
+                                         "height":  1000,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/d3dda34f5faa598843c9a575adf102c1/1000x1000-000000-80-0-0.jpg",
+                                         "width":  1000
+                                     },
+                                     {
+                                         "height":  500,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/d3dda34f5faa598843c9a575adf102c1/500x500-000000-80-0-0.jpg",
+                                         "width":  500
+                                     },
+                                     {
+                                         "height":  250,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/d3dda34f5faa598843c9a575adf102c1/250x250-000000-80-0-0.jpg",
+                                         "width":  250
+                                     },
+                                     {
+                                         "height":  56,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/d3dda34f5faa598843c9a575adf102c1/56x56-000000-80-0-0.jpg",
+                                         "width":  56
+                                     }
+                                 ],
+                      "name":  "Love. Angel. Music. Baby. (15th Anniversary Edition / Remastered 2019)",
+                      "release_date":  "2019-11-22",
+                      "release_date_precision":  "day",
+                      "type":  "album",
+                      "genres":  [
+
+                                 ],
+                      "popularity":  56,
+                      "artists":  [
+                                      {
+                                          "followers":  {
+                                                            "total":  1227426
+                                                        },
+                                          "genres":  [
+
+                                                     ],
+                                          "id":  "16",
+                                          "images":  [
+                                                         {
+                                                             "height":  1000,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/a8e7f4f34b88787f5c26ed94f86357c6/1000x1000-000000-80-0-0.jpg",
+                                                             "width":  1000
+                                                         },
+                                                         {
+                                                             "height":  500,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/a8e7f4f34b88787f5c26ed94f86357c6/500x500-000000-80-0-0.jpg",
+                                                             "width":  500
+                                                         },
+                                                         {
+                                                             "height":  250,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/a8e7f4f34b88787f5c26ed94f86357c6/250x250-000000-80-0-0.jpg",
+                                                             "width":  250
+                                                         },
+                                                         {
+                                                             "height":  56,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/a8e7f4f34b88787f5c26ed94f86357c6/56x56-000000-80-0-0.jpg",
+                                                             "width":  56
+                                                         }
+                                                     ],
+                                          "name":  "Gwen Stefani",
+                                          "popularity":  56,
+                                          "type":  "artist"
+                                      }
+                                  ],
+                      "tracks":  [
+
+                                 ]
+                  },
+        "artists":  [
+                        {
+                            "followers":  {
+                                              "total":  1227426
+                                          },
+                            "genres":  [
+
+                                       ],
+                            "id":  "16",
+                            "images":  [
+                                           {
+                                               "height":  1000,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/a8e7f4f34b88787f5c26ed94f86357c6/1000x1000-000000-80-0-0.jpg",
+                                               "width":  1000
+                                           },
+                                           {
+                                               "height":  500,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/a8e7f4f34b88787f5c26ed94f86357c6/500x500-000000-80-0-0.jpg",
+                                               "width":  500
+                                           },
+                                           {
+                                               "height":  250,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/a8e7f4f34b88787f5c26ed94f86357c6/250x250-000000-80-0-0.jpg",
+                                               "width":  250
+                                           },
+                                           {
+                                               "height":  56,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/a8e7f4f34b88787f5c26ed94f86357c6/56x56-000000-80-0-0.jpg",
+                                               "width":  56
+                                           }
+                                       ],
+                            "name":  "Gwen Stefani",
+                            "popularity":  56,
+                            "type":  "artist"
+                        }
+                    ],
+        "duration_ms":  264920,
+        "explicit":  false,
+        "id":  "1504021312",
+        "name":  "Luxurious - Remastered 2019",
+        "popularity":  56,
+        "preview_url":  "https://cdnt-preview.dzcdn.net/api/1/1/4/f/7/0/4f738cca2de7a73450747b5f0edb3c71.mp3?hdnea=exp=1781369428~acl=/api/1/1/4/f/7/0/4f738cca2de7a73450747b5f0edb3c71.mp3*~data=user_id=0,application_id=42~hmac=8ea3536847d96c7d1125fd727fa5c864b971d382d28d5c645f27f58623f6af52",
+        "track_number":  0,
+        "type":  "track"
+    },
+    {
+        "album":  {
+                      "album_type":  "album",
+                      "total_tracks":  0,
+                      "id":  "115882092",
+                      "images":  [
+                                     {
+                                         "height":  1000,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/337355fa64d7bb7cb64dec282415488d/1000x1000-000000-80-0-0.jpg",
+                                         "width":  1000
+                                     },
+                                     {
+                                         "height":  500,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/337355fa64d7bb7cb64dec282415488d/500x500-000000-80-0-0.jpg",
+                                         "width":  500
+                                     },
+                                     {
+                                         "height":  250,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/337355fa64d7bb7cb64dec282415488d/250x250-000000-80-0-0.jpg",
+                                         "width":  250
+                                     },
+                                     {
+                                         "height":  56,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/337355fa64d7bb7cb64dec282415488d/56x56-000000-80-0-0.jpg",
+                                         "width":  56
+                                     }
+                                 ],
+                      "name":  "20 #1’s: Movie Love Songs",
+                      "release_date":  "2017-03-24",
+                      "release_date_precision":  "day",
+                      "type":  "album",
+                      "genres":  [
+
+                                 ],
+                      "popularity":  18,
+                      "artists":  [
+                                      {
+                                          "followers":  {
+                                                            "total":  211414
+                                                        },
+                                          "genres":  [
+
+                                                     ],
+                                          "id":  "5632",
+                                          "images":  [
+                                                         {
+                                                             "height":  1000,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/296da8fe39e9cbbc0d42cf2bf31f74e2/1000x1000-000000-80-0-0.jpg",
+                                                             "width":  1000
+                                                         },
+                                                         {
+                                                             "height":  500,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/296da8fe39e9cbbc0d42cf2bf31f74e2/500x500-000000-80-0-0.jpg",
+                                                             "width":  500
+                                                         },
+                                                         {
+                                                             "height":  250,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/296da8fe39e9cbbc0d42cf2bf31f74e2/250x250-000000-80-0-0.jpg",
+                                                             "width":  250
+                                                         },
+                                                         {
+                                                             "height":  56,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/296da8fe39e9cbbc0d42cf2bf31f74e2/56x56-000000-80-0-0.jpg",
+                                                             "width":  56
+                                                         }
+                                                     ],
+                                          "name":  "Olivia Newton-John",
+                                          "popularity":  18,
+                                          "type":  "artist"
+                                      }
+                                  ],
+                      "tracks":  [
+
+                                 ]
+                  },
+        "artists":  [
+                        {
+                            "followers":  {
+                                              "total":  211414
+                                          },
+                            "genres":  [
+
+                                       ],
+                            "id":  "5632",
+                            "images":  [
+                                           {
+                                               "height":  1000,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/296da8fe39e9cbbc0d42cf2bf31f74e2/1000x1000-000000-80-0-0.jpg",
+                                               "width":  1000
+                                           },
+                                           {
+                                               "height":  500,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/296da8fe39e9cbbc0d42cf2bf31f74e2/500x500-000000-80-0-0.jpg",
+                                               "width":  500
+                                           },
+                                           {
+                                               "height":  250,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/296da8fe39e9cbbc0d42cf2bf31f74e2/250x250-000000-80-0-0.jpg",
+                                               "width":  250
+                                           },
+                                           {
+                                               "height":  56,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/296da8fe39e9cbbc0d42cf2bf31f74e2/56x56-000000-80-0-0.jpg",
+                                               "width":  56
+                                           }
+                                       ],
+                            "name":  "Olivia Newton-John",
+                            "popularity":  18,
+                            "type":  "artist"
+                        }
+                    ],
+        "duration_ms":  184781,
+        "explicit":  false,
+        "id":  "781563052",
+        "name":  "Hopelessly Devoted To You - From “Grease”",
+        "popularity":  18,
+        "preview_url":  "https://cdnt-preview.dzcdn.net/api/1/1/0/a/0/0/0a0207839f67b737075a5b7446341234.mp3?hdnea=exp=1781369429~acl=/api/1/1/0/a/0/0/0a0207839f67b737075a5b7446341234.mp3*~data=user_id=0,application_id=42~hmac=2e7eec941db1fa1e089ae2f3554a7661c1bb68fefdf9ed2face44344e5618f72",
+        "track_number":  0,
+        "type":  "track"
+    },
+    {
+        "album":  {
+                      "album_type":  "album",
+                      "total_tracks":  0,
+                      "id":  "344968797",
+                      "images":  [
+                                     {
+                                         "height":  1000,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/7514781a2e26062a0edd8ef66c52d768/1000x1000-000000-80-0-0.jpg",
+                                         "width":  1000
+                                     },
+                                     {
+                                         "height":  500,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/7514781a2e26062a0edd8ef66c52d768/500x500-000000-80-0-0.jpg",
+                                         "width":  500
+                                     },
+                                     {
+                                         "height":  250,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/7514781a2e26062a0edd8ef66c52d768/250x250-000000-80-0-0.jpg",
+                                         "width":  250
+                                     },
+                                     {
+                                         "height":  56,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/7514781a2e26062a0edd8ef66c52d768/56x56-000000-80-0-0.jpg",
+                                         "width":  56
+                                     }
+                                 ],
+                      "name":  "Dark Red",
+                      "release_date":  "2017-02-20",
+                      "release_date_precision":  "day",
+                      "type":  "album",
+                      "genres":  [
+
+                                 ],
+                      "popularity":  88,
+                      "artists":  [
+                                      {
+                                          "followers":  {
+                                                            "total":  262573
+                                                        },
+                                          "genres":  [
+
+                                                     ],
+                                          "id":  "65574",
+                                          "images":  [
+                                                         {
+                                                             "height":  1000,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/1ddf70d9445da4439a16bfea909d77f6/1000x1000-000000-80-0-0.jpg",
+                                                             "width":  1000
+                                                         },
+                                                         {
+                                                             "height":  500,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/1ddf70d9445da4439a16bfea909d77f6/500x500-000000-80-0-0.jpg",
+                                                             "width":  500
+                                                         },
+                                                         {
+                                                             "height":  250,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/1ddf70d9445da4439a16bfea909d77f6/250x250-000000-80-0-0.jpg",
+                                                             "width":  250
+                                                         },
+                                                         {
+                                                             "height":  56,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/1ddf70d9445da4439a16bfea909d77f6/56x56-000000-80-0-0.jpg",
+                                                             "width":  56
+                                                         }
+                                                     ],
+                                          "name":  "Steve Lacy",
+                                          "popularity":  88,
+                                          "type":  "artist"
+                                      }
+                                  ],
+                      "tracks":  [
+
+                                 ]
+                  },
+        "artists":  [
+                        {
+                            "followers":  {
+                                              "total":  262573
+                                          },
+                            "genres":  [
+
+                                       ],
+                            "id":  "65574",
+                            "images":  [
+                                           {
+                                               "height":  1000,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/1ddf70d9445da4439a16bfea909d77f6/1000x1000-000000-80-0-0.jpg",
+                                               "width":  1000
+                                           },
+                                           {
+                                               "height":  500,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/1ddf70d9445da4439a16bfea909d77f6/500x500-000000-80-0-0.jpg",
+                                               "width":  500
+                                           },
+                                           {
+                                               "height":  250,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/1ddf70d9445da4439a16bfea909d77f6/250x250-000000-80-0-0.jpg",
+                                               "width":  250
+                                           },
+                                           {
+                                               "height":  56,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/1ddf70d9445da4439a16bfea909d77f6/56x56-000000-80-0-0.jpg",
+                                               "width":  56
+                                           }
+                                       ],
+                            "name":  "Steve Lacy",
+                            "popularity":  88,
+                            "type":  "artist"
+                        }
+                    ],
+        "duration_ms":  173104,
+        "explicit":  false,
+        "id":  "1860754817",
+        "name":  "Dark Red",
+        "popularity":  88,
+        "preview_url":  "https://cdnt-preview.dzcdn.net/api/1/1/4/a/9/0/4a9b3ea55d82edd181a6a27160f50311.mp3?hdnea=exp=1781368978~acl=/api/1/1/4/a/9/0/4a9b3ea55d82edd181a6a27160f50311.mp3*~data=user_id=0,application_id=42~hmac=0099290dcade195e605e2be2d08a7858b3021574a2a3e426e6b15d0f64c14ba4",
+        "track_number":  0,
+        "type":  "track"
+    },
+    {
+        "album":  {
+                      "album_type":  "album",
+                      "total_tracks":  0,
+                      "id":  "10709540",
+                      "images":  [
+                                     {
+                                         "height":  1000,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/de5b9b704cd4ec36f8bf49beb3e17ba2/1000x1000-000000-80-0-0.jpg",
+                                         "width":  1000
+                                     },
+                                     {
+                                         "height":  500,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/de5b9b704cd4ec36f8bf49beb3e17ba2/500x500-000000-80-0-0.jpg",
+                                         "width":  500
+                                     },
+                                     {
+                                         "height":  250,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/de5b9b704cd4ec36f8bf49beb3e17ba2/250x250-000000-80-0-0.jpg",
+                                         "width":  250
+                                     },
+                                     {
+                                         "height":  56,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/de5b9b704cd4ec36f8bf49beb3e17ba2/56x56-000000-80-0-0.jpg",
+                                         "width":  56
+                                     }
+                                 ],
+                      "name":  "Currents",
+                      "release_date":  "2015-07-17",
+                      "release_date_precision":  "day",
+                      "type":  "album",
+                      "genres":  [
+                                     "musique néo-psychédélique",
+                                     "indie"
+                                 ],
+                      "popularity":  85,
+                      "artists":  [
+                                      {
+                                          "followers":  {
+                                                            "total":  1095722
+                                                        },
+                                          "genres":  [
+                                                         "musique néo-psychédélique",
+                                                         "indie"
+                                                     ],
+                                          "id":  "134790",
+                                          "images":  [
+                                                         {
+                                                             "height":  1000,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/879015e713cc6ad6ffaeec154c027505/1000x1000-000000-80-0-0.jpg",
+                                                             "width":  1000
+                                                         },
+                                                         {
+                                                             "height":  500,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/879015e713cc6ad6ffaeec154c027505/500x500-000000-80-0-0.jpg",
+                                                             "width":  500
+                                                         },
+                                                         {
+                                                             "height":  250,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/879015e713cc6ad6ffaeec154c027505/250x250-000000-80-0-0.jpg",
+                                                             "width":  250
+                                                         },
+                                                         {
+                                                             "height":  56,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/879015e713cc6ad6ffaeec154c027505/56x56-000000-80-0-0.jpg",
+                                                             "width":  56
+                                                         }
+                                                     ],
+                                          "name":  "Tame Impala",
+                                          "popularity":  85,
+                                          "type":  "artist"
+                                      }
+                                  ],
+                      "tracks":  [
+
+                                 ]
+                  },
+        "artists":  [
+                        {
+                            "followers":  {
+                                              "total":  1095722
+                                          },
+                            "genres":  [
+                                           "musique néo-psychédélique",
+                                           "indie"
+                                       ],
+                            "id":  "134790",
+                            "images":  [
+                                           {
+                                               "height":  1000,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/879015e713cc6ad6ffaeec154c027505/1000x1000-000000-80-0-0.jpg",
+                                               "width":  1000
+                                           },
+                                           {
+                                               "height":  500,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/879015e713cc6ad6ffaeec154c027505/500x500-000000-80-0-0.jpg",
+                                               "width":  500
+                                           },
+                                           {
+                                               "height":  250,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/879015e713cc6ad6ffaeec154c027505/250x250-000000-80-0-0.jpg",
+                                               "width":  250
+                                           },
+                                           {
+                                               "height":  56,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/879015e713cc6ad6ffaeec154c027505/56x56-000000-80-0-0.jpg",
+                                               "width":  56
+                                           }
+                                       ],
+                            "name":  "Tame Impala",
+                            "popularity":  85,
+                            "type":  "artist"
+                        }
+                    ],
+        "duration_ms":  363240,
+        "explicit":  false,
+        "id":  "103052674",
+        "name":  "New Person, Same Old Mistakes",
+        "popularity":  85,
+        "preview_url":  "https://cdnt-preview.dzcdn.net/api/1/1/b/a/e/0/baeb5f8627ea0b43b8f11f0a4c53be08.mp3?hdnea=exp=1781368972~acl=/api/1/1/b/a/e/0/baeb5f8627ea0b43b8f11f0a4c53be08.mp3*~data=user_id=0,application_id=42~hmac=4b264ccfe1f4df30224181d73fa8fc87c49edd940450859706234d22e60316e7",
+        "track_number":  0,
+        "type":  "track"
+    },
+    {
+        "album":  {
+                      "album_type":  "album",
+                      "total_tracks":  0,
+                      "id":  "273537192",
+                      "images":  [
+                                     {
+                                         "height":  1000,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/a56d7dac6980f4c4f2eb2e8221a5c226/1000x1000-000000-80-0-0.jpg",
+                                         "width":  1000
+                                     },
+                                     {
+                                         "height":  500,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/a56d7dac6980f4c4f2eb2e8221a5c226/500x500-000000-80-0-0.jpg",
+                                         "width":  500
+                                     },
+                                     {
+                                         "height":  250,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/a56d7dac6980f4c4f2eb2e8221a5c226/250x250-000000-80-0-0.jpg",
+                                         "width":  250
+                                     },
+                                     {
+                                         "height":  56,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/a56d7dac6980f4c4f2eb2e8221a5c226/56x56-000000-80-0-0.jpg",
+                                         "width":  56
+                                     }
+                                 ],
+                      "name":  "Twilight",
+                      "release_date":  "2001-03-21",
+                      "release_date_precision":  "day",
+                      "type":  "album",
+                      "genres":  [
+
+                                 ],
+                      "popularity":  87,
+                      "artists":  [
+                                      {
+                                          "followers":  {
+                                                            "total":  20805
+                                                        },
+                                          "genres":  [
+
+                                                     ],
+                                          "id":  "74211202",
+                                          "images":  [
+                                                         {
+                                                             "height":  1000,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/368d87cb95ba56f2e2078d9b97ac7212/1000x1000-000000-80-0-0.jpg",
+                                                             "width":  1000
+                                                         },
+                                                         {
+                                                             "height":  500,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/368d87cb95ba56f2e2078d9b97ac7212/500x500-000000-80-0-0.jpg",
+                                                             "width":  500
+                                                         },
+                                                         {
+                                                             "height":  250,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/368d87cb95ba56f2e2078d9b97ac7212/250x250-000000-80-0-0.jpg",
+                                                             "width":  250
+                                                         },
+                                                         {
+                                                             "height":  56,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/368d87cb95ba56f2e2078d9b97ac7212/56x56-000000-80-0-0.jpg",
+                                                             "width":  56
+                                                         }
+                                                     ],
+                                          "name":  "bôa",
+                                          "popularity":  87,
+                                          "type":  "artist"
+                                      }
+                                  ],
+                      "tracks":  [
+
+                                 ]
+                  },
+        "artists":  [
+                        {
+                            "followers":  {
+                                              "total":  20805
+                                          },
+                            "genres":  [
+
+                                       ],
+                            "id":  "74211202",
+                            "images":  [
+                                           {
+                                               "height":  1000,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/368d87cb95ba56f2e2078d9b97ac7212/1000x1000-000000-80-0-0.jpg",
+                                               "width":  1000
+                                           },
+                                           {
+                                               "height":  500,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/368d87cb95ba56f2e2078d9b97ac7212/500x500-000000-80-0-0.jpg",
+                                               "width":  500
+                                           },
+                                           {
+                                               "height":  250,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/368d87cb95ba56f2e2078d9b97ac7212/250x250-000000-80-0-0.jpg",
+                                               "width":  250
+                                           },
+                                           {
+                                               "height":  56,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/368d87cb95ba56f2e2078d9b97ac7212/56x56-000000-80-0-0.jpg",
+                                               "width":  56
+                                           }
+                                       ],
+                            "name":  "bôa",
+                            "popularity":  87,
+                            "type":  "artist"
+                        }
+                    ],
+        "duration_ms":  203600,
+        "explicit":  false,
+        "id":  "1557745322",
+        "name":  "Duvet",
+        "popularity":  87,
+        "preview_url":  "https://cdnt-preview.dzcdn.net/api/1/1/3/c/f/0/3cf6119f42848807dbbb446c51517990.mp3?hdnea=exp=1781368967~acl=/api/1/1/3/c/f/0/3cf6119f42848807dbbb446c51517990.mp3*~data=user_id=0,application_id=42~hmac=03688a195adebfd83a11133b3d6ee2677462115c09771674109d9807e7212995",
+        "track_number":  0,
+        "type":  "track"
+    },
+    {
+        "album":  {
+                      "album_type":  "album",
+                      "total_tracks":  0,
+                      "id":  "411462887",
+                      "images":  [
+                                     {
+                                         "height":  1000,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/76a887908b2b4491f06193cea0b4551d/1000x1000-000000-80-0-0.jpg",
+                                         "width":  1000
+                                     },
+                                     {
+                                         "height":  500,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/76a887908b2b4491f06193cea0b4551d/500x500-000000-80-0-0.jpg",
+                                         "width":  500
+                                     },
+                                     {
+                                         "height":  250,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/76a887908b2b4491f06193cea0b4551d/250x250-000000-80-0-0.jpg",
+                                         "width":  250
+                                     },
+                                     {
+                                         "height":  56,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/76a887908b2b4491f06193cea0b4551d/56x56-000000-80-0-0.jpg",
+                                         "width":  56
+                                     }
+                                 ],
+                      "name":  "Red Moon In Venus",
+                      "release_date":  "2023-03-03",
+                      "release_date_precision":  "day",
+                      "type":  "album",
+                      "genres":  [
+
+                                 ],
+                      "popularity":  82,
+                      "artists":  [
+                                      {
+                                          "followers":  {
+                                                            "total":  514577
+                                                        },
+                                          "genres":  [
+
+                                                     ],
+                                          "id":  "6043160",
+                                          "images":  [
+                                                         {
+                                                             "height":  1000,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/9d0d52af2e1e4ec56b67b495b87fc4c0/1000x1000-000000-80-0-0.jpg",
+                                                             "width":  1000
+                                                         },
+                                                         {
+                                                             "height":  500,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/9d0d52af2e1e4ec56b67b495b87fc4c0/500x500-000000-80-0-0.jpg",
+                                                             "width":  500
+                                                         },
+                                                         {
+                                                             "height":  250,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/9d0d52af2e1e4ec56b67b495b87fc4c0/250x250-000000-80-0-0.jpg",
+                                                             "width":  250
+                                                         },
+                                                         {
+                                                             "height":  56,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/9d0d52af2e1e4ec56b67b495b87fc4c0/56x56-000000-80-0-0.jpg",
+                                                             "width":  56
+                                                         }
+                                                     ],
+                                          "name":  "Kali Uchis",
+                                          "popularity":  82,
+                                          "type":  "artist"
+                                      }
+                                  ],
+                      "tracks":  [
+
+                                 ]
+                  },
+        "artists":  [
+                        {
+                            "followers":  {
+                                              "total":  514577
+                                          },
+                            "genres":  [
+
+                                       ],
+                            "id":  "6043160",
+                            "images":  [
+                                           {
+                                               "height":  1000,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/9d0d52af2e1e4ec56b67b495b87fc4c0/1000x1000-000000-80-0-0.jpg",
+                                               "width":  1000
+                                           },
+                                           {
+                                               "height":  500,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/9d0d52af2e1e4ec56b67b495b87fc4c0/500x500-000000-80-0-0.jpg",
+                                               "width":  500
+                                           },
+                                           {
+                                               "height":  250,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/9d0d52af2e1e4ec56b67b495b87fc4c0/250x250-000000-80-0-0.jpg",
+                                               "width":  250
+                                           },
+                                           {
+                                               "height":  56,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/9d0d52af2e1e4ec56b67b495b87fc4c0/56x56-000000-80-0-0.jpg",
+                                               "width":  56
+                                           }
+                                       ],
+                            "name":  "Kali Uchis",
+                            "popularity":  82,
+                            "type":  "artist"
+                        }
+                    ],
+        "duration_ms":  187723,
+        "explicit":  false,
+        "id":  "2166050207",
+        "name":  "Moonlight",
+        "popularity":  82,
+        "preview_url":  "https://cdnt-preview.dzcdn.net/api/1/1/b/4/f/0/b4fb6f33c491289506297732d66ee6ce.mp3?hdnea=exp=1781369429~acl=/api/1/1/b/4/f/0/b4fb6f33c491289506297732d66ee6ce.mp3*~data=user_id=0,application_id=42~hmac=41a8f46bc339119d350af2903051c7719c08cfaa544679d2057f5536327249b7",
+        "track_number":  0,
+        "type":  "track"
+    },
+    {
+        "album":  {
+                      "album_type":  "album",
+                      "total_tracks":  0,
+                      "id":  "80492",
+                      "images":  [
+                                     {
+                                         "height":  1000,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/d75be311f5aba14b534eef0a22b801e4/1000x1000-000000-80-0-0.jpg",
+                                         "width":  1000
+                                     },
+                                     {
+                                         "height":  500,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/d75be311f5aba14b534eef0a22b801e4/500x500-000000-80-0-0.jpg",
+                                         "width":  500
+                                     },
+                                     {
+                                         "height":  250,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/d75be311f5aba14b534eef0a22b801e4/250x250-000000-80-0-0.jpg",
+                                         "width":  250
+                                     },
+                                     {
+                                         "height":  56,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/d75be311f5aba14b534eef0a22b801e4/56x56-000000-80-0-0.jpg",
+                                         "width":  56
+                                     }
+                                 ],
+                      "name":  "The Papercut Chronicles",
+                      "release_date":  "2005-02-22",
+                      "release_date_precision":  "day",
+                      "type":  "album",
+                      "genres":  [
+
+                                 ],
+                      "popularity":  83,
+                      "artists":  [
+                                      {
+                                          "followers":  {
+                                                            "total":  313682
+                                                        },
+                                          "genres":  [
+
+                                                     ],
+                                          "id":  "5576",
+                                          "images":  [
+                                                         {
+                                                             "height":  1000,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/e5273927b9e83a654b04a26656147695/1000x1000-000000-80-0-0.jpg",
+                                                             "width":  1000
+                                                         },
+                                                         {
+                                                             "height":  500,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/e5273927b9e83a654b04a26656147695/500x500-000000-80-0-0.jpg",
+                                                             "width":  500
+                                                         },
+                                                         {
+                                                             "height":  250,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/e5273927b9e83a654b04a26656147695/250x250-000000-80-0-0.jpg",
+                                                             "width":  250
+                                                         },
+                                                         {
+                                                             "height":  56,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/e5273927b9e83a654b04a26656147695/56x56-000000-80-0-0.jpg",
+                                                             "width":  56
+                                                         }
+                                                     ],
+                                          "name":  "Gym Class Heroes",
+                                          "popularity":  83,
+                                          "type":  "artist"
+                                      }
+                                  ],
+                      "tracks":  [
+
+                                 ]
+                  },
+        "artists":  [
+                        {
+                            "followers":  {
+                                              "total":  313682
+                                          },
+                            "genres":  [
+
+                                       ],
+                            "id":  "5576",
+                            "images":  [
+                                           {
+                                               "height":  1000,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/e5273927b9e83a654b04a26656147695/1000x1000-000000-80-0-0.jpg",
+                                               "width":  1000
+                                           },
+                                           {
+                                               "height":  500,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/e5273927b9e83a654b04a26656147695/500x500-000000-80-0-0.jpg",
+                                               "width":  500
+                                           },
+                                           {
+                                               "height":  250,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/e5273927b9e83a654b04a26656147695/250x250-000000-80-0-0.jpg",
+                                               "width":  250
+                                           },
+                                           {
+                                               "height":  56,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/e5273927b9e83a654b04a26656147695/56x56-000000-80-0-0.jpg",
+                                               "width":  56
+                                           }
+                                       ],
+                            "name":  "Gym Class Heroes",
+                            "popularity":  83,
+                            "type":  "artist"
+                        }
+                    ],
+        "duration_ms":  243773,
+        "explicit":  false,
+        "id":  "663626",
+        "name":  "Cupid\u0027s Chokehold / Breakfast in America",
+        "popularity":  83,
+        "preview_url":  "https://cdnt-preview.dzcdn.net/api/1/1/7/4/3/0/743c4c5245037b74ac99b5f22c87517f.mp3?hdnea=exp=1781369429~acl=/api/1/1/7/4/3/0/743c4c5245037b74ac99b5f22c87517f.mp3*~data=user_id=0,application_id=42~hmac=e0990c55588388d908d96f15e64018c28bf03f7c89348e278b8eadcc1147c3be",
+        "track_number":  0,
+        "type":  "track"
+    }
+]

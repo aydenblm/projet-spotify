@@ -1,0 +1,282 @@
+﻿[
+    {
+        "slug":  "playlist",
+        "name":  "Sans titre",
+        "file":  "data/playlists/playlist.json",
+        "count":  113,
+        "duration_ms":  24806896,
+        "covers":  [
+                       "https://cdn-images.dzcdn.net/images/cover/3be2e791d3106359ed16fd7111c61335/500x500-000000-80-0-0.jpg",
+                       "https://cdn-images.dzcdn.net/images/cover/574bd156ad04b9af443cdf6775cfa8c3/500x500-000000-80-0-0.jpg",
+                       "https://cdn-images.dzcdn.net/images/cover/94fed2ddc6f304a9cd09f595033a7b72/500x500-000000-80-0-0.jpg",
+                       "https://cdn-images.dzcdn.net/images/cover/0ade4a9e6f79c717fa34b884055cbcb3/500x500-000000-80-0-0.jpg"
+                   ],
+        "hidden":  true
+    },
+    {
+        "slug":  "playlist-2",
+        "name":  "•",
+        "file":  "data/playlists/playlist-2.json",
+        "count":  174,
+        "duration_ms":  36601620,
+        "covers":  [
+                       "https://cdn-images.dzcdn.net/images/cover/1cec367f43d884cb853c55e9d6fcaff9/500x500-000000-80-0-0.jpg",
+                       "https://cdn-images.dzcdn.net/images/cover/e4b16c1afe136140bba34368357e8f05/500x500-000000-80-0-0.jpg",
+                       "https://cdn-images.dzcdn.net/images/cover/8e3bf16fd0d1e9f63c87ddd6571531f9/500x500-000000-80-0-0.jpg",
+                       "https://cdn-images.dzcdn.net/images/cover/6a3f72445fe53d1bf671b9046dd421a1/500x500-000000-80-0-0.jpg"
+                   ],
+        "hidden":  true
+    },
+    {
+        "slug":  "ascend",
+        "name":  "Ascend",
+        "file":  "data/playlists/ascend.json",
+        "count":  33,
+        "duration_ms":  5274337,
+        "covers":  [
+                       "https://cdn-images.dzcdn.net/images/cover/ad6573b585bb250f4edfa005b8d03b82/500x500-000000-80-0-0.jpg",
+                       "https://cdn-images.dzcdn.net/images/cover/74ad20f532d6dca223789fd6cc2cc8ef/500x500-000000-80-0-0.jpg",
+                       "https://cdn-images.dzcdn.net/images/cover/fd59d47a03516470f86b3b0ab6d45251/500x500-000000-80-0-0.jpg",
+                       "https://cdn-images.dzcdn.net/images/cover/b93598ce01c7c80e131cf8c3ffe9b578/500x500-000000-80-0-0.jpg"
+                   ],
+        "hidden":  false
+    },
+    {
+        "slug":  "Bivouac",
+        "name":  "Bivouac",
+        "file":  "data/playlists/bivouac.json",
+        "count":  40,
+        "duration_ms":  9060187,
+        "covers":  [
+                       "https://cdn-images.dzcdn.net/images/cover/deb5798e006212196e0075379607762e/500x500-000000-80-0-0.jpg",
+                       "https://cdn-images.dzcdn.net/images/cover/a56d7dac6980f4c4f2eb2e8221a5c226/500x500-000000-80-0-0.jpg",
+                       "https://cdn-images.dzcdn.net/images/cover/68003d6333a8bd0366148f0ba3927b7d/500x500-000000-80-0-0.jpg",
+                       "https://cdn-images.dzcdn.net/images/cover/e635a8510c1a74bc089b3566ebbb9cb8/500x500-000000-80-0-0.jpg"
+                   ],
+        "hidden":  false
+    },
+    {
+        "slug":  "Valorant",
+        "name":  "Valorant",
+        "file":  "data/playlists/calm-valorant-aimbot-playlist.json",
+        "count":  32,
+        "duration_ms":  5922596,
+        "covers":  [
+                       "https://cdn-images.dzcdn.net/images/cover/7c6d7a571913cd3b75ef46c119ae6395/500x500-000000-80-0-0.jpg",
+                       "https://cdn-images.dzcdn.net/images/cover/b3f2043b6029ddb654680feac3a555f5/500x500-000000-80-0-0.jpg",
+                       "https://cdn-images.dzcdn.net/images/cover/11187c27551ef67612f3582cb1630412/500x500-000000-80-0-0.jpg",
+                       "https://cdn-images.dzcdn.net/images/cover/4c9c0ce977d9db5781b504194d8e6b2f/500x500-000000-80-0-0.jpg"
+                   ],
+        "hidden":  false
+    },
+    {
+        "slug":  "Cyberpunk 2077",
+        "name":  "Cyberpunk 2077",
+        "file":  "data/playlists/cyberpunk-2077-official-playlist.json",
+        "count":  50,
+        "duration_ms":  11014685,
+        "covers":  [
+                       "https://cdn-images.dzcdn.net/images/cover/6dd9e96f9356f9f91ed9eda3e9e43bb9/500x500-000000-80-0-0.jpg",
+                       "https://cdn-images.dzcdn.net/images/cover/3e2bf80497dbd632aaffa985a2766938/500x500-000000-80-0-0.jpg",
+                       "https://cdn-images.dzcdn.net/images/cover/7fbba55d0b31bd564d119eb5f85b9150/500x500-000000-80-0-0.jpg",
+                       "https://cdn-images.dzcdn.net/images/cover/d3e3fd3a1d2360511eb43bee4c786028/500x500-000000-80-0-0.jpg"
+                   ],
+        "hidden":  false
+    },
+    {
+        "slug":  "en-boucle",
+        "name":  "En boucle",
+        "file":  "data/playlists/en-boucle.json",
+        "count":  25,
+        "duration_ms":  5277499,
+        "covers":  [
+                       "https://cdn-images.dzcdn.net/images/cover/882448ab63952aa16e502c82db2df160/500x500-000000-80-0-0.jpg",
+                       "https://cdn-images.dzcdn.net/images/cover/ac0b6807a897fde2a64d5c2d110c454e/500x500-000000-80-0-0.jpg",
+                       "https://cdn-images.dzcdn.net/images/cover/6be0ad65becebd1772d8fec8f8b3aa36/500x500-000000-80-0-0.jpg",
+                       "https://cdn-images.dzcdn.net/images/cover/49c63aeb2f1fb25dfe2e19034bfbc764/500x500-000000-80-0-0.jpg"
+                   ],
+        "hidden":  true
+    },
+    {
+        "slug":  "hardcore-gym-playlist",
+        "name":  "HARDCORE GYM PLAYLIST☠️",
+        "file":  "data/playlists/hardcore-gym-playlist.json",
+        "count":  16,
+        "duration_ms":  3423858,
+        "covers":  [
+                       "https://cdn-images.dzcdn.net/images/cover/ad0c61cf93aedd6c640652046f40903e/500x500-000000-80-0-0.jpg",
+                       "https://cdn-images.dzcdn.net/images/cover/d84e2db2b2e7dd485be00e6b47c173b9/500x500-000000-80-0-0.jpg",
+                       "https://cdn-images.dzcdn.net/images/cover/30782cd7a46180072c15f08fc0cafccb/500x500-000000-80-0-0.jpg",
+                       "https://cdn-images.dzcdn.net/images/cover/576fa9358e0332d196c1aa47f38105f8/500x500-000000-80-0-0.jpg"
+                   ],
+        "hidden":  false
+    },
+    {
+        "slug":  "Black Pill",
+        "name":  "Black Pill",
+        "file":  "data/playlists/hardtekk-dark-triad-bp-edit-songs.json",
+        "count":  286,
+        "duration_ms":  34806914,
+        "covers":  [
+                       "https://cdn-images.dzcdn.net/images/cover/4a7016d69219af916b0b88646470c69c/500x500-000000-80-0-0.jpg",
+                       "https://cdn-images.dzcdn.net/images/cover/6c1e0361b828853b652890542de9f393/500x500-000000-80-0-0.jpg",
+                       "https://cdn-images.dzcdn.net/images/cover/33a16e077e047d4e0fee044ecb597c7e/500x500-000000-80-0-0.jpg",
+                       "https://cdn-images.dzcdn.net/images/cover/1d3ad2aa429eb7112e80279e19546bc5/500x500-000000-80-0-0.jpg"
+                   ],
+        "hidden":  false
+    },
+    {
+        "slug":  "hell-yeah",
+        "name":  "Hell Yeah",
+        "file":  "data/playlists/hell-yeah.json",
+        "count":  29,
+        "duration_ms":  7603980,
+        "covers":  [
+                       "https://cdn-images.dzcdn.net/images/cover/266f01f1c7a04843d11cd08f9c07d11f/500x500-000000-80-0-0.jpg",
+                       "https://cdn-images.dzcdn.net/images/cover/2a23f52b8670a2accd4fd8b4e7883b86/500x500-000000-80-0-0.jpg",
+                       "https://cdn-images.dzcdn.net/images/cover/56c02d3764f5a078ceecd27b64b7d789/500x500-000000-80-0-0.jpg",
+                       "https://cdn-images.dzcdn.net/images/cover/dfac55e96845ed0a390772db1e8e6d2b/500x500-000000-80-0-0.jpg"
+                   ],
+        "hidden":  true
+    },
+    {
+        "slug":  "intraveineuse",
+        "name":  "Intraveineuse Re.",
+        "file":  "data/playlists/intraveineuse-re.json",
+        "count":  162,
+        "duration_ms":  38179765,
+        "covers":  [
+                       "https://cdn-images.dzcdn.net/images/cover/427acf920d159433f06ff0c526865e20/500x500-000000-80-0-0.jpg",
+                       "https://cdn-images.dzcdn.net/images/cover/d0ebb9e7859de4b99f5fb4bbad1bd500/500x500-000000-80-0-0.jpg",
+                       "https://cdn-images.dzcdn.net/images/cover/a1fce47223abf353ce34b06995c1383f/500x500-000000-80-0-0.jpg",
+                       "https://cdn-images.dzcdn.net/images/cover/0e336a171b9b68cffcd9605f77b5160a/500x500-000000-80-0-0.jpg"
+                   ],
+        "hidden":  false
+    },
+    {
+        "slug":  "Snk",
+        "name":  "Snk",
+        "file":  "data/playlists/l-attaque-des-titans-les-indispensables.json",
+        "count":  24,
+        "duration_ms":  6359849,
+        "covers":  [
+                       "https://cdn-images.dzcdn.net/images/cover/9779aafa53e83e391af7e79d44e63730/500x500-000000-80-0-0.jpg",
+                       "https://cdn-images.dzcdn.net/images/cover/733df0749882c3622e6e572e6c5931f3/500x500-000000-80-0-0.jpg",
+                       "https://cdn-images.dzcdn.net/images/cover/48954a98ff90dc6bb2e2890edccfe000/500x500-000000-80-0-0.jpg",
+                       "https://cdn-images.dzcdn.net/images/cover/4ad5673080e94076284349dd3b58e5a2/500x500-000000-80-0-0.jpg"
+                   ],
+        "hidden":  false
+    },
+    {
+        "slug":  "liked-songs",
+        "name":  "Liked Songs",
+        "file":  "data/playlists/liked-songs.json",
+        "count":  267,
+        "duration_ms":  56311879,
+        "covers":  [
+                       "https://cdn-images.dzcdn.net/images/cover/72d7a182dc9861081be935a83241de01/500x500-000000-80-0-0.jpg",
+                       "https://cdn-images.dzcdn.net/images/cover/c0653659b83b9f42e2476d7990e2b4b2/500x500-000000-80-0-0.jpg",
+                       "https://cdn-images.dzcdn.net/images/cover/a725091bca4ee33a328aa0de903601cf/500x500-000000-80-0-0.jpg",
+                       "https://cdn-images.dzcdn.net/images/cover/bebd5909294fe77dd4d253fea01c8888/500x500-000000-80-0-0.jpg"
+                   ],
+        "hidden":  true
+    },
+    {
+        "slug":  "looksmaxing-playlist",
+        "name":  "Looksmaxing playlist",
+        "file":  "data/playlists/looksmaxing-playlist.json",
+        "count":  490,
+        "duration_ms":  78477934,
+        "covers":  [
+                       "https://cdn-images.dzcdn.net/images/cover/0b220c4da2049ce50f1f4804986ad13e/500x500-000000-80-0-0.jpg",
+                       "https://cdn-images.dzcdn.net/images/cover/43cdb0a428f4f45d0dcc3159dfa78fd2/500x500-000000-80-0-0.jpg",
+                       "https://cdn-images.dzcdn.net/images/cover/5f8802dd518509b45fa2219dbae20995/500x500-000000-80-0-0.jpg",
+                       "https://cdn-images.dzcdn.net/images/cover/31483103f639ec327a1c0fe886b019f6/500x500-000000-80-0-0.jpg"
+                   ],
+        "hidden":  true
+    },
+    {
+        "slug":  "Lover",
+        "name":  "lover",
+        "file":  "data/playlists/lover.json",
+        "count":  27,
+        "duration_ms":  5875090,
+        "covers":  [
+                       "https://cdn-images.dzcdn.net/images/cover/dc937566c6e1d6a00d8c9e2ddb26ed8e/500x500-000000-80-0-0.jpg",
+                       "https://cdn-images.dzcdn.net/images/cover/99571dc76a267981fc3a649f871c05a6/500x500-000000-80-0-0.jpg",
+                       "https://cdn-images.dzcdn.net/images/cover/b9a111b687d82473b88c9c3dacfe13d1/500x500-000000-80-0-0.jpg",
+                       "https://cdn-images.dzcdn.net/images/cover/56bdb7a86a27fadb96332c0c8f1b8e81/500x500-000000-80-0-0.jpg"
+                   ],
+        "hidden":  false
+    },
+    {
+        "slug":  "Ost",
+        "name":  "Opening",
+        "file":  "data/playlists/opening.json",
+        "count":  32,
+        "duration_ms":  7885779,
+        "covers":  [
+                       "https://cdn-images.dzcdn.net/images/cover/d59f50f7eb9c37d446ba2fd8648523a8/500x500-000000-80-0-0.jpg",
+                       "https://cdn-images.dzcdn.net/images/cover/e323f6a49575c29be3b7dcbd1ef84f70/500x500-000000-80-0-0.jpg",
+                       "https://cdn-images.dzcdn.net/images/cover/6be0ad65becebd1772d8fec8f8b3aa36/500x500-000000-80-0-0.jpg",
+                       "https://cdn-images.dzcdn.net/images/cover/5565e90a39c9f626d6d91fc7d5a51d85/500x500-000000-80-0-0.jpg"
+                   ],
+        "hidden":  false
+    },
+    {
+        "slug":  "Random",
+        "name":  "Random",
+        "file":  "data/playlists/radio-the-kill-2.json",
+        "count":  50,
+        "duration_ms":  7375549,
+        "covers":  [
+                       "https://cdn-images.dzcdn.net/images/cover/0aca7434361679b1b9274ca9217a0282/500x500-000000-80-0-0.jpg",
+                       "https://cdn-images.dzcdn.net/images/cover/c0653659b83b9f42e2476d7990e2b4b2/500x500-000000-80-0-0.jpg",
+                       "https://cdn-images.dzcdn.net/images/cover/ad6573b585bb250f4edfa005b8d03b82/500x500-000000-80-0-0.jpg",
+                       "https://cdn-images.dzcdn.net/images/cover/fa3699db9a6a4dd95684ff2696bc3c5b/500x500-000000-80-0-0.jpg"
+                   ],
+        "hidden":  false
+    },
+    {
+        "slug":  "tiktok-songs",
+        "name":  "TikTok Songs",
+        "file":  "data/playlists/tiktok-songs.json",
+        "count":  174,
+        "duration_ms":  36531654,
+        "covers":  [
+                       "https://cdn-images.dzcdn.net/images/cover/45f0f10df9b07a42826843c122192603/500x500-000000-80-0-0.jpg",
+                       "https://cdn-images.dzcdn.net/images/cover/542f3cf269ecd13c216546a718a6dc22/500x500-000000-80-0-0.jpg",
+                       "https://cdn-images.dzcdn.net/images/cover/b7fbbf269348650cee5dd6c5e3df4127/500x500-000000-80-0-0.jpg",
+                       "https://cdn-images.dzcdn.net/images/cover/8252e9d1e87b9048ea1252f29bce2c5b/500x500-000000-80-0-0.jpg"
+                   ],
+        "hidden":  true
+    },
+    {
+        "slug":  "Fav all time",
+        "name":  "Fav all time",
+        "file":  "data/playlists/ton-top-du-top-titres.json",
+        "count":  120,
+        "duration_ms":  25873040,
+        "covers":  [
+                       "https://cdn-images.dzcdn.net/images/cover/692d743b7370f5726e676aea1b816515/500x500-000000-80-0-0.jpg",
+                       "https://cdn-images.dzcdn.net/images/cover/a05190fdee8d9601e6dc9a9b75c517b2/500x500-000000-80-0-0.jpg",
+                       "https://cdn-images.dzcdn.net/images/cover/00fe0d663fe0f5360054d1adf9a50526/500x500-000000-80-0-0.jpg",
+                       "https://cdn-images.dzcdn.net/images/cover/a98d324be4c3aefcaebfb81165e46561/500x500-000000-80-0-0.jpg"
+                   ],
+        "hidden":  false
+    },
+    {
+        "slug":  "Voiture",
+        "name":  "Voiture",
+        "file":  "data/playlists/voiture.json",
+        "count":  10,
+        "duration_ms":  2193586,
+        "covers":  [
+                       "https://cdn-images.dzcdn.net/images/cover/c108a55ba866c0b2ea17c07aba98d4bb/500x500-000000-80-0-0.jpg",
+                       "https://cdn-images.dzcdn.net/images/cover/f211fec9daca37fc6fc91ffdc738a213/500x500-000000-80-0-0.jpg",
+                       "https://cdn-images.dzcdn.net/images/cover/ba9cc427054c652d2b545f92bb56a945/500x500-000000-80-0-0.jpg",
+                       "https://cdn-images.dzcdn.net/images/cover/376217706b38f515f4062fa4617811dc/500x500-000000-80-0-0.jpg"
+                   ],
+        "hidden":  false
+    }
+]

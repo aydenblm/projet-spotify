@@ -1,0 +1,3257 @@
+﻿[
+    {
+        "album":  {
+                      "album_type":  "album",
+                      "total_tracks":  0,
+                      "id":  "938979441",
+                      "images":  [
+                                     {
+                                         "height":  1000,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/ad6573b585bb250f4edfa005b8d03b82/1000x1000-000000-80-0-0.jpg",
+                                         "width":  1000
+                                     },
+                                     {
+                                         "height":  500,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/ad6573b585bb250f4edfa005b8d03b82/500x500-000000-80-0-0.jpg",
+                                         "width":  500
+                                     },
+                                     {
+                                         "height":  250,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/ad6573b585bb250f4edfa005b8d03b82/250x250-000000-80-0-0.jpg",
+                                         "width":  250
+                                     },
+                                     {
+                                         "height":  56,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/ad6573b585bb250f4edfa005b8d03b82/56x56-000000-80-0-0.jpg",
+                                         "width":  56
+                                     }
+                                 ],
+                      "name":  "worry (ultra slowed)",
+                      "release_date":  "2026-03-13",
+                      "release_date_precision":  "day",
+                      "type":  "album",
+                      "genres":  [
+                                     "phonk",
+                                     "witch house",
+                                     "électroclash"
+                                 ],
+                      "popularity":  85,
+                      "artists":  [
+                                      {
+                                          "followers":  {
+                                                            "total":  0
+                                                        },
+                                          "genres":  [
+                                                         "phonk",
+                                                         "witch house",
+                                                         "électroclash"
+                                                     ],
+                                          "id":  "lonown;riserayss",
+                                          "images":  [
+
+                                                     ],
+                                          "name":  "LONOWN;riserayss",
+                                          "popularity":  85,
+                                          "type":  "artist"
+                                      }
+                                  ],
+                      "tracks":  [
+
+                                 ]
+                  },
+        "artists":  [
+                        {
+                            "followers":  {
+                                              "total":  0
+                                          },
+                            "genres":  [
+                                           "phonk",
+                                           "witch house",
+                                           "électroclash"
+                                       ],
+                            "id":  "lonown;riserayss",
+                            "images":  [
+
+                                       ],
+                            "name":  "LONOWN;riserayss",
+                            "popularity":  85,
+                            "type":  "artist"
+                        }
+                    ],
+        "duration_ms":  255591,
+        "explicit":  false,
+        "id":  "3898587891",
+        "name":  "worry - ultra slowed",
+        "popularity":  85,
+        "preview_url":  "https://cdnt-preview.dzcdn.net/api/1/1/5/7/d/0/57dbfce8a02031002b9b4219da5182c5.mp3?hdnea=exp=1781369040~acl=/api/1/1/5/7/d/0/57dbfce8a02031002b9b4219da5182c5.mp3*~data=user_id=0,application_id=42~hmac=cce08887f58c33d3465b27d3eed8ebaef30a0d49e7e28aaa28188046d966176e",
+        "track_number":  0,
+        "type":  "track"
+    },
+    {
+        "album":  {
+                      "album_type":  "album",
+                      "total_tracks":  0,
+                      "id":  "938278741",
+                      "images":  [
+                                     {
+                                         "height":  1000,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/74ad20f532d6dca223789fd6cc2cc8ef/1000x1000-000000-80-0-0.jpg",
+                                         "width":  1000
+                                     },
+                                     {
+                                         "height":  500,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/74ad20f532d6dca223789fd6cc2cc8ef/500x500-000000-80-0-0.jpg",
+                                         "width":  500
+                                     },
+                                     {
+                                         "height":  250,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/74ad20f532d6dca223789fd6cc2cc8ef/250x250-000000-80-0-0.jpg",
+                                         "width":  250
+                                     },
+                                     {
+                                         "height":  56,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/74ad20f532d6dca223789fd6cc2cc8ef/56x56-000000-80-0-0.jpg",
+                                         "width":  56
+                                     }
+                                 ],
+                      "name":  "Versatile",
+                      "release_date":  "2026-03-13",
+                      "release_date_precision":  "day",
+                      "type":  "album",
+                      "genres":  [
+
+                                 ],
+                      "popularity":  70,
+                      "artists":  [
+                                      {
+                                          "followers":  {
+                                                            "total":  0
+                                                        },
+                                          "genres":  [
+
+                                                     ],
+                                          "id":  "deprezz;finest",
+                                          "images":  [
+
+                                                     ],
+                                          "name":  "deprezz;finest",
+                                          "popularity":  70,
+                                          "type":  "artist"
+                                      }
+                                  ],
+                      "tracks":  [
+
+                                 ]
+                  },
+        "artists":  [
+                        {
+                            "followers":  {
+                                              "total":  0
+                                          },
+                            "genres":  [
+
+                                       ],
+                            "id":  "deprezz;finest",
+                            "images":  [
+
+                                       ],
+                            "name":  "deprezz;finest",
+                            "popularity":  70,
+                            "type":  "artist"
+                        }
+                    ],
+        "duration_ms":  132874,
+        "explicit":  false,
+        "id":  "3896672871",
+        "name":  "Versatile",
+        "popularity":  70,
+        "preview_url":  "https://cdnt-preview.dzcdn.net/api/1/1/d/c/6/0/dc6bebbe3377883137daa2e39a865336.mp3?hdnea=exp=1781369040~acl=/api/1/1/d/c/6/0/dc6bebbe3377883137daa2e39a865336.mp3*~data=user_id=0,application_id=42~hmac=6bd31e261aa2a2603d8042da633f8214ed12e99e1173853e3d62983f784f1677",
+        "track_number":  0,
+        "type":  "track"
+    },
+    {
+        "album":  {
+                      "album_type":  "album",
+                      "total_tracks":  0,
+                      "id":  "",
+                      "images":  {
+
+                                 },
+                      "name":  "Midnight",
+                      "release_date":  "2025-12-10",
+                      "release_date_precision":  "day",
+                      "type":  "album",
+                      "genres":  [
+
+                                 ],
+                      "popularity":  39,
+                      "artists":  [
+                                      {
+                                          "followers":  {
+                                                            "total":  13
+                                                        },
+                                          "genres":  [
+
+                                                     ],
+                                          "id":  "341962121",
+                                          "images":  [
+                                                         {
+                                                             "height":  1000,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/6f4d8c8f12906801c4f47ddbdcd04708/1000x1000-000000-80-0-0.jpg",
+                                                             "width":  1000
+                                                         },
+                                                         {
+                                                             "height":  500,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/6f4d8c8f12906801c4f47ddbdcd04708/500x500-000000-80-0-0.jpg",
+                                                             "width":  500
+                                                         },
+                                                         {
+                                                             "height":  250,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/6f4d8c8f12906801c4f47ddbdcd04708/250x250-000000-80-0-0.jpg",
+                                                             "width":  250
+                                                         },
+                                                         {
+                                                             "height":  56,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/6f4d8c8f12906801c4f47ddbdcd04708/56x56-000000-80-0-0.jpg",
+                                                             "width":  56
+                                                         }
+                                                     ],
+                                          "name":  "Nxon Oaks.",
+                                          "popularity":  39,
+                                          "type":  "artist"
+                                      }
+                                  ],
+                      "tracks":  [
+
+                                 ]
+                  },
+        "artists":  [
+                        {
+                            "followers":  {
+                                              "total":  13
+                                          },
+                            "genres":  [
+
+                                       ],
+                            "id":  "341962121",
+                            "images":  [
+                                           {
+                                               "height":  1000,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/6f4d8c8f12906801c4f47ddbdcd04708/1000x1000-000000-80-0-0.jpg",
+                                               "width":  1000
+                                           },
+                                           {
+                                               "height":  500,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/6f4d8c8f12906801c4f47ddbdcd04708/500x500-000000-80-0-0.jpg",
+                                               "width":  500
+                                           },
+                                           {
+                                               "height":  250,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/6f4d8c8f12906801c4f47ddbdcd04708/250x250-000000-80-0-0.jpg",
+                                               "width":  250
+                                           },
+                                           {
+                                               "height":  56,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/6f4d8c8f12906801c4f47ddbdcd04708/56x56-000000-80-0-0.jpg",
+                                               "width":  56
+                                           }
+                                       ],
+                            "name":  "Nxon Oaks.",
+                            "popularity":  39,
+                            "type":  "artist"
+                        }
+                    ],
+        "duration_ms":  118336,
+        "explicit":  false,
+        "id":  "spotify:track:7myRT6HNGbSprqcLv9b1jv",
+        "name":  "Midnight",
+        "popularity":  39,
+        "preview_url":  "",
+        "track_number":  0,
+        "type":  "track"
+    },
+    {
+        "album":  {
+                      "album_type":  "album",
+                      "total_tracks":  0,
+                      "id":  "892934352",
+                      "images":  [
+                                     {
+                                         "height":  1000,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/fd59d47a03516470f86b3b0ab6d45251/1000x1000-000000-80-0-0.jpg",
+                                         "width":  1000
+                                     },
+                                     {
+                                         "height":  500,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/fd59d47a03516470f86b3b0ab6d45251/500x500-000000-80-0-0.jpg",
+                                         "width":  500
+                                     },
+                                     {
+                                         "height":  250,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/fd59d47a03516470f86b3b0ab6d45251/250x250-000000-80-0-0.jpg",
+                                         "width":  250
+                                     },
+                                     {
+                                         "height":  56,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/fd59d47a03516470f86b3b0ab6d45251/56x56-000000-80-0-0.jpg",
+                                         "width":  56
+                                     }
+                                 ],
+                      "name":  "Work Hard Play Hard (The Dark Triad)",
+                      "release_date":  "2026-01-08",
+                      "release_date_precision":  "day",
+                      "type":  "album",
+                      "genres":  [
+                                     "hardstyle",
+                                     "tekno"
+                                 ],
+                      "popularity":  68,
+                      "artists":  [
+                                      {
+                                          "followers":  {
+                                                            "total":  0
+                                                        },
+                                          "genres":  [
+                                                         "hardstyle",
+                                                         "tekno"
+                                                     ],
+                                          "id":  "hardstyle demon;ascend",
+                                          "images":  [
+
+                                                     ],
+                                          "name":  "HARDSTYLE DEMON;ASCEND",
+                                          "popularity":  68,
+                                          "type":  "artist"
+                                      }
+                                  ],
+                      "tracks":  [
+
+                                 ]
+                  },
+        "artists":  [
+                        {
+                            "followers":  {
+                                              "total":  0
+                                          },
+                            "genres":  [
+                                           "hardstyle",
+                                           "tekno"
+                                       ],
+                            "id":  "hardstyle demon;ascend",
+                            "images":  [
+
+                                       ],
+                            "name":  "HARDSTYLE DEMON;ASCEND",
+                            "popularity":  68,
+                            "type":  "artist"
+                        }
+                    ],
+        "duration_ms":  132653,
+        "explicit":  false,
+        "id":  "3761517082",
+        "name":  "Work Hard Play Hard (Slowed Hardstyle)",
+        "popularity":  68,
+        "preview_url":  "https://cdnt-preview.dzcdn.net/api/1/1/6/3/3/0/633405821a792a675454a0b4818031e4.mp3?hdnea=exp=1781369041~acl=/api/1/1/6/3/3/0/633405821a792a675454a0b4818031e4.mp3*~data=user_id=0,application_id=42~hmac=5c00d42302c0136a8a73e39eae5e949eecded47bc65dcf73766a4d4955583896",
+        "track_number":  0,
+        "type":  "track"
+    },
+    {
+        "album":  {
+                      "album_type":  "album",
+                      "total_tracks":  0,
+                      "id":  "",
+                      "images":  {
+
+                                 },
+                      "name":  "On Dat Bxtch (slowed)",
+                      "release_date":  "2026-03-24",
+                      "release_date_precision":  "day",
+                      "type":  "album",
+                      "genres":  [
+
+                                 ],
+                      "popularity":  46,
+                      "artists":  [
+                                      {
+                                          "followers":  {
+                                                            "total":  0
+                                                        },
+                                          "genres":  [
+
+                                                     ],
+                                          "id":  "shubham;ciaffa;icedlatté",
+                                          "images":  [
+
+                                                     ],
+                                          "name":  "shubham;ciaffa;IcedLatté",
+                                          "popularity":  46,
+                                          "type":  "artist"
+                                      }
+                                  ],
+                      "tracks":  [
+
+                                 ]
+                  },
+        "artists":  [
+                        {
+                            "followers":  {
+                                              "total":  0
+                                          },
+                            "genres":  [
+
+                                       ],
+                            "id":  "shubham;ciaffa;icedlatté",
+                            "images":  [
+
+                                       ],
+                            "name":  "shubham;ciaffa;IcedLatté",
+                            "popularity":  46,
+                            "type":  "artist"
+                        }
+                    ],
+        "duration_ms":  160098,
+        "explicit":  false,
+        "id":  "spotify:track:4oGbE8V7mD3tnyc4jDQfXb",
+        "name":  "On Dat Bxtch - slowed",
+        "popularity":  46,
+        "preview_url":  "",
+        "track_number":  0,
+        "type":  "track"
+    },
+    {
+        "album":  {
+                      "album_type":  "album",
+                      "total_tracks":  0,
+                      "id":  "897382702",
+                      "images":  [
+                                     {
+                                         "height":  1000,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/b93598ce01c7c80e131cf8c3ffe9b578/1000x1000-000000-80-0-0.jpg",
+                                         "width":  1000
+                                     },
+                                     {
+                                         "height":  500,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/b93598ce01c7c80e131cf8c3ffe9b578/500x500-000000-80-0-0.jpg",
+                                         "width":  500
+                                     },
+                                     {
+                                         "height":  250,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/b93598ce01c7c80e131cf8c3ffe9b578/250x250-000000-80-0-0.jpg",
+                                         "width":  250
+                                     },
+                                     {
+                                         "height":  56,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/b93598ce01c7c80e131cf8c3ffe9b578/56x56-000000-80-0-0.jpg",
+                                         "width":  56
+                                     }
+                                 ],
+                      "name":  "Work Hard Play Hard Hardstyle (The Dark Triad)",
+                      "release_date":  "2026-01-15",
+                      "release_date_precision":  "day",
+                      "type":  "album",
+                      "genres":  [
+                                     "tekno"
+                                 ],
+                      "popularity":  62,
+                      "artists":  [
+                                      {
+                                          "followers":  {
+                                                            "total":  0
+                                                        },
+                                          "genres":  [
+                                                         "tekno"
+                                                     ],
+                                          "id":  "pantheon;svdst",
+                                          "images":  [
+
+                                                     ],
+                                          "name":  "PANTHEON;svdst",
+                                          "popularity":  62,
+                                          "type":  "artist"
+                                      }
+                                  ],
+                      "tracks":  [
+
+                                 ]
+                  },
+        "artists":  [
+                        {
+                            "followers":  {
+                                              "total":  0
+                                          },
+                            "genres":  [
+                                           "tekno"
+                                       ],
+                            "id":  "pantheon;svdst",
+                            "images":  [
+
+                                       ],
+                            "name":  "PANTHEON;svdst",
+                            "popularity":  62,
+                            "type":  "artist"
+                        }
+                    ],
+        "duration_ms":  178216,
+        "explicit":  false,
+        "id":  "3773971112",
+        "name":  "Play Hard - Hardstyle Slowed \u0026 Reverb",
+        "popularity":  62,
+        "preview_url":  "https://cdnt-preview.dzcdn.net/api/1/1/0/4/d/0/04d42d7fd3136594246683835da2ad00.mp3?hdnea=exp=1781369042~acl=/api/1/1/0/4/d/0/04d42d7fd3136594246683835da2ad00.mp3*~data=user_id=0,application_id=42~hmac=99175163bf943ede88b73418864637a21e01ebae298123798d5cbd6b1512def1",
+        "track_number":  0,
+        "type":  "track"
+    },
+    {
+        "album":  {
+                      "album_type":  "album",
+                      "total_tracks":  0,
+                      "id":  "897620142",
+                      "images":  [
+                                     {
+                                         "height":  1000,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/0aa1c4fabb23e8f2b9c48c5330e99e77/1000x1000-000000-80-0-0.jpg",
+                                         "width":  1000
+                                     },
+                                     {
+                                         "height":  500,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/0aa1c4fabb23e8f2b9c48c5330e99e77/500x500-000000-80-0-0.jpg",
+                                         "width":  500
+                                     },
+                                     {
+                                         "height":  250,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/0aa1c4fabb23e8f2b9c48c5330e99e77/250x250-000000-80-0-0.jpg",
+                                         "width":  250
+                                     },
+                                     {
+                                         "height":  56,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/0aa1c4fabb23e8f2b9c48c5330e99e77/56x56-000000-80-0-0.jpg",
+                                         "width":  56
+                                     }
+                                 ],
+                      "name":  "Wutiwant",
+                      "release_date":  "2026-01-14",
+                      "release_date_precision":  "day",
+                      "type":  "album",
+                      "genres":  [
+                                     "lo-fi"
+                                 ],
+                      "popularity":  55,
+                      "artists":  [
+                                      {
+                                          "followers":  {
+                                                            "total":  0
+                                                        },
+                                          "genres":  [
+                                                         "lo-fi"
+                                                     ],
+                                          "id":  "érror;alper6nen",
+                                          "images":  [
+
+                                                     ],
+                                          "name":  "érror;alper6nen",
+                                          "popularity":  55,
+                                          "type":  "artist"
+                                      }
+                                  ],
+                      "tracks":  [
+
+                                 ]
+                  },
+        "artists":  [
+                        {
+                            "followers":  {
+                                              "total":  0
+                                          },
+                            "genres":  [
+                                           "lo-fi"
+                                       ],
+                            "id":  "érror;alper6nen",
+                            "images":  [
+
+                                       ],
+                            "name":  "érror;alper6nen",
+                            "popularity":  55,
+                            "type":  "artist"
+                        }
+                    ],
+        "duration_ms":  160055,
+        "explicit":  false,
+        "id":  "3774689822",
+        "name":  "Wutiwant",
+        "popularity":  55,
+        "preview_url":  "https://cdnt-preview.dzcdn.net/api/1/1/c/d/c/0/cdc3881819681006a67d03e827fa283d.mp3?hdnea=exp=1781369042~acl=/api/1/1/c/d/c/0/cdc3881819681006a67d03e827fa283d.mp3*~data=user_id=0,application_id=42~hmac=c845612f81fc263aa7d5c812fa22069509316d7bdc42f29253a956a5cf18465e",
+        "track_number":  0,
+        "type":  "track"
+    },
+    {
+        "album":  {
+                      "album_type":  "album",
+                      "total_tracks":  0,
+                      "id":  "966414131",
+                      "images":  [
+                                     {
+                                         "height":  1000,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/92f9409604759fdac34fad12926bf3dc/1000x1000-000000-80-0-0.jpg",
+                                         "width":  1000
+                                     },
+                                     {
+                                         "height":  500,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/92f9409604759fdac34fad12926bf3dc/500x500-000000-80-0-0.jpg",
+                                         "width":  500
+                                     },
+                                     {
+                                         "height":  250,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/92f9409604759fdac34fad12926bf3dc/250x250-000000-80-0-0.jpg",
+                                         "width":  250
+                                     },
+                                     {
+                                         "height":  56,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/92f9409604759fdac34fad12926bf3dc/56x56-000000-80-0-0.jpg",
+                                         "width":  56
+                                     }
+                                 ],
+                      "name":  "MY JEALOUSY (Remixes)",
+                      "release_date":  "2026-01-07",
+                      "release_date_precision":  "day",
+                      "type":  "album",
+                      "genres":  [
+                                     "phonk"
+                                 ],
+                      "popularity":  53,
+                      "artists":  [
+                                      {
+                                          "followers":  {
+                                                            "total":  0
+                                                        },
+                                          "genres":  [
+                                                         "phonk"
+                                                     ],
+                                          "id":  "vivi baby;ovg!",
+                                          "images":  [
+
+                                                     ],
+                                          "name":  "vivi baby;ovg!",
+                                          "popularity":  53,
+                                          "type":  "artist"
+                                      }
+                                  ],
+                      "tracks":  [
+
+                                 ]
+                  },
+        "artists":  [
+                        {
+                            "followers":  {
+                                              "total":  0
+                                          },
+                            "genres":  [
+                                           "phonk"
+                                       ],
+                            "id":  "vivi baby;ovg!",
+                            "images":  [
+
+                                       ],
+                            "name":  "vivi baby;ovg!",
+                            "popularity":  53,
+                            "type":  "artist"
+                        }
+                    ],
+        "duration_ms":  186562,
+        "explicit":  true,
+        "id":  "3975066851",
+        "name":  "MY JEALOUSY - Super Slowed",
+        "popularity":  53,
+        "preview_url":  "https://cdnt-preview.dzcdn.net/api/1/1/4/7/d/0/47d931b4ea265cce512c203b56d0add9.mp3?hdnea=exp=1781369043~acl=/api/1/1/4/7/d/0/47d931b4ea265cce512c203b56d0add9.mp3*~data=user_id=0,application_id=42~hmac=67e85d0f85b8679be16a0262d3470e10bdcc9da9db9ac6527a9b6fa5482de15d",
+        "track_number":  0,
+        "type":  "track"
+    },
+    {
+        "album":  {
+                      "album_type":  "album",
+                      "total_tracks":  0,
+                      "id":  "892934352",
+                      "images":  [
+                                     {
+                                         "height":  1000,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/fd59d47a03516470f86b3b0ab6d45251/1000x1000-000000-80-0-0.jpg",
+                                         "width":  1000
+                                     },
+                                     {
+                                         "height":  500,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/fd59d47a03516470f86b3b0ab6d45251/500x500-000000-80-0-0.jpg",
+                                         "width":  500
+                                     },
+                                     {
+                                         "height":  250,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/fd59d47a03516470f86b3b0ab6d45251/250x250-000000-80-0-0.jpg",
+                                         "width":  250
+                                     },
+                                     {
+                                         "height":  56,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/fd59d47a03516470f86b3b0ab6d45251/56x56-000000-80-0-0.jpg",
+                                         "width":  56
+                                     }
+                                 ],
+                      "name":  "Work Hard Play Hard (The Dark Triad)",
+                      "release_date":  "2026-01-08",
+                      "release_date_precision":  "day",
+                      "type":  "album",
+                      "genres":  [
+                                     "hardstyle",
+                                     "tekno"
+                                 ],
+                      "popularity":  60,
+                      "artists":  [
+                                      {
+                                          "followers":  {
+                                                            "total":  0
+                                                        },
+                                          "genres":  [
+                                                         "hardstyle",
+                                                         "tekno"
+                                                     ],
+                                          "id":  "hardstyle demon;ascend",
+                                          "images":  [
+
+                                                     ],
+                                          "name":  "HARDSTYLE DEMON;ASCEND",
+                                          "popularity":  60,
+                                          "type":  "artist"
+                                      }
+                                  ],
+                      "tracks":  [
+
+                                 ]
+                  },
+        "artists":  [
+                        {
+                            "followers":  {
+                                              "total":  0
+                                          },
+                            "genres":  [
+                                           "hardstyle",
+                                           "tekno"
+                                       ],
+                            "id":  "hardstyle demon;ascend",
+                            "images":  [
+
+                                       ],
+                            "name":  "HARDSTYLE DEMON;ASCEND",
+                            "popularity":  60,
+                            "type":  "artist"
+                        }
+                    ],
+        "duration_ms":  267000,
+        "explicit":  false,
+        "id":  "3761517082",
+        "name":  "Work Hard Play Hard (Hardstyle)",
+        "popularity":  60,
+        "preview_url":  "https://cdnt-preview.dzcdn.net/api/1/1/6/3/3/0/633405821a792a675454a0b4818031e4.mp3?hdnea=exp=1781369043~acl=/api/1/1/6/3/3/0/633405821a792a675454a0b4818031e4.mp3*~data=user_id=0,application_id=42~hmac=14abe8f37ccd84368225bbb9c32aff96affd3c486e734eed319eb9339322bdc6",
+        "track_number":  0,
+        "type":  "track"
+    },
+    {
+        "album":  {
+                      "album_type":  "album",
+                      "total_tracks":  0,
+                      "id":  "921259611",
+                      "images":  [
+                                     {
+                                         "height":  1000,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/5fcb1c5be25d911ec393052364c6d4d7/1000x1000-000000-80-0-0.jpg",
+                                         "width":  1000
+                                     },
+                                     {
+                                         "height":  500,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/5fcb1c5be25d911ec393052364c6d4d7/500x500-000000-80-0-0.jpg",
+                                         "width":  500
+                                     },
+                                     {
+                                         "height":  250,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/5fcb1c5be25d911ec393052364c6d4d7/250x250-000000-80-0-0.jpg",
+                                         "width":  250
+                                     },
+                                     {
+                                         "height":  56,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/5fcb1c5be25d911ec393052364c6d4d7/56x56-000000-80-0-0.jpg",
+                                         "width":  56
+                                     }
+                                 ],
+                      "name":  "SEXYTEKK",
+                      "release_date":  "2026-02-18",
+                      "release_date_precision":  "day",
+                      "type":  "album",
+                      "genres":  [
+                                     "tekno"
+                                 ],
+                      "popularity":  70,
+                      "artists":  [
+                                      {
+                                          "followers":  {
+                                                            "total":  59
+                                                        },
+                                          "genres":  [
+                                                         "tekno"
+                                                     ],
+                                          "id":  "374056431",
+                                          "images":  [
+                                                         {
+                                                             "height":  1000,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/5fcb1c5be25d911ec393052364c6d4d7/1000x1000-000000-80-0-0.jpg",
+                                                             "width":  1000
+                                                         },
+                                                         {
+                                                             "height":  500,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/5fcb1c5be25d911ec393052364c6d4d7/500x500-000000-80-0-0.jpg",
+                                                             "width":  500
+                                                         },
+                                                         {
+                                                             "height":  250,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/5fcb1c5be25d911ec393052364c6d4d7/250x250-000000-80-0-0.jpg",
+                                                             "width":  250
+                                                         },
+                                                         {
+                                                             "height":  56,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/5fcb1c5be25d911ec393052364c6d4d7/56x56-000000-80-0-0.jpg",
+                                                             "width":  56
+                                                         }
+                                                     ],
+                                          "name":  "angelhard",
+                                          "popularity":  70,
+                                          "type":  "artist"
+                                      }
+                                  ],
+                      "tracks":  [
+
+                                 ]
+                  },
+        "artists":  [
+                        {
+                            "followers":  {
+                                              "total":  59
+                                          },
+                            "genres":  [
+                                           "tekno"
+                                       ],
+                            "id":  "374056431",
+                            "images":  [
+                                           {
+                                               "height":  1000,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/5fcb1c5be25d911ec393052364c6d4d7/1000x1000-000000-80-0-0.jpg",
+                                               "width":  1000
+                                           },
+                                           {
+                                               "height":  500,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/5fcb1c5be25d911ec393052364c6d4d7/500x500-000000-80-0-0.jpg",
+                                               "width":  500
+                                           },
+                                           {
+                                               "height":  250,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/5fcb1c5be25d911ec393052364c6d4d7/250x250-000000-80-0-0.jpg",
+                                               "width":  250
+                                           },
+                                           {
+                                               "height":  56,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/5fcb1c5be25d911ec393052364c6d4d7/56x56-000000-80-0-0.jpg",
+                                               "width":  56
+                                           }
+                                       ],
+                            "name":  "angelhard",
+                            "popularity":  70,
+                            "type":  "artist"
+                        }
+                    ],
+        "duration_ms":  176312,
+        "explicit":  true,
+        "id":  "3850031891",
+        "name":  "SEXYTEKK - Ultra Slowed",
+        "popularity":  70,
+        "preview_url":  "https://cdnt-preview.dzcdn.net/api/1/1/6/c/1/0/6c1fd1e30fc7fdd993a830d8cd6ecd3e.mp3?hdnea=exp=1781369043~acl=/api/1/1/6/c/1/0/6c1fd1e30fc7fdd993a830d8cd6ecd3e.mp3*~data=user_id=0,application_id=42~hmac=8660523076f472682f255c70f5f74fd863d8cf5535014d5575b3f6eeb99e8550",
+        "track_number":  0,
+        "type":  "track"
+    },
+    {
+        "album":  {
+                      "album_type":  "album",
+                      "total_tracks":  0,
+                      "id":  "834405382",
+                      "images":  [
+                                     {
+                                         "height":  1000,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/7449ac71067b1eb6eba66e0f3406c7fa/1000x1000-000000-80-0-0.jpg",
+                                         "width":  1000
+                                     },
+                                     {
+                                         "height":  500,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/7449ac71067b1eb6eba66e0f3406c7fa/500x500-000000-80-0-0.jpg",
+                                         "width":  500
+                                     },
+                                     {
+                                         "height":  250,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/7449ac71067b1eb6eba66e0f3406c7fa/250x250-000000-80-0-0.jpg",
+                                         "width":  250
+                                     },
+                                     {
+                                         "height":  56,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/7449ac71067b1eb6eba66e0f3406c7fa/56x56-000000-80-0-0.jpg",
+                                         "width":  56
+                                     }
+                                 ],
+                      "name":  "Imitadora (Instrumental)",
+                      "release_date":  "2025-10-03",
+                      "release_date_precision":  "day",
+                      "type":  "album",
+                      "genres":  [
+
+                                 ],
+                      "popularity":  56,
+                      "artists":  [
+                                      {
+                                          "followers":  {
+                                                            "total":  1344
+                                                        },
+                                          "genres":  [
+
+                                                     ],
+                                          "id":  "147037432",
+                                          "images":  [
+                                                         {
+                                                             "height":  1000,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/6b1e25c5f685f6ff7915b64aa4ccd30c/1000x1000-000000-80-0-0.jpg",
+                                                             "width":  1000
+                                                         },
+                                                         {
+                                                             "height":  500,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/6b1e25c5f685f6ff7915b64aa4ccd30c/500x500-000000-80-0-0.jpg",
+                                                             "width":  500
+                                                         },
+                                                         {
+                                                             "height":  250,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/6b1e25c5f685f6ff7915b64aa4ccd30c/250x250-000000-80-0-0.jpg",
+                                                             "width":  250
+                                                         },
+                                                         {
+                                                             "height":  56,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/6b1e25c5f685f6ff7915b64aa4ccd30c/56x56-000000-80-0-0.jpg",
+                                                             "width":  56
+                                                         }
+                                                     ],
+                                          "name":  "aurelia",
+                                          "popularity":  56,
+                                          "type":  "artist"
+                                      }
+                                  ],
+                      "tracks":  [
+
+                                 ]
+                  },
+        "artists":  [
+                        {
+                            "followers":  {
+                                              "total":  1344
+                                          },
+                            "genres":  [
+
+                                       ],
+                            "id":  "147037432",
+                            "images":  [
+                                           {
+                                               "height":  1000,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/6b1e25c5f685f6ff7915b64aa4ccd30c/1000x1000-000000-80-0-0.jpg",
+                                               "width":  1000
+                                           },
+                                           {
+                                               "height":  500,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/6b1e25c5f685f6ff7915b64aa4ccd30c/500x500-000000-80-0-0.jpg",
+                                               "width":  500
+                                           },
+                                           {
+                                               "height":  250,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/6b1e25c5f685f6ff7915b64aa4ccd30c/250x250-000000-80-0-0.jpg",
+                                               "width":  250
+                                           },
+                                           {
+                                               "height":  56,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/6b1e25c5f685f6ff7915b64aa4ccd30c/56x56-000000-80-0-0.jpg",
+                                               "width":  56
+                                           }
+                                       ],
+                            "name":  "aurelia",
+                            "popularity":  56,
+                            "type":  "artist"
+                        }
+                    ],
+        "duration_ms":  110269,
+        "explicit":  false,
+        "id":  "3592095982",
+        "name":  "Imitadora (Instrumental)",
+        "popularity":  56,
+        "preview_url":  "https://cdnt-preview.dzcdn.net/api/1/1/3/7/8/0/3785e1806241310cfa764a6f626ea7bb.mp3?hdnea=exp=1781369044~acl=/api/1/1/3/7/8/0/3785e1806241310cfa764a6f626ea7bb.mp3*~data=user_id=0,application_id=42~hmac=c6355918525b64436db90612bb3fcefefcda3df44f70f8c2a8d74dd31379e1d9",
+        "track_number":  0,
+        "type":  "track"
+    },
+    {
+        "album":  {
+                      "album_type":  "album",
+                      "total_tracks":  0,
+                      "id":  "681232121",
+                      "images":  [
+                                     {
+                                         "height":  1000,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/ac6d1b50fe9d19f0f35883b2ecbb5908/1000x1000-000000-80-0-0.jpg",
+                                         "width":  1000
+                                     },
+                                     {
+                                         "height":  500,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/ac6d1b50fe9d19f0f35883b2ecbb5908/500x500-000000-80-0-0.jpg",
+                                         "width":  500
+                                     },
+                                     {
+                                         "height":  250,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/ac6d1b50fe9d19f0f35883b2ecbb5908/250x250-000000-80-0-0.jpg",
+                                         "width":  250
+                                     },
+                                     {
+                                         "height":  56,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/ac6d1b50fe9d19f0f35883b2ecbb5908/56x56-000000-80-0-0.jpg",
+                                         "width":  56
+                                     }
+                                 ],
+                      "name":  "CODE A",
+                      "release_date":  "2024-11-01",
+                      "release_date_precision":  "day",
+                      "type":  "album",
+                      "genres":  [
+                                     "phonk",
+                                     "phonk brésilienne"
+                                 ],
+                      "popularity":  54,
+                      "artists":  [
+                                      {
+                                          "followers":  {
+                                                            "total":  2564
+                                                        },
+                                          "genres":  [
+                                                         "phonk",
+                                                         "phonk brésilienne"
+                                                     ],
+                                          "id":  "114595842",
+                                          "images":  [
+                                                         {
+                                                             "height":  1000,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/029eda7bfc26f122d2e8ccdee29c8ab9/1000x1000-000000-80-0-0.jpg",
+                                                             "width":  1000
+                                                         },
+                                                         {
+                                                             "height":  500,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/029eda7bfc26f122d2e8ccdee29c8ab9/500x500-000000-80-0-0.jpg",
+                                                             "width":  500
+                                                         },
+                                                         {
+                                                             "height":  250,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/029eda7bfc26f122d2e8ccdee29c8ab9/250x250-000000-80-0-0.jpg",
+                                                             "width":  250
+                                                         },
+                                                         {
+                                                             "height":  56,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/029eda7bfc26f122d2e8ccdee29c8ab9/56x56-000000-80-0-0.jpg",
+                                                             "width":  56
+                                                         }
+                                                     ],
+                                          "name":  "YOUTHISENDING",
+                                          "popularity":  54,
+                                          "type":  "artist"
+                                      }
+                                  ],
+                      "tracks":  [
+
+                                 ]
+                  },
+        "artists":  [
+                        {
+                            "followers":  {
+                                              "total":  2564
+                                          },
+                            "genres":  [
+                                           "phonk",
+                                           "phonk brésilienne"
+                                       ],
+                            "id":  "114595842",
+                            "images":  [
+                                           {
+                                               "height":  1000,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/029eda7bfc26f122d2e8ccdee29c8ab9/1000x1000-000000-80-0-0.jpg",
+                                               "width":  1000
+                                           },
+                                           {
+                                               "height":  500,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/029eda7bfc26f122d2e8ccdee29c8ab9/500x500-000000-80-0-0.jpg",
+                                               "width":  500
+                                           },
+                                           {
+                                               "height":  250,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/029eda7bfc26f122d2e8ccdee29c8ab9/250x250-000000-80-0-0.jpg",
+                                               "width":  250
+                                           },
+                                           {
+                                               "height":  56,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/029eda7bfc26f122d2e8ccdee29c8ab9/56x56-000000-80-0-0.jpg",
+                                               "width":  56
+                                           }
+                                       ],
+                            "name":  "YOUTHISENDING",
+                            "popularity":  54,
+                            "type":  "artist"
+                        }
+                    ],
+        "duration_ms":  114307,
+        "explicit":  false,
+        "id":  "3132841341",
+        "name":  "CODE A - Mega Slowed",
+        "popularity":  54,
+        "preview_url":  "https://cdnt-preview.dzcdn.net/api/1/1/4/6/8/0/46849704cc081a01643e368ce588a15e.mp3?hdnea=exp=1781369044~acl=/api/1/1/4/6/8/0/46849704cc081a01643e368ce588a15e.mp3*~data=user_id=0,application_id=42~hmac=7d99944c76f1509b3caf8fd7aa065f59161e9cfd6b0af08d1a4baab03599038a",
+        "track_number":  0,
+        "type":  "track"
+    },
+    {
+        "album":  {
+                      "album_type":  "album",
+                      "total_tracks":  0,
+                      "id":  "883587672",
+                      "images":  [
+                                     {
+                                         "height":  1000,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/324ab41448982e87aedce4e9dcf0963b/1000x1000-000000-80-0-0.jpg",
+                                         "width":  1000
+                                     },
+                                     {
+                                         "height":  500,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/324ab41448982e87aedce4e9dcf0963b/500x500-000000-80-0-0.jpg",
+                                         "width":  500
+                                     },
+                                     {
+                                         "height":  250,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/324ab41448982e87aedce4e9dcf0963b/250x250-000000-80-0-0.jpg",
+                                         "width":  250
+                                     },
+                                     {
+                                         "height":  56,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/324ab41448982e87aedce4e9dcf0963b/56x56-000000-80-0-0.jpg",
+                                         "width":  56
+                                     }
+                                 ],
+                      "name":  "CUTE JUMPSTYLE",
+                      "release_date":  "2025-12-26",
+                      "release_date_precision":  "day",
+                      "type":  "album",
+                      "genres":  [
+                                     "tekno",
+                                     "phonk"
+                                 ],
+                      "popularity":  64,
+                      "artists":  [
+                                      {
+                                          "followers":  {
+                                                            "total":  0
+                                                        },
+                                          "genres":  [
+                                                         "tekno",
+                                                         "phonk"
+                                                     ],
+                                          "id":  "hellblade;dxnkwer",
+                                          "images":  [
+
+                                                     ],
+                                          "name":  "HELLBLADE;dxnkwer",
+                                          "popularity":  64,
+                                          "type":  "artist"
+                                      }
+                                  ],
+                      "tracks":  [
+
+                                 ]
+                  },
+        "artists":  [
+                        {
+                            "followers":  {
+                                              "total":  0
+                                          },
+                            "genres":  [
+                                           "tekno",
+                                           "phonk"
+                                       ],
+                            "id":  "hellblade;dxnkwer",
+                            "images":  [
+
+                                       ],
+                            "name":  "HELLBLADE;dxnkwer",
+                            "popularity":  64,
+                            "type":  "artist"
+                        }
+                    ],
+        "duration_ms":  167129,
+        "explicit":  false,
+        "id":  "3735771462",
+        "name":  "CUTE JUMPSTYLE - Slowed",
+        "popularity":  64,
+        "preview_url":  "https://cdnt-preview.dzcdn.net/api/1/1/f/f/b/0/ffbb60a9f8612e10cf0456dcc10dc5d4.mp3?hdnea=exp=1781369044~acl=/api/1/1/f/f/b/0/ffbb60a9f8612e10cf0456dcc10dc5d4.mp3*~data=user_id=0,application_id=42~hmac=d6c3b89c9b263d25d2f75f31962fe59fcb5382faef4457f34d343f605f398fd8",
+        "track_number":  0,
+        "type":  "track"
+    },
+    {
+        "album":  {
+                      "album_type":  "album",
+                      "total_tracks":  0,
+                      "id":  "923709601",
+                      "images":  [
+                                     {
+                                         "height":  1000,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/1fac3a346876d72123223f6ebe0f0723/1000x1000-000000-80-0-0.jpg",
+                                         "width":  1000
+                                     },
+                                     {
+                                         "height":  500,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/1fac3a346876d72123223f6ebe0f0723/500x500-000000-80-0-0.jpg",
+                                         "width":  500
+                                     },
+                                     {
+                                         "height":  250,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/1fac3a346876d72123223f6ebe0f0723/250x250-000000-80-0-0.jpg",
+                                         "width":  250
+                                     },
+                                     {
+                                         "height":  56,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/1fac3a346876d72123223f6ebe0f0723/56x56-000000-80-0-0.jpg",
+                                         "width":  56
+                                     }
+                                 ],
+                      "name":  "Gentleman (Slowed + Low Honor - The Dark Triad)",
+                      "release_date":  "2026-02-15",
+                      "release_date_precision":  "day",
+                      "type":  "album",
+                      "genres":  [
+                                     "tekno"
+                                 ],
+                      "popularity":  54,
+                      "artists":  [
+                                      {
+                                          "followers":  {
+                                                            "total":  97
+                                                        },
+                                          "genres":  [
+                                                         "tekno"
+                                                     ],
+                                          "id":  "253968902",
+                                          "images":  [
+                                                         {
+                                                             "height":  1000,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/aadeda5311fafaf13aef240790770d2d/1000x1000-000000-80-0-0.jpg",
+                                                             "width":  1000
+                                                         },
+                                                         {
+                                                             "height":  500,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/aadeda5311fafaf13aef240790770d2d/500x500-000000-80-0-0.jpg",
+                                                             "width":  500
+                                                         },
+                                                         {
+                                                             "height":  250,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/aadeda5311fafaf13aef240790770d2d/250x250-000000-80-0-0.jpg",
+                                                             "width":  250
+                                                         },
+                                                         {
+                                                             "height":  56,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/aadeda5311fafaf13aef240790770d2d/56x56-000000-80-0-0.jpg",
+                                                             "width":  56
+                                                         }
+                                                     ],
+                                          "name":  "ASCEND",
+                                          "popularity":  54,
+                                          "type":  "artist"
+                                      }
+                                  ],
+                      "tracks":  [
+
+                                 ]
+                  },
+        "artists":  [
+                        {
+                            "followers":  {
+                                              "total":  97
+                                          },
+                            "genres":  [
+                                           "tekno"
+                                       ],
+                            "id":  "253968902",
+                            "images":  [
+                                           {
+                                               "height":  1000,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/aadeda5311fafaf13aef240790770d2d/1000x1000-000000-80-0-0.jpg",
+                                               "width":  1000
+                                           },
+                                           {
+                                               "height":  500,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/aadeda5311fafaf13aef240790770d2d/500x500-000000-80-0-0.jpg",
+                                               "width":  500
+                                           },
+                                           {
+                                               "height":  250,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/aadeda5311fafaf13aef240790770d2d/250x250-000000-80-0-0.jpg",
+                                               "width":  250
+                                           },
+                                           {
+                                               "height":  56,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/aadeda5311fafaf13aef240790770d2d/56x56-000000-80-0-0.jpg",
+                                               "width":  56
+                                           }
+                                       ],
+                            "name":  "ASCEND",
+                            "popularity":  54,
+                            "type":  "artist"
+                        }
+                    ],
+        "duration_ms":  219336,
+        "explicit":  true,
+        "id":  "3857560671",
+        "name":  "Gentleman - Slowed + Low Honor - The Dark Triad",
+        "popularity":  54,
+        "preview_url":  "https://cdnt-preview.dzcdn.net/api/1/1/a/f/c/0/afc77a0bade5c62ed213731560ef3672.mp3?hdnea=exp=1781369045~acl=/api/1/1/a/f/c/0/afc77a0bade5c62ed213731560ef3672.mp3*~data=user_id=0,application_id=42~hmac=3af7d0478f6319c79b12446adeba54e65694903a3c937be9268956cae8b0b7c7",
+        "track_number":  0,
+        "type":  "track"
+    },
+    {
+        "album":  {
+                      "album_type":  "album",
+                      "total_tracks":  0,
+                      "id":  "917383851",
+                      "images":  [
+                                     {
+                                         "height":  1000,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/b29f733efd40c71fbf0644ec8c16673a/1000x1000-000000-80-0-0.jpg",
+                                         "width":  1000
+                                     },
+                                     {
+                                         "height":  500,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/b29f733efd40c71fbf0644ec8c16673a/500x500-000000-80-0-0.jpg",
+                                         "width":  500
+                                     },
+                                     {
+                                         "height":  250,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/b29f733efd40c71fbf0644ec8c16673a/250x250-000000-80-0-0.jpg",
+                                         "width":  250
+                                     },
+                                     {
+                                         "height":  56,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/b29f733efd40c71fbf0644ec8c16673a/56x56-000000-80-0-0.jpg",
+                                         "width":  56
+                                     }
+                                 ],
+                      "name":  "ex-freundin (cut version)",
+                      "release_date":  "2026-02-11",
+                      "release_date_precision":  "day",
+                      "type":  "album",
+                      "genres":  [
+                                     "hyperpop"
+                                 ],
+                      "popularity":  64,
+                      "artists":  [
+                                      {
+                                          "followers":  {
+                                                            "total":  144
+                                                        },
+                                          "genres":  [
+                                                         "hyperpop"
+                                                     ],
+                                          "id":  "10264570",
+                                          "images":  [
+                                                         {
+                                                             "height":  1000,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/e342a60ebaa2d00be92c4b965c8f62cb/1000x1000-000000-80-0-0.jpg",
+                                                             "width":  1000
+                                                         },
+                                                         {
+                                                             "height":  500,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/e342a60ebaa2d00be92c4b965c8f62cb/500x500-000000-80-0-0.jpg",
+                                                             "width":  500
+                                                         },
+                                                         {
+                                                             "height":  250,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/e342a60ebaa2d00be92c4b965c8f62cb/250x250-000000-80-0-0.jpg",
+                                                             "width":  250
+                                                         },
+                                                         {
+                                                             "height":  56,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/e342a60ebaa2d00be92c4b965c8f62cb/56x56-000000-80-0-0.jpg",
+                                                             "width":  56
+                                                         }
+                                                     ],
+                                          "name":  "luu",
+                                          "popularity":  64,
+                                          "type":  "artist"
+                                      }
+                                  ],
+                      "tracks":  [
+
+                                 ]
+                  },
+        "artists":  [
+                        {
+                            "followers":  {
+                                              "total":  144
+                                          },
+                            "genres":  [
+                                           "hyperpop"
+                                       ],
+                            "id":  "10264570",
+                            "images":  [
+                                           {
+                                               "height":  1000,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/e342a60ebaa2d00be92c4b965c8f62cb/1000x1000-000000-80-0-0.jpg",
+                                               "width":  1000
+                                           },
+                                           {
+                                               "height":  500,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/e342a60ebaa2d00be92c4b965c8f62cb/500x500-000000-80-0-0.jpg",
+                                               "width":  500
+                                           },
+                                           {
+                                               "height":  250,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/e342a60ebaa2d00be92c4b965c8f62cb/250x250-000000-80-0-0.jpg",
+                                               "width":  250
+                                           },
+                                           {
+                                               "height":  56,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/e342a60ebaa2d00be92c4b965c8f62cb/56x56-000000-80-0-0.jpg",
+                                               "width":  56
+                                           }
+                                       ],
+                            "name":  "luu",
+                            "popularity":  64,
+                            "type":  "artist"
+                        }
+                    ],
+        "duration_ms":  90998,
+        "explicit":  true,
+        "id":  "3839149601",
+        "name":  "ex-freundin (super slowed + cut)",
+        "popularity":  64,
+        "preview_url":  "https://cdnt-preview.dzcdn.net/api/1/1/3/c/5/0/3c5fd0a4655feb1791318f4672ce8042.mp3?hdnea=exp=1781369045~acl=/api/1/1/3/c/5/0/3c5fd0a4655feb1791318f4672ce8042.mp3*~data=user_id=0,application_id=42~hmac=9040d46016958a05e7b039df072022c1edc6a86db6276576d24d29c2f72e86a7",
+        "track_number":  0,
+        "type":  "track"
+    },
+    {
+        "album":  {
+                      "album_type":  "album",
+                      "total_tracks":  0,
+                      "id":  "894196532",
+                      "images":  [
+                                     {
+                                         "height":  1000,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/af6daf4a9c907cd296c43e6e2415d9d8/1000x1000-000000-80-0-0.jpg",
+                                         "width":  1000
+                                     },
+                                     {
+                                         "height":  500,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/af6daf4a9c907cd296c43e6e2415d9d8/500x500-000000-80-0-0.jpg",
+                                         "width":  500
+                                     },
+                                     {
+                                         "height":  250,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/af6daf4a9c907cd296c43e6e2415d9d8/250x250-000000-80-0-0.jpg",
+                                         "width":  250
+                                     },
+                                     {
+                                         "height":  56,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/af6daf4a9c907cd296c43e6e2415d9d8/56x56-000000-80-0-0.jpg",
+                                         "width":  56
+                                     }
+                                 ],
+                      "name":  "тело",
+                      "release_date":  "2026-01-09",
+                      "release_date_precision":  "day",
+                      "type":  "album",
+                      "genres":  [
+
+                                 ],
+                      "popularity":  56,
+                      "artists":  [
+                                      {
+                                          "followers":  {
+                                                            "total":  278
+                                                        },
+                                          "genres":  [
+
+                                                     ],
+                                          "id":  "300364501",
+                                          "images":  [
+                                                         {
+                                                             "height":  1000,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/0d19283bda70ecdc6537418f29faabe1/1000x1000-000000-80-0-0.jpg",
+                                                             "width":  1000
+                                                         },
+                                                         {
+                                                             "height":  500,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/0d19283bda70ecdc6537418f29faabe1/500x500-000000-80-0-0.jpg",
+                                                             "width":  500
+                                                         },
+                                                         {
+                                                             "height":  250,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/0d19283bda70ecdc6537418f29faabe1/250x250-000000-80-0-0.jpg",
+                                                             "width":  250
+                                                         },
+                                                         {
+                                                             "height":  56,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/0d19283bda70ecdc6537418f29faabe1/56x56-000000-80-0-0.jpg",
+                                                             "width":  56
+                                                         }
+                                                     ],
+                                          "name":  "DJ ZUP RAlii",
+                                          "popularity":  56,
+                                          "type":  "artist"
+                                      }
+                                  ],
+                      "tracks":  [
+
+                                 ]
+                  },
+        "artists":  [
+                        {
+                            "followers":  {
+                                              "total":  278
+                                          },
+                            "genres":  [
+
+                                       ],
+                            "id":  "300364501",
+                            "images":  [
+                                           {
+                                               "height":  1000,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/0d19283bda70ecdc6537418f29faabe1/1000x1000-000000-80-0-0.jpg",
+                                               "width":  1000
+                                           },
+                                           {
+                                               "height":  500,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/0d19283bda70ecdc6537418f29faabe1/500x500-000000-80-0-0.jpg",
+                                               "width":  500
+                                           },
+                                           {
+                                               "height":  250,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/0d19283bda70ecdc6537418f29faabe1/250x250-000000-80-0-0.jpg",
+                                               "width":  250
+                                           },
+                                           {
+                                               "height":  56,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/0d19283bda70ecdc6537418f29faabe1/56x56-000000-80-0-0.jpg",
+                                               "width":  56
+                                           }
+                                       ],
+                            "name":  "DJ ZUP RAlii",
+                            "popularity":  56,
+                            "type":  "artist"
+                        }
+                    ],
+        "duration_ms":  136062,
+        "explicit":  false,
+        "id":  "3764910232",
+        "name":  "тело - Super Slowed",
+        "popularity":  56,
+        "preview_url":  "https://cdnt-preview.dzcdn.net/api/1/1/6/7/8/0/6789eb7e367d52757da3a67c7376618c.mp3?hdnea=exp=1781369046~acl=/api/1/1/6/7/8/0/6789eb7e367d52757da3a67c7376618c.mp3*~data=user_id=0,application_id=42~hmac=eb46f36d8a081eac02cced794618b1d7258a02452316ebd4241fc36682ca0e36",
+        "track_number":  0,
+        "type":  "track"
+    },
+    {
+        "album":  {
+                      "album_type":  "album",
+                      "total_tracks":  0,
+                      "id":  "966414131",
+                      "images":  [
+                                     {
+                                         "height":  1000,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/92f9409604759fdac34fad12926bf3dc/1000x1000-000000-80-0-0.jpg",
+                                         "width":  1000
+                                     },
+                                     {
+                                         "height":  500,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/92f9409604759fdac34fad12926bf3dc/500x500-000000-80-0-0.jpg",
+                                         "width":  500
+                                     },
+                                     {
+                                         "height":  250,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/92f9409604759fdac34fad12926bf3dc/250x250-000000-80-0-0.jpg",
+                                         "width":  250
+                                     },
+                                     {
+                                         "height":  56,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/92f9409604759fdac34fad12926bf3dc/56x56-000000-80-0-0.jpg",
+                                         "width":  56
+                                     }
+                                 ],
+                      "name":  "MY JEALOUSY (Remixes)",
+                      "release_date":  "2026-01-07",
+                      "release_date_precision":  "day",
+                      "type":  "album",
+                      "genres":  [
+                                     "phonk"
+                                 ],
+                      "popularity":  58,
+                      "artists":  [
+                                      {
+                                          "followers":  {
+                                                            "total":  0
+                                                        },
+                                          "genres":  [
+                                                         "phonk"
+                                                     ],
+                                          "id":  "vivi baby;ovg!",
+                                          "images":  [
+
+                                                     ],
+                                          "name":  "vivi baby;ovg!",
+                                          "popularity":  58,
+                                          "type":  "artist"
+                                      }
+                                  ],
+                      "tracks":  [
+
+                                 ]
+                  },
+        "artists":  [
+                        {
+                            "followers":  {
+                                              "total":  0
+                                          },
+                            "genres":  [
+                                           "phonk"
+                                       ],
+                            "id":  "vivi baby;ovg!",
+                            "images":  [
+
+                                       ],
+                            "name":  "vivi baby;ovg!",
+                            "popularity":  58,
+                            "type":  "artist"
+                        }
+                    ],
+        "duration_ms":  166406,
+        "explicit":  true,
+        "id":  "3975066841",
+        "name":  "MY JEALOUSY - Slowed",
+        "popularity":  58,
+        "preview_url":  "https://cdnt-preview.dzcdn.net/api/1/1/b/5/4/0/b546b563fa2815a13f897c86878012b2.mp3?hdnea=exp=1781369046~acl=/api/1/1/b/5/4/0/b546b563fa2815a13f897c86878012b2.mp3*~data=user_id=0,application_id=42~hmac=6e02e16bcdef092b9b34722b0f6ae8ad0af5e3a53af9ac4790ecb7ceb2994ffe",
+        "track_number":  0,
+        "type":  "track"
+    },
+    {
+        "album":  {
+                      "album_type":  "album",
+                      "total_tracks":  0,
+                      "id":  "897388422",
+                      "images":  [
+                                     {
+                                         "height":  1000,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/b0daf4a0d4d804cebee67c17b015730d/1000x1000-000000-80-0-0.jpg",
+                                         "width":  1000
+                                     },
+                                     {
+                                         "height":  500,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/b0daf4a0d4d804cebee67c17b015730d/500x500-000000-80-0-0.jpg",
+                                         "width":  500
+                                     },
+                                     {
+                                         "height":  250,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/b0daf4a0d4d804cebee67c17b015730d/250x250-000000-80-0-0.jpg",
+                                         "width":  250
+                                     },
+                                     {
+                                         "height":  56,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/b0daf4a0d4d804cebee67c17b015730d/56x56-000000-80-0-0.jpg",
+                                         "width":  56
+                                     }
+                                 ],
+                      "name":  "paranoia",
+                      "release_date":  "2026-01-23",
+                      "release_date_precision":  "day",
+                      "type":  "album",
+                      "genres":  [
+
+                                 ],
+                      "popularity":  59,
+                      "artists":  [
+                                      {
+                                          "followers":  {
+                                                            "total":  369
+                                                        },
+                                          "genres":  [
+
+                                                     ],
+                                          "id":  "186656067",
+                                          "images":  [
+                                                         {
+                                                             "height":  1000,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/4c4bb169e3530f28d7d90c21d460a0de/1000x1000-000000-80-0-0.jpg",
+                                                             "width":  1000
+                                                         },
+                                                         {
+                                                             "height":  500,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/4c4bb169e3530f28d7d90c21d460a0de/500x500-000000-80-0-0.jpg",
+                                                             "width":  500
+                                                         },
+                                                         {
+                                                             "height":  250,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/4c4bb169e3530f28d7d90c21d460a0de/250x250-000000-80-0-0.jpg",
+                                                             "width":  250
+                                                         },
+                                                         {
+                                                             "height":  56,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/4c4bb169e3530f28d7d90c21d460a0de/56x56-000000-80-0-0.jpg",
+                                                             "width":  56
+                                                         }
+                                                     ],
+                                          "name":  "akkiemi;akkiemii",
+                                          "popularity":  59,
+                                          "type":  "artist"
+                                      }
+                                  ],
+                      "tracks":  [
+
+                                 ]
+                  },
+        "artists":  [
+                        {
+                            "followers":  {
+                                              "total":  369
+                                          },
+                            "genres":  [
+
+                                       ],
+                            "id":  "186656067",
+                            "images":  [
+                                           {
+                                               "height":  1000,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/4c4bb169e3530f28d7d90c21d460a0de/1000x1000-000000-80-0-0.jpg",
+                                               "width":  1000
+                                           },
+                                           {
+                                               "height":  500,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/4c4bb169e3530f28d7d90c21d460a0de/500x500-000000-80-0-0.jpg",
+                                               "width":  500
+                                           },
+                                           {
+                                               "height":  250,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/4c4bb169e3530f28d7d90c21d460a0de/250x250-000000-80-0-0.jpg",
+                                               "width":  250
+                                           },
+                                           {
+                                               "height":  56,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/4c4bb169e3530f28d7d90c21d460a0de/56x56-000000-80-0-0.jpg",
+                                               "width":  56
+                                           }
+                                       ],
+                            "name":  "akkiemi;akkiemii",
+                            "popularity":  59,
+                            "type":  "artist"
+                        }
+                    ],
+        "duration_ms":  106846,
+        "explicit":  false,
+        "id":  "3773985582",
+        "name":  "paranoia - mega slowed",
+        "popularity":  59,
+        "preview_url":  "https://cdnt-preview.dzcdn.net/api/1/1/8/7/8/0/8788984a8ea04a150b6c40e07d94c4b7.mp3?hdnea=exp=1781369046~acl=/api/1/1/8/7/8/0/8788984a8ea04a150b6c40e07d94c4b7.mp3*~data=user_id=0,application_id=42~hmac=0bce0b41c54ea4d01e502a6842b6d73319f5c0000849f0b7bfefd90c7e212569",
+        "track_number":  0,
+        "type":  "track"
+    },
+    {
+        "album":  {
+                      "album_type":  "album",
+                      "total_tracks":  0,
+                      "id":  "860689352",
+                      "images":  [
+                                     {
+                                         "height":  1000,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/10db216ce8f31ebf64bd0ad77c3d6df5/1000x1000-000000-80-0-0.jpg",
+                                         "width":  1000
+                                     },
+                                     {
+                                         "height":  500,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/10db216ce8f31ebf64bd0ad77c3d6df5/500x500-000000-80-0-0.jpg",
+                                         "width":  500
+                                     },
+                                     {
+                                         "height":  250,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/10db216ce8f31ebf64bd0ad77c3d6df5/250x250-000000-80-0-0.jpg",
+                                         "width":  250
+                                     },
+                                     {
+                                         "height":  56,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/10db216ce8f31ebf64bd0ad77c3d6df5/56x56-000000-80-0-0.jpg",
+                                         "width":  56
+                                     }
+                                 ],
+                      "name":  "SERAPH",
+                      "release_date":  "2025-11-21",
+                      "release_date_precision":  "day",
+                      "type":  "album",
+                      "genres":  [
+                                     "tekno"
+                                 ],
+                      "popularity":  51,
+                      "artists":  [
+                                      {
+                                          "followers":  {
+                                                            "total":  477
+                                                        },
+                                          "genres":  [
+                                                         "tekno"
+                                                     ],
+                                          "id":  "289280041",
+                                          "images":  [
+                                                         {
+                                                             "height":  1000,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/9c0cee96e7f2f91b70e9596c684c1563/1000x1000-000000-80-0-0.jpg",
+                                                             "width":  1000
+                                                         },
+                                                         {
+                                                             "height":  500,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/9c0cee96e7f2f91b70e9596c684c1563/500x500-000000-80-0-0.jpg",
+                                                             "width":  500
+                                                         },
+                                                         {
+                                                             "height":  250,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/9c0cee96e7f2f91b70e9596c684c1563/250x250-000000-80-0-0.jpg",
+                                                             "width":  250
+                                                         },
+                                                         {
+                                                             "height":  56,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/9c0cee96e7f2f91b70e9596c684c1563/56x56-000000-80-0-0.jpg",
+                                                             "width":  56
+                                                         }
+                                                     ],
+                                          "name":  "XEOE",
+                                          "popularity":  51,
+                                          "type":  "artist"
+                                      }
+                                  ],
+                      "tracks":  [
+
+                                 ]
+                  },
+        "artists":  [
+                        {
+                            "followers":  {
+                                              "total":  477
+                                          },
+                            "genres":  [
+                                           "tekno"
+                                       ],
+                            "id":  "289280041",
+                            "images":  [
+                                           {
+                                               "height":  1000,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/9c0cee96e7f2f91b70e9596c684c1563/1000x1000-000000-80-0-0.jpg",
+                                               "width":  1000
+                                           },
+                                           {
+                                               "height":  500,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/9c0cee96e7f2f91b70e9596c684c1563/500x500-000000-80-0-0.jpg",
+                                               "width":  500
+                                           },
+                                           {
+                                               "height":  250,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/9c0cee96e7f2f91b70e9596c684c1563/250x250-000000-80-0-0.jpg",
+                                               "width":  250
+                                           },
+                                           {
+                                               "height":  56,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/9c0cee96e7f2f91b70e9596c684c1563/56x56-000000-80-0-0.jpg",
+                                               "width":  56
+                                           }
+                                       ],
+                            "name":  "XEOE",
+                            "popularity":  51,
+                            "type":  "artist"
+                        }
+                    ],
+        "duration_ms":  116589,
+        "explicit":  false,
+        "id":  "3668915382",
+        "name":  "SERAPH - SUPER SLOWED",
+        "popularity":  51,
+        "preview_url":  "https://cdnt-preview.dzcdn.net/api/1/1/7/4/7/0/747d3ea84ddf5c52a38d616233982953.mp3?hdnea=exp=1781369046~acl=/api/1/1/7/4/7/0/747d3ea84ddf5c52a38d616233982953.mp3*~data=user_id=0,application_id=42~hmac=d78463850e533f042305f0210504835df436a8ce32b9dff998ae689c3ac78a0b",
+        "track_number":  0,
+        "type":  "track"
+    },
+    {
+        "album":  {
+                      "album_type":  "album",
+                      "total_tracks":  0,
+                      "id":  "784430671",
+                      "images":  [
+                                     {
+                                         "height":  1000,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/badd4bcd7692ba7cd21adca842558f9c/1000x1000-000000-80-0-0.jpg",
+                                         "width":  1000
+                                     },
+                                     {
+                                         "height":  500,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/badd4bcd7692ba7cd21adca842558f9c/500x500-000000-80-0-0.jpg",
+                                         "width":  500
+                                     },
+                                     {
+                                         "height":  250,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/badd4bcd7692ba7cd21adca842558f9c/250x250-000000-80-0-0.jpg",
+                                         "width":  250
+                                     },
+                                     {
+                                         "height":  56,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/badd4bcd7692ba7cd21adca842558f9c/56x56-000000-80-0-0.jpg",
+                                         "width":  56
+                                     }
+                                 ],
+                      "name":  "FALL FROM THE SKY PT.2 (VIRAL SLOWED)",
+                      "release_date":  "2025-07-08",
+                      "release_date_precision":  "day",
+                      "type":  "album",
+                      "genres":  [
+
+                                 ],
+                      "popularity":  68,
+                      "artists":  [
+                                      {
+                                          "followers":  {
+                                                            "total":  0
+                                                        },
+                                          "genres":  [
+
+                                                     ],
+                                          "id":  "romanceplanet;stakillaz",
+                                          "images":  [
+
+                                                     ],
+                                          "name":  "RomancePlanet;STAKILLAZ",
+                                          "popularity":  68,
+                                          "type":  "artist"
+                                      }
+                                  ],
+                      "tracks":  [
+
+                                 ]
+                  },
+        "artists":  [
+                        {
+                            "followers":  {
+                                              "total":  0
+                                          },
+                            "genres":  [
+
+                                       ],
+                            "id":  "romanceplanet;stakillaz",
+                            "images":  [
+
+                                       ],
+                            "name":  "RomancePlanet;STAKILLAZ",
+                            "popularity":  68,
+                            "type":  "artist"
+                        }
+                    ],
+        "duration_ms":  121299,
+        "explicit":  false,
+        "id":  "3449184521",
+        "name":  "FALL FROM THE SKY PT.2 - VIRAL SLOWED",
+        "popularity":  68,
+        "preview_url":  "https://cdnt-preview.dzcdn.net/api/1/1/f/8/6/0/f86faf1759db3e3d1e2c8471101d3ecd.mp3?hdnea=exp=1781369047~acl=/api/1/1/f/8/6/0/f86faf1759db3e3d1e2c8471101d3ecd.mp3*~data=user_id=0,application_id=42~hmac=e4bbf43ff4d5d4c57f572288be7d25f24a2ec0f51a6152430161facb18cb3282",
+        "track_number":  0,
+        "type":  "track"
+    },
+    {
+        "album":  {
+                      "album_type":  "album",
+                      "total_tracks":  0,
+                      "id":  "855767162",
+                      "images":  [
+                                     {
+                                         "height":  1000,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/2ea4a13e84ddcd4477666fa8e5d43cde/1000x1000-000000-80-0-0.jpg",
+                                         "width":  1000
+                                     },
+                                     {
+                                         "height":  500,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/2ea4a13e84ddcd4477666fa8e5d43cde/500x500-000000-80-0-0.jpg",
+                                         "width":  500
+                                     },
+                                     {
+                                         "height":  250,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/2ea4a13e84ddcd4477666fa8e5d43cde/250x250-000000-80-0-0.jpg",
+                                         "width":  250
+                                     },
+                                     {
+                                         "height":  56,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/2ea4a13e84ddcd4477666fa8e5d43cde/56x56-000000-80-0-0.jpg",
+                                         "width":  56
+                                     }
+                                 ],
+                      "name":  "B2B",
+                      "release_date":  "2024-06-07",
+                      "release_date_precision":  "day",
+                      "type":  "album",
+                      "genres":  [
+
+                                 ],
+                      "popularity":  43,
+                      "artists":  [
+                                      {
+                                          "followers":  {
+                                                            "total":  2
+                                                        },
+                                          "genres":  [
+
+                                                     ],
+                                          "id":  "356052102",
+                                          "images":  [
+                                                         {
+                                                             "height":  1000,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/2ea4a13e84ddcd4477666fa8e5d43cde/1000x1000-000000-80-0-0.jpg",
+                                                             "width":  1000
+                                                         },
+                                                         {
+                                                             "height":  500,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/2ea4a13e84ddcd4477666fa8e5d43cde/500x500-000000-80-0-0.jpg",
+                                                             "width":  500
+                                                         },
+                                                         {
+                                                             "height":  250,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/2ea4a13e84ddcd4477666fa8e5d43cde/250x250-000000-80-0-0.jpg",
+                                                             "width":  250
+                                                         },
+                                                         {
+                                                             "height":  56,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/2ea4a13e84ddcd4477666fa8e5d43cde/56x56-000000-80-0-0.jpg",
+                                                             "width":  56
+                                                         }
+                                                     ],
+                                          "name":  "Sykazi",
+                                          "popularity":  43,
+                                          "type":  "artist"
+                                      }
+                                  ],
+                      "tracks":  [
+
+                                 ]
+                  },
+        "artists":  [
+                        {
+                            "followers":  {
+                                              "total":  2
+                                          },
+                            "genres":  [
+
+                                       ],
+                            "id":  "356052102",
+                            "images":  [
+                                           {
+                                               "height":  1000,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/2ea4a13e84ddcd4477666fa8e5d43cde/1000x1000-000000-80-0-0.jpg",
+                                               "width":  1000
+                                           },
+                                           {
+                                               "height":  500,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/2ea4a13e84ddcd4477666fa8e5d43cde/500x500-000000-80-0-0.jpg",
+                                               "width":  500
+                                           },
+                                           {
+                                               "height":  250,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/2ea4a13e84ddcd4477666fa8e5d43cde/250x250-000000-80-0-0.jpg",
+                                               "width":  250
+                                           },
+                                           {
+                                               "height":  56,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/2ea4a13e84ddcd4477666fa8e5d43cde/56x56-000000-80-0-0.jpg",
+                                               "width":  56
+                                           }
+                                       ],
+                            "name":  "Sykazi",
+                            "popularity":  43,
+                            "type":  "artist"
+                        }
+                    ],
+        "duration_ms":  320783,
+        "explicit":  true,
+        "id":  "3653616792",
+        "name":  "B2B",
+        "popularity":  43,
+        "preview_url":  "https://cdnt-preview.dzcdn.net/api/1/1/e/b/4/0/eb4ce0b6ee7a21cf1f21ecfc5c0acb69.mp3?hdnea=exp=1781369047~acl=/api/1/1/e/b/4/0/eb4ce0b6ee7a21cf1f21ecfc5c0acb69.mp3*~data=user_id=0,application_id=42~hmac=41fb5d366186e71fea4dde71c63f6390f6a11a5020122d89a0c765a8eaddc9fe",
+        "track_number":  0,
+        "type":  "track"
+    },
+    {
+        "album":  {
+                      "album_type":  "album",
+                      "total_tracks":  0,
+                      "id":  "951447451",
+                      "images":  [
+                                     {
+                                         "height":  1000,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/41c5bd09f04d0c024d4aab2074cf801e/1000x1000-000000-80-0-0.jpg",
+                                         "width":  1000
+                                     },
+                                     {
+                                         "height":  500,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/41c5bd09f04d0c024d4aab2074cf801e/500x500-000000-80-0-0.jpg",
+                                         "width":  500
+                                     },
+                                     {
+                                         "height":  250,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/41c5bd09f04d0c024d4aab2074cf801e/250x250-000000-80-0-0.jpg",
+                                         "width":  250
+                                     },
+                                     {
+                                         "height":  56,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/41c5bd09f04d0c024d4aab2074cf801e/56x56-000000-80-0-0.jpg",
+                                         "width":  56
+                                     }
+                                 ],
+                      "name":  "PHARAOTEKK",
+                      "release_date":  "2026-03-09",
+                      "release_date_precision":  "day",
+                      "type":  "album",
+                      "genres":  [
+                                     "tekno",
+                                     "phonk",
+                                     "phonk brésilienne",
+                                     "funk"
+                                 ],
+                      "popularity":  46,
+                      "artists":  [
+                                      {
+                                          "followers":  {
+                                                            "total":  0
+                                                        },
+                                          "genres":  [
+                                                         "tekno",
+                                                         "phonk",
+                                                         "phonk brésilienne",
+                                                         "funk"
+                                                     ],
+                                          "id":  "mezzia;vxca",
+                                          "images":  [
+
+                                                     ],
+                                          "name":  "MEZZIA;VXCA",
+                                          "popularity":  46,
+                                          "type":  "artist"
+                                      }
+                                  ],
+                      "tracks":  [
+
+                                 ]
+                  },
+        "artists":  [
+                        {
+                            "followers":  {
+                                              "total":  0
+                                          },
+                            "genres":  [
+                                           "tekno",
+                                           "phonk",
+                                           "phonk brésilienne",
+                                           "funk"
+                                       ],
+                            "id":  "mezzia;vxca",
+                            "images":  [
+
+                                       ],
+                            "name":  "MEZZIA;VXCA",
+                            "popularity":  46,
+                            "type":  "artist"
+                        }
+                    ],
+        "duration_ms":  67776,
+        "explicit":  false,
+        "id":  "3931965981",
+        "name":  "PHARAOTEKK",
+        "popularity":  46,
+        "preview_url":  "https://cdnt-preview.dzcdn.net/api/1/1/2/d/e/0/2dee8a82c90beafeaaf23be7bd6af1a9.mp3?hdnea=exp=1781369047~acl=/api/1/1/2/d/e/0/2dee8a82c90beafeaaf23be7bd6af1a9.mp3*~data=user_id=0,application_id=42~hmac=c78105252d7c4cab9cbebb9b0bd627024cee16b77f987528ea8d7936674b88dd",
+        "track_number":  0,
+        "type":  "track"
+    },
+    {
+        "album":  {
+                      "album_type":  "album",
+                      "total_tracks":  0,
+                      "id":  "858852572",
+                      "images":  [
+                                     {
+                                         "height":  1000,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/ef6fbdb61f13a8230da09ea90c3d3840/1000x1000-000000-80-0-0.jpg",
+                                         "width":  1000
+                                     },
+                                     {
+                                         "height":  500,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/ef6fbdb61f13a8230da09ea90c3d3840/500x500-000000-80-0-0.jpg",
+                                         "width":  500
+                                     },
+                                     {
+                                         "height":  250,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/ef6fbdb61f13a8230da09ea90c3d3840/250x250-000000-80-0-0.jpg",
+                                         "width":  250
+                                     },
+                                     {
+                                         "height":  56,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/ef6fbdb61f13a8230da09ea90c3d3840/56x56-000000-80-0-0.jpg",
+                                         "width":  56
+                                     }
+                                 ],
+                      "name":  "TEKKMAXX",
+                      "release_date":  "2025-11-21",
+                      "release_date_precision":  "day",
+                      "type":  "album",
+                      "genres":  [
+                                     "phonk",
+                                     "drift phonk"
+                                 ],
+                      "popularity":  58,
+                      "artists":  [
+                                      {
+                                          "followers":  {
+                                                            "total":  85
+                                                        },
+                                          "genres":  [
+                                                         "phonk",
+                                                         "drift phonk"
+                                                     ],
+                                          "id":  "143878952",
+                                          "images":  [
+                                                         {
+                                                             "height":  1000,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/ef6fbdb61f13a8230da09ea90c3d3840/1000x1000-000000-80-0-0.jpg",
+                                                             "width":  1000
+                                                         },
+                                                         {
+                                                             "height":  500,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/ef6fbdb61f13a8230da09ea90c3d3840/500x500-000000-80-0-0.jpg",
+                                                             "width":  500
+                                                         },
+                                                         {
+                                                             "height":  250,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/ef6fbdb61f13a8230da09ea90c3d3840/250x250-000000-80-0-0.jpg",
+                                                             "width":  250
+                                                         },
+                                                         {
+                                                             "height":  56,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/ef6fbdb61f13a8230da09ea90c3d3840/56x56-000000-80-0-0.jpg",
+                                                             "width":  56
+                                                         }
+                                                     ],
+                                          "name":  "EL$E",
+                                          "popularity":  58,
+                                          "type":  "artist"
+                                      }
+                                  ],
+                      "tracks":  [
+
+                                 ]
+                  },
+        "artists":  [
+                        {
+                            "followers":  {
+                                              "total":  85
+                                          },
+                            "genres":  [
+                                           "phonk",
+                                           "drift phonk"
+                                       ],
+                            "id":  "143878952",
+                            "images":  [
+                                           {
+                                               "height":  1000,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/ef6fbdb61f13a8230da09ea90c3d3840/1000x1000-000000-80-0-0.jpg",
+                                               "width":  1000
+                                           },
+                                           {
+                                               "height":  500,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/ef6fbdb61f13a8230da09ea90c3d3840/500x500-000000-80-0-0.jpg",
+                                               "width":  500
+                                           },
+                                           {
+                                               "height":  250,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/ef6fbdb61f13a8230da09ea90c3d3840/250x250-000000-80-0-0.jpg",
+                                               "width":  250
+                                           },
+                                           {
+                                               "height":  56,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/ef6fbdb61f13a8230da09ea90c3d3840/56x56-000000-80-0-0.jpg",
+                                               "width":  56
+                                           }
+                                       ],
+                            "name":  "EL$E",
+                            "popularity":  58,
+                            "type":  "artist"
+                        }
+                    ],
+        "duration_ms":  118204,
+        "explicit":  false,
+        "id":  "3662788662",
+        "name":  "TEKKMAXX - SLOWED",
+        "popularity":  58,
+        "preview_url":  "https://cdnt-preview.dzcdn.net/api/1/1/a/c/6/0/ac6c40cd8ff624a35f0ae502eecb59d8.mp3?hdnea=exp=1781369048~acl=/api/1/1/a/c/6/0/ac6c40cd8ff624a35f0ae502eecb59d8.mp3*~data=user_id=0,application_id=42~hmac=96c17bbbdf568a25c60526a2a49fb2e5f154368f817069bc204b1249786c819f",
+        "track_number":  0,
+        "type":  "track"
+    },
+    {
+        "album":  {
+                      "album_type":  "album",
+                      "total_tracks":  0,
+                      "id":  "929528111",
+                      "images":  [
+                                     {
+                                         "height":  1000,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/e219532a9f5289cdaaf0278a74a5e0f2/1000x1000-000000-80-0-0.jpg",
+                                         "width":  1000
+                                     },
+                                     {
+                                         "height":  500,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/e219532a9f5289cdaaf0278a74a5e0f2/500x500-000000-80-0-0.jpg",
+                                         "width":  500
+                                     },
+                                     {
+                                         "height":  250,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/e219532a9f5289cdaaf0278a74a5e0f2/250x250-000000-80-0-0.jpg",
+                                         "width":  250
+                                     },
+                                     {
+                                         "height":  56,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/e219532a9f5289cdaaf0278a74a5e0f2/56x56-000000-80-0-0.jpg",
+                                         "width":  56
+                                     }
+                                 ],
+                      "name":  "JEALOUS (HARDTEKK)",
+                      "release_date":  "2026-01-30",
+                      "release_date_precision":  "day",
+                      "type":  "album",
+                      "genres":  [
+                                     "tekno"
+                                 ],
+                      "popularity":  58,
+                      "artists":  [
+                                      {
+                                          "followers":  {
+                                                            "total":  36
+                                                        },
+                                          "genres":  [
+                                                         "tekno"
+                                                     ],
+                                          "id":  "226300815",
+                                          "images":  [
+                                                         {
+                                                             "height":  1000,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/e219532a9f5289cdaaf0278a74a5e0f2/1000x1000-000000-80-0-0.jpg",
+                                                             "width":  1000
+                                                         },
+                                                         {
+                                                             "height":  500,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/e219532a9f5289cdaaf0278a74a5e0f2/500x500-000000-80-0-0.jpg",
+                                                             "width":  500
+                                                         },
+                                                         {
+                                                             "height":  250,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/e219532a9f5289cdaaf0278a74a5e0f2/250x250-000000-80-0-0.jpg",
+                                                             "width":  250
+                                                         },
+                                                         {
+                                                             "height":  56,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/e219532a9f5289cdaaf0278a74a5e0f2/56x56-000000-80-0-0.jpg",
+                                                             "width":  56
+                                                         }
+                                                     ],
+                                          "name":  "Der Aztekke",
+                                          "popularity":  58,
+                                          "type":  "artist"
+                                      }
+                                  ],
+                      "tracks":  [
+
+                                 ]
+                  },
+        "artists":  [
+                        {
+                            "followers":  {
+                                              "total":  36
+                                          },
+                            "genres":  [
+                                           "tekno"
+                                       ],
+                            "id":  "226300815",
+                            "images":  [
+                                           {
+                                               "height":  1000,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/e219532a9f5289cdaaf0278a74a5e0f2/1000x1000-000000-80-0-0.jpg",
+                                               "width":  1000
+                                           },
+                                           {
+                                               "height":  500,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/e219532a9f5289cdaaf0278a74a5e0f2/500x500-000000-80-0-0.jpg",
+                                               "width":  500
+                                           },
+                                           {
+                                               "height":  250,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/e219532a9f5289cdaaf0278a74a5e0f2/250x250-000000-80-0-0.jpg",
+                                               "width":  250
+                                           },
+                                           {
+                                               "height":  56,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/e219532a9f5289cdaaf0278a74a5e0f2/56x56-000000-80-0-0.jpg",
+                                               "width":  56
+                                           }
+                                       ],
+                            "name":  "Der Aztekke",
+                            "popularity":  58,
+                            "type":  "artist"
+                        }
+                    ],
+        "duration_ms":  169631,
+        "explicit":  false,
+        "id":  "3873285451",
+        "name":  "JEALOUS (HARDTEKK) - SUPER SLOWED",
+        "popularity":  58,
+        "preview_url":  "https://cdnt-preview.dzcdn.net/api/1/1/b/a/8/0/ba8aaecb1207423394db9d8de743fe48.mp3?hdnea=exp=1781369048~acl=/api/1/1/b/a/8/0/ba8aaecb1207423394db9d8de743fe48.mp3*~data=user_id=0,application_id=42~hmac=059ab027c6374307fb3455c1c1e8782245dc8c44af583298e1e790fd724dc6af",
+        "track_number":  0,
+        "type":  "track"
+    },
+    {
+        "album":  {
+                      "album_type":  "album",
+                      "total_tracks":  0,
+                      "id":  "",
+                      "images":  {
+
+                                 },
+                      "name":  "Even Though Toji Zenin",
+                      "release_date":  "2026-03-11",
+                      "release_date_precision":  "day",
+                      "type":  "album",
+                      "genres":  [
+
+                                 ],
+                      "popularity":  43,
+                      "artists":  [
+                                      {
+                                          "followers":  {
+                                                            "total":  5
+                                                        },
+                                          "genres":  [
+
+                                                     ],
+                                          "id":  "264845022",
+                                          "images":  [
+                                                         {
+                                                             "height":  1000,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/c3b60cb1eb161ee8457da614c2816000/1000x1000-000000-80-0-0.jpg",
+                                                             "width":  1000
+                                                         },
+                                                         {
+                                                             "height":  500,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/c3b60cb1eb161ee8457da614c2816000/500x500-000000-80-0-0.jpg",
+                                                             "width":  500
+                                                         },
+                                                         {
+                                                             "height":  250,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/c3b60cb1eb161ee8457da614c2816000/250x250-000000-80-0-0.jpg",
+                                                             "width":  250
+                                                         },
+                                                         {
+                                                             "height":  56,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/c3b60cb1eb161ee8457da614c2816000/56x56-000000-80-0-0.jpg",
+                                                             "width":  56
+                                                         }
+                                                     ],
+                                          "name":  "Jeshin",
+                                          "popularity":  43,
+                                          "type":  "artist"
+                                      }
+                                  ],
+                      "tracks":  [
+
+                                 ]
+                  },
+        "artists":  [
+                        {
+                            "followers":  {
+                                              "total":  5
+                                          },
+                            "genres":  [
+
+                                       ],
+                            "id":  "264845022",
+                            "images":  [
+                                           {
+                                               "height":  1000,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/c3b60cb1eb161ee8457da614c2816000/1000x1000-000000-80-0-0.jpg",
+                                               "width":  1000
+                                           },
+                                           {
+                                               "height":  500,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/c3b60cb1eb161ee8457da614c2816000/500x500-000000-80-0-0.jpg",
+                                               "width":  500
+                                           },
+                                           {
+                                               "height":  250,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/c3b60cb1eb161ee8457da614c2816000/250x250-000000-80-0-0.jpg",
+                                               "width":  250
+                                           },
+                                           {
+                                               "height":  56,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/c3b60cb1eb161ee8457da614c2816000/56x56-000000-80-0-0.jpg",
+                                               "width":  56
+                                           }
+                                       ],
+                            "name":  "Jeshin",
+                            "popularity":  43,
+                            "type":  "artist"
+                        }
+                    ],
+        "duration_ms":  82682,
+        "explicit":  false,
+        "id":  "spotify:track:7AeIhZQ3mO65Dbi3PfSxTA",
+        "name":  "Even Though Toji Zenin",
+        "popularity":  43,
+        "preview_url":  "",
+        "track_number":  0,
+        "type":  "track"
+    },
+    {
+        "album":  {
+                      "album_type":  "album",
+                      "total_tracks":  0,
+                      "id":  "89747962",
+                      "images":  [
+                                     {
+                                         "height":  1000,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/7445f129eafe60dfac45b0988bb5217a/1000x1000-000000-80-0-0.jpg",
+                                         "width":  1000
+                                     },
+                                     {
+                                         "height":  500,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/7445f129eafe60dfac45b0988bb5217a/500x500-000000-80-0-0.jpg",
+                                         "width":  500
+                                     },
+                                     {
+                                         "height":  250,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/7445f129eafe60dfac45b0988bb5217a/250x250-000000-80-0-0.jpg",
+                                         "width":  250
+                                     },
+                                     {
+                                         "height":  56,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/7445f129eafe60dfac45b0988bb5217a/56x56-000000-80-0-0.jpg",
+                                         "width":  56
+                                     }
+                                 ],
+                      "name":  "Premiers émois",
+                      "release_date":  "2019-03-22",
+                      "release_date_precision":  "day",
+                      "type":  "album",
+                      "genres":  [
+                                     "pop française indie",
+                                     "pop française"
+                                 ],
+                      "popularity":  75,
+                      "artists":  [
+                                      {
+                                          "followers":  {
+                                                            "total":  68173
+                                                        },
+                                          "genres":  [
+                                                         "pop française indie",
+                                                         "pop française"
+                                                     ],
+                                          "id":  "7604062",
+                                          "images":  [
+                                                         {
+                                                             "height":  1000,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/59ad9eb9f118d0bcaf9bff49e59f09b7/1000x1000-000000-80-0-0.jpg",
+                                                             "width":  1000
+                                                         },
+                                                         {
+                                                             "height":  500,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/59ad9eb9f118d0bcaf9bff49e59f09b7/500x500-000000-80-0-0.jpg",
+                                                             "width":  500
+                                                         },
+                                                         {
+                                                             "height":  250,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/59ad9eb9f118d0bcaf9bff49e59f09b7/250x250-000000-80-0-0.jpg",
+                                                             "width":  250
+                                                         },
+                                                         {
+                                                             "height":  56,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/59ad9eb9f118d0bcaf9bff49e59f09b7/56x56-000000-80-0-0.jpg",
+                                                             "width":  56
+                                                         }
+                                                     ],
+                                          "name":  "Vendredi sur Mer",
+                                          "popularity":  75,
+                                          "type":  "artist"
+                                      }
+                                  ],
+                      "tracks":  [
+
+                                 ]
+                  },
+        "artists":  [
+                        {
+                            "followers":  {
+                                              "total":  68173
+                                          },
+                            "genres":  [
+                                           "pop française indie",
+                                           "pop française"
+                                       ],
+                            "id":  "7604062",
+                            "images":  [
+                                           {
+                                               "height":  1000,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/59ad9eb9f118d0bcaf9bff49e59f09b7/1000x1000-000000-80-0-0.jpg",
+                                               "width":  1000
+                                           },
+                                           {
+                                               "height":  500,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/59ad9eb9f118d0bcaf9bff49e59f09b7/500x500-000000-80-0-0.jpg",
+                                               "width":  500
+                                           },
+                                           {
+                                               "height":  250,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/59ad9eb9f118d0bcaf9bff49e59f09b7/250x250-000000-80-0-0.jpg",
+                                               "width":  250
+                                           },
+                                           {
+                                               "height":  56,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/59ad9eb9f118d0bcaf9bff49e59f09b7/56x56-000000-80-0-0.jpg",
+                                               "width":  56
+                                           }
+                                       ],
+                            "name":  "Vendredi sur Mer",
+                            "popularity":  75,
+                            "type":  "artist"
+                        }
+                    ],
+        "duration_ms":  224933,
+        "explicit":  false,
+        "id":  "645497072",
+        "name":  "Écoute Chérie",
+        "popularity":  75,
+        "preview_url":  "https://cdnt-preview.dzcdn.net/api/1/1/6/d/b/0/6db8bce1e8132ef1291c008831dabc05.mp3?hdnea=exp=1781369049~acl=/api/1/1/6/d/b/0/6db8bce1e8132ef1291c008831dabc05.mp3*~data=user_id=0,application_id=42~hmac=e752ece8e335a9aa51f22c7cd2782e3327431d1e8c19a45f8b22569632b6b50c",
+        "track_number":  0,
+        "type":  "track"
+    },
+    {
+        "album":  {
+                      "album_type":  "album",
+                      "total_tracks":  0,
+                      "id":  "960881241",
+                      "images":  [
+                                     {
+                                         "height":  1000,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/67ddcd5e8e1612b5048087a3d101209d/1000x1000-000000-80-0-0.jpg",
+                                         "width":  1000
+                                     },
+                                     {
+                                         "height":  500,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/67ddcd5e8e1612b5048087a3d101209d/500x500-000000-80-0-0.jpg",
+                                         "width":  500
+                                     },
+                                     {
+                                         "height":  250,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/67ddcd5e8e1612b5048087a3d101209d/250x250-000000-80-0-0.jpg",
+                                         "width":  250
+                                     },
+                                     {
+                                         "height":  56,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/67ddcd5e8e1612b5048087a3d101209d/56x56-000000-80-0-0.jpg",
+                                         "width":  56
+                                     }
+                                 ],
+                      "name":  "Illusionary Daytime x Trackmaker",
+                      "release_date":  "2026-04-12",
+                      "release_date_precision":  "day",
+                      "type":  "album",
+                      "genres":  [
+                                     "tekno"
+                                 ],
+                      "popularity":  59,
+                      "artists":  [
+                                      {
+                                          "followers":  {
+                                                            "total":  0
+                                                        },
+                                          "genres":  [
+                                                         "tekno"
+                                                     ],
+                                          "id":  "moonshine;csvzx",
+                                          "images":  [
+
+                                                     ],
+                                          "name":  "Moonshine;CSVZX",
+                                          "popularity":  59,
+                                          "type":  "artist"
+                                      }
+                                  ],
+                      "tracks":  [
+
+                                 ]
+                  },
+        "artists":  [
+                        {
+                            "followers":  {
+                                              "total":  0
+                                          },
+                            "genres":  [
+                                           "tekno"
+                                       ],
+                            "id":  "moonshine;csvzx",
+                            "images":  [
+
+                                       ],
+                            "name":  "Moonshine;CSVZX",
+                            "popularity":  59,
+                            "type":  "artist"
+                        }
+                    ],
+        "duration_ms":  150437,
+        "explicit":  false,
+        "id":  "3958904131",
+        "name":  "Illusionary Daytime x Trackmaker - Slowed",
+        "popularity":  59,
+        "preview_url":  "https://cdnt-preview.dzcdn.net/api/1/1/2/6/8/0/26829de074002866af8f66c6fbd87e09.mp3?hdnea=exp=1781369049~acl=/api/1/1/2/6/8/0/26829de074002866af8f66c6fbd87e09.mp3*~data=user_id=0,application_id=42~hmac=40aeb715dd8f8abe5d0cb93ef109d99192ca18d9b3fe9d5468ae7f6a30714e79",
+        "track_number":  0,
+        "type":  "track"
+    },
+    {
+        "album":  {
+                      "album_type":  "album",
+                      "total_tracks":  0,
+                      "id":  "936434161",
+                      "images":  [
+                                     {
+                                         "height":  1000,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/8006adf2f3ae396b9541151bfc90821b/1000x1000-000000-80-0-0.jpg",
+                                         "width":  1000
+                                     },
+                                     {
+                                         "height":  500,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/8006adf2f3ae396b9541151bfc90821b/500x500-000000-80-0-0.jpg",
+                                         "width":  500
+                                     },
+                                     {
+                                         "height":  250,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/8006adf2f3ae396b9541151bfc90821b/250x250-000000-80-0-0.jpg",
+                                         "width":  250
+                                     },
+                                     {
+                                         "height":  56,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/8006adf2f3ae396b9541151bfc90821b/56x56-000000-80-0-0.jpg",
+                                         "width":  56
+                                     }
+                                 ],
+                      "name":  "U GOT THAT HARDTEKK",
+                      "release_date":  "2026-03-11",
+                      "release_date_precision":  "day",
+                      "type":  "album",
+                      "genres":  [
+                                     "tekno"
+                                 ],
+                      "popularity":  61,
+                      "artists":  [
+                                      {
+                                          "followers":  {
+                                                            "total":  0
+                                                        },
+                                          "genres":  [
+                                                         "tekno"
+                                                     ],
+                                          "id":  "angelhard;hexdless",
+                                          "images":  [
+
+                                                     ],
+                                          "name":  "angelhard;HEXDLESS",
+                                          "popularity":  61,
+                                          "type":  "artist"
+                                      }
+                                  ],
+                      "tracks":  [
+
+                                 ]
+                  },
+        "artists":  [
+                        {
+                            "followers":  {
+                                              "total":  0
+                                          },
+                            "genres":  [
+                                           "tekno"
+                                       ],
+                            "id":  "angelhard;hexdless",
+                            "images":  [
+
+                                       ],
+                            "name":  "angelhard;HEXDLESS",
+                            "popularity":  61,
+                            "type":  "artist"
+                        }
+                    ],
+        "duration_ms":  148620,
+        "explicit":  true,
+        "id":  "3891427191",
+        "name":  "U GOT THAT HARDTEKK - Ultra Slowed",
+        "popularity":  61,
+        "preview_url":  "https://cdnt-preview.dzcdn.net/api/1/1/1/b/e/0/1be7124b9b2b82dd903a6ede1c3bb58a.mp3?hdnea=exp=1781369050~acl=/api/1/1/1/b/e/0/1be7124b9b2b82dd903a6ede1c3bb58a.mp3*~data=user_id=0,application_id=42~hmac=b7443229c38824e2d0b066dc4f6bdd9bcbc90532d52d046c8a7d8c87b1d59b5b",
+        "track_number":  0,
+        "type":  "track"
+    },
+    {
+        "album":  {
+                      "album_type":  "album",
+                      "total_tracks":  0,
+                      "id":  "917105861",
+                      "images":  [
+                                     {
+                                         "height":  1000,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/0aca7434361679b1b9274ca9217a0282/1000x1000-000000-80-0-0.jpg",
+                                         "width":  1000
+                                     },
+                                     {
+                                         "height":  500,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/0aca7434361679b1b9274ca9217a0282/500x500-000000-80-0-0.jpg",
+                                         "width":  500
+                                     },
+                                     {
+                                         "height":  250,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/0aca7434361679b1b9274ca9217a0282/250x250-000000-80-0-0.jpg",
+                                         "width":  250
+                                     },
+                                     {
+                                         "height":  56,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/0aca7434361679b1b9274ca9217a0282/56x56-000000-80-0-0.jpg",
+                                         "width":  56
+                                     }
+                                 ],
+                      "name":  "the kill 2",
+                      "release_date":  "2025-12-01",
+                      "release_date_precision":  "day",
+                      "type":  "album",
+                      "genres":  [
+
+                                 ],
+                      "popularity":  82,
+                      "artists":  [
+                                      {
+                                          "followers":  {
+                                                            "total":  0
+                                                        },
+                                          "genres":  [
+
+                                                     ],
+                                          "id":  "lex amarni;2muchmotion",
+                                          "images":  [
+
+                                                     ],
+                                          "name":  "Lex Amarni;2muchmotion",
+                                          "popularity":  82,
+                                          "type":  "artist"
+                                      }
+                                  ],
+                      "tracks":  [
+
+                                 ]
+                  },
+        "artists":  [
+                        {
+                            "followers":  {
+                                              "total":  0
+                                          },
+                            "genres":  [
+
+                                       ],
+                            "id":  "lex amarni;2muchmotion",
+                            "images":  [
+
+                                       ],
+                            "name":  "Lex Amarni;2muchmotion",
+                            "popularity":  82,
+                            "type":  "artist"
+                        }
+                    ],
+        "duration_ms":  121294,
+        "explicit":  true,
+        "id":  "3838468521",
+        "name":  "the kill 2",
+        "popularity":  82,
+        "preview_url":  "https://cdnt-preview.dzcdn.net/api/1/1/a/0/8/0/a086619fd89f3b185a8f438fd0eb59ed.mp3?hdnea=exp=1781369050~acl=/api/1/1/a/0/8/0/a086619fd89f3b185a8f438fd0eb59ed.mp3*~data=user_id=0,application_id=42~hmac=fbb14a080768b0cd8789ea04f0d95d6718318304e01901241d23c04abfab8022",
+        "track_number":  0,
+        "type":  "track"
+    },
+    {
+        "album":  {
+                      "album_type":  "album",
+                      "total_tracks":  0,
+                      "id":  "570997571",
+                      "images":  [
+                                     {
+                                         "height":  1000,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/39ec82651ff693fbc721635180c892c2/1000x1000-000000-80-0-0.jpg",
+                                         "width":  1000
+                                     },
+                                     {
+                                         "height":  500,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/39ec82651ff693fbc721635180c892c2/500x500-000000-80-0-0.jpg",
+                                         "width":  500
+                                     },
+                                     {
+                                         "height":  250,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/39ec82651ff693fbc721635180c892c2/250x250-000000-80-0-0.jpg",
+                                         "width":  250
+                                     },
+                                     {
+                                         "height":  56,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/39ec82651ff693fbc721635180c892c2/56x56-000000-80-0-0.jpg",
+                                         "width":  56
+                                     }
+                                 ],
+                      "name":  "Bubblegum Bitch (Slowed)",
+                      "release_date":  "2024-05-21",
+                      "release_date_precision":  "day",
+                      "type":  "album",
+                      "genres":  [
+                                     "hardstyle",
+                                     "frenchcore"
+                                 ],
+                      "popularity":  66,
+                      "artists":  [
+                                      {
+                                          "followers":  {
+                                                            "total":  0
+                                                        },
+                                          "genres":  [
+                                                         "hardstyle",
+                                                         "frenchcore"
+                                                     ],
+                                          "id":  "anguish;ambvsh;ily",
+                                          "images":  [
+
+                                                     ],
+                                          "name":  "ANGUISH;AmbVsh;ily",
+                                          "popularity":  66,
+                                          "type":  "artist"
+                                      }
+                                  ],
+                      "tracks":  [
+
+                                 ]
+                  },
+        "artists":  [
+                        {
+                            "followers":  {
+                                              "total":  0
+                                          },
+                            "genres":  [
+                                           "hardstyle",
+                                           "frenchcore"
+                                       ],
+                            "id":  "anguish;ambvsh;ily",
+                            "images":  [
+
+                                       ],
+                            "name":  "ANGUISH;AmbVsh;ily",
+                            "popularity":  66,
+                            "type":  "artist"
+                        }
+                    ],
+        "duration_ms":  157419,
+        "explicit":  true,
+        "id":  "2742907791",
+        "name":  "Bubblegum Bitch - Slowed",
+        "popularity":  66,
+        "preview_url":  "https://cdnt-preview.dzcdn.net/api/1/1/7/d/1/0/7d1b6f9f7c1ae5b5665eaa1ffac89e78.mp3?hdnea=exp=1781369050~acl=/api/1/1/7/d/1/0/7d1b6f9f7c1ae5b5665eaa1ffac89e78.mp3*~data=user_id=0,application_id=42~hmac=ccdaf284fdfef7dfeb87c0ed74b7b962d768446bb716f70f095a176fcf2d5c15",
+        "track_number":  0,
+        "type":  "track"
+    },
+    {
+        "album":  {
+                      "album_type":  "album",
+                      "total_tracks":  0,
+                      "id":  "973873411",
+                      "images":  [
+                                     {
+                                         "height":  1000,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/f928e3ad003e098ed1cea460a5335962/1000x1000-000000-80-0-0.jpg",
+                                         "width":  1000
+                                     },
+                                     {
+                                         "height":  500,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/f928e3ad003e098ed1cea460a5335962/500x500-000000-80-0-0.jpg",
+                                         "width":  500
+                                     },
+                                     {
+                                         "height":  250,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/f928e3ad003e098ed1cea460a5335962/250x250-000000-80-0-0.jpg",
+                                         "width":  250
+                                     },
+                                     {
+                                         "height":  56,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/f928e3ad003e098ed1cea460a5335962/56x56-000000-80-0-0.jpg",
+                                         "width":  56
+                                     }
+                                 ],
+                      "name":  "LEGACY (slowed down)",
+                      "release_date":  "2026-05-08",
+                      "release_date_precision":  "day",
+                      "type":  "album",
+                      "genres":  [
+
+                                 ],
+                      "popularity":  76,
+                      "artists":  [
+                                      {
+                                          "followers":  {
+                                                            "total":  0
+                                                        },
+                                          "genres":  [
+
+                                                     ],
+                                          "id":  "backfromparadise;pixy",
+                                          "images":  [
+
+                                                     ],
+                                          "name":  "backfromparadise;PIXY",
+                                          "popularity":  76,
+                                          "type":  "artist"
+                                      }
+                                  ],
+                      "tracks":  [
+
+                                 ]
+                  },
+        "artists":  [
+                        {
+                            "followers":  {
+                                              "total":  0
+                                          },
+                            "genres":  [
+
+                                       ],
+                            "id":  "backfromparadise;pixy",
+                            "images":  [
+
+                                       ],
+                            "name":  "backfromparadise;PIXY",
+                            "popularity":  76,
+                            "type":  "artist"
+                        }
+                    ],
+        "duration_ms":  161765,
+        "explicit":  true,
+        "id":  "3997116041",
+        "name":  "LEGACY (slowed down)",
+        "popularity":  76,
+        "preview_url":  "https://cdnt-preview.dzcdn.net/api/1/1/3/b/5/0/3b589f1df6de9345864bd328e2745c6e.mp3?hdnea=exp=1781369051~acl=/api/1/1/3/b/5/0/3b589f1df6de9345864bd328e2745c6e.mp3*~data=user_id=0,application_id=42~hmac=8b5c1adf56918890b00e0a1acaaa4d4188209e55ea90d1127a49025436859e09",
+        "track_number":  0,
+        "type":  "track"
+    },
+    {
+        "album":  {
+                      "album_type":  "album",
+                      "total_tracks":  0,
+                      "id":  "6168389",
+                      "images":  [
+                                     {
+                                         "height":  1000,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/52330286cb5008805253fd77c7111d3f/1000x1000-000000-80-0-0.jpg",
+                                         "width":  1000
+                                     },
+                                     {
+                                         "height":  500,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/52330286cb5008805253fd77c7111d3f/500x500-000000-80-0-0.jpg",
+                                         "width":  500
+                                     },
+                                     {
+                                         "height":  250,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/52330286cb5008805253fd77c7111d3f/250x250-000000-80-0-0.jpg",
+                                         "width":  250
+                                     },
+                                     {
+                                         "height":  56,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/52330286cb5008805253fd77c7111d3f/56x56-000000-80-0-0.jpg",
+                                         "width":  56
+                                     }
+                                 ],
+                      "name":  "Nothing but the Beat (Ultimate Edition)",
+                      "release_date":  "2012-12-07",
+                      "release_date_precision":  "day",
+                      "type":  "album",
+                      "genres":  [
+                                     "edm"
+                                 ],
+                      "popularity":  81,
+                      "artists":  [
+                                      {
+                                          "followers":  {
+                                                            "total":  0
+                                                        },
+                                          "genres":  [
+                                                         "edm"
+                                                     ],
+                                          "id":  "david guetta;ne-yo;akon",
+                                          "images":  [
+
+                                                     ],
+                                          "name":  "David Guetta;Ne-Yo;Akon",
+                                          "popularity":  81,
+                                          "type":  "artist"
+                                      }
+                                  ],
+                      "tracks":  [
+
+                                 ]
+                  },
+        "artists":  [
+                        {
+                            "followers":  {
+                                              "total":  0
+                                          },
+                            "genres":  [
+                                           "edm"
+                                       ],
+                            "id":  "david guetta;ne-yo;akon",
+                            "images":  [
+
+                                       ],
+                            "name":  "David Guetta;Ne-Yo;Akon",
+                            "popularity":  81,
+                            "type":  "artist"
+                        }
+                    ],
+        "duration_ms":  201000,
+        "explicit":  false,
+        "id":  "62847147",
+        "name":  "Play Hard (feat. Ne-Yo \u0026 Akon)",
+        "popularity":  81,
+        "preview_url":  "https://cdnt-preview.dzcdn.net/api/1/1/8/1/9/0/81926596f6d0f4acfc92c65f3a2a7eb1.mp3?hdnea=exp=1781369051~acl=/api/1/1/8/1/9/0/81926596f6d0f4acfc92c65f3a2a7eb1.mp3*~data=user_id=0,application_id=42~hmac=04acfd2e976ccd8e7829b24ea7355829198fc8f89cfe067df325bfb60780e8fe",
+        "track_number":  0,
+        "type":  "track"
+    },
+    {
+        "album":  {
+                      "album_type":  "album",
+                      "total_tracks":  0,
+                      "id":  "11532158",
+                      "images":  [
+                                     {
+                                         "height":  1000,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/d69d89c1ef2f958501e1ee10da7ece79/1000x1000-000000-80-0-0.jpg",
+                                         "width":  1000
+                                     },
+                                     {
+                                         "height":  500,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/d69d89c1ef2f958501e1ee10da7ece79/500x500-000000-80-0-0.jpg",
+                                         "width":  500
+                                     },
+                                     {
+                                         "height":  250,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/d69d89c1ef2f958501e1ee10da7ece79/250x250-000000-80-0-0.jpg",
+                                         "width":  250
+                                     },
+                                     {
+                                         "height":  56,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/d69d89c1ef2f958501e1ee10da7ece79/56x56-000000-80-0-0.jpg",
+                                         "width":  56
+                                     }
+                                 ],
+                      "name":  "СИЛА ТРЁХ",
+                      "release_date":  "2016-05-27",
+                      "release_date_precision":  "day",
+                      "type":  "album",
+                      "genres":  [
+
+                                 ],
+                      "popularity":  68,
+                      "artists":  [
+                                      {
+                                          "followers":  {
+                                                            "total":  77194
+                                                        },
+                                          "genres":  [
+
+                                                     ],
+                                          "id":  "1658933",
+                                          "images":  [
+                                                         {
+                                                             "height":  1000,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/d2938486410961d6ee3740f5a182f712/1000x1000-000000-80-0-0.jpg",
+                                                             "width":  1000
+                                                         },
+                                                         {
+                                                             "height":  500,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/d2938486410961d6ee3740f5a182f712/500x500-000000-80-0-0.jpg",
+                                                             "width":  500
+                                                         },
+                                                         {
+                                                             "height":  250,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/d2938486410961d6ee3740f5a182f712/250x250-000000-80-0-0.jpg",
+                                                             "width":  250
+                                                         },
+                                                         {
+                                                             "height":  56,
+                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/d2938486410961d6ee3740f5a182f712/56x56-000000-80-0-0.jpg",
+                                                             "width":  56
+                                                         }
+                                                     ],
+                                          "name":  "SEREBRO",
+                                          "popularity":  68,
+                                          "type":  "artist"
+                                      }
+                                  ],
+                      "tracks":  [
+
+                                 ]
+                  },
+        "artists":  [
+                        {
+                            "followers":  {
+                                              "total":  77194
+                                          },
+                            "genres":  [
+
+                                       ],
+                            "id":  "1658933",
+                            "images":  [
+                                           {
+                                               "height":  1000,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/d2938486410961d6ee3740f5a182f712/1000x1000-000000-80-0-0.jpg",
+                                               "width":  1000
+                                           },
+                                           {
+                                               "height":  500,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/d2938486410961d6ee3740f5a182f712/500x500-000000-80-0-0.jpg",
+                                               "width":  500
+                                           },
+                                           {
+                                               "height":  250,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/d2938486410961d6ee3740f5a182f712/250x250-000000-80-0-0.jpg",
+                                               "width":  250
+                                           },
+                                           {
+                                               "height":  56,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/d2938486410961d6ee3740f5a182f712/56x56-000000-80-0-0.jpg",
+                                               "width":  56
+                                           }
+                                       ],
+                            "name":  "SEREBRO",
+                            "popularity":  68,
+                            "type":  "artist"
+                        }
+                    ],
+        "duration_ms":  232855,
+        "explicit":  false,
+        "id":  "110886120",
+        "name":  "Отпусти меня",
+        "popularity":  68,
+        "preview_url":  "https://cdnt-preview.dzcdn.net/api/1/1/2/e/5/0/2e52f29105d1125de2bb7798679406c9.mp3?hdnea=exp=1781369051~acl=/api/1/1/2/e/5/0/2e52f29105d1125de2bb7798679406c9.mp3*~data=user_id=0,application_id=42~hmac=919ad1ff80ac1378d2c1d32458071393c5d05798e75e3c93d3fabee9ad191857",
+        "track_number":  0,
+        "type":  "track"
+    }
+]
