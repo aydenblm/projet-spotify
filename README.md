@@ -10,7 +10,10 @@ les statistiques : artistes, genres, popularité, décennies de sortie, avec ape
 - **Statistiques générales** : nombre de titres, durée totale d'écoute, nombre d'artistes, popularité moyenne
 - **4 graphiques Chart.js** : artistes les plus présents, répartition des genres, titres par décennie, top popularité
 - **Top artistes** : photo, nombre de titres dans la playlist, followers
-- **Liste des titres** : pochette, artistes, album, durée, popularité, badge explicite, aperçu audio
+- **Liste des titres** : pochette, artistes, album, durée, popularité, badge explicite, **aperçu audio jouable (30 s)**
+  - L'URL d'aperçu est récupérée à la volée via l'API Deezer (`api.deezer.com/track/{id}`, en JSONP),
+    car les `preview_url` du `data.json` sont signées et expirent au bout de quelques jours.
+  - Chargement paresseux (au défilement) et un seul titre joué à la fois.
 - **Barre de recherche** (bonus) : filtre en direct sur le titre, l'artiste ou l'album
 - **Responsive** : grille Bootstrap (1 colonne mobile → 3 colonnes desktop)
 - **Accessibilité (WCAG)** : lien d'évitement, structure de titres cohérente, alternatives textuelles

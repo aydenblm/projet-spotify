@@ -228,13 +228,11 @@ function afficherTitres(tracks) {
             clone.querySelector(".explicit").classList.remove("d-none");
         }
 
+        // L'aperçu audio est chargé à la demande via l'API Deezer (voir initLecteurs),
+        // car les preview_url du data.json sont signées et expirent en quelques jours.
         const audio = clone.querySelector(".apercu");
-        if (track.preview_url) {
-            audio.src = track.preview_url;
-            audio.setAttribute("aria-label", `Aperçu audio de ${track.name}`);
-        } else {
-            audio.remove();
-        }
+        audio.dataset.trackId = track.id;
+        audio.setAttribute("aria-label", `Aperçu audio de ${track.name}`);
 
         // Texte utilisé par la barre de recherche (titre + artistes + album)
         const carte = clone.querySelector(".col-titre");
@@ -281,6 +279,112 @@ function initRecherche() {
     });
 }
 
+/* ---------- Lecture audio (aperçus Deezer) ---------- */
+
+// Mémorise les URLs déjà récupérées pour ne pas réinterroger l'API.
+const cachePreviews = new Map();
+
+/**
+ * Récupère une URL d'aperçu fraîche pour un titre via l'API Deezer.
+ * On utilise JSONP (injection de <script>) pour contourner les restrictions CORS.
+ */
+function chargerPreviewDeezer(trackId) {
+    if (cachePreviews.has(trackId)) {
+        return Promise.resolve(cachePreviews.get(trackId));
+    }
+
+    return new Promise((resolve, reject) => {
+        const callback = `deezerCb_${trackId}_${Date.now()}`;
+        const script = document.createElement("script");
+
+        const minuterie = setTimeout(() => {
+            nettoyer();
+            reject(new Error("Délai dépassé"));
+        }, 8000);
+
+        function nettoyer() {
+            clearTimeout(minuterie);
+            delete window[callback];
+            script.remove();
+        }
+
+        window[callback] = (donnees) => {
+            nettoyer();
+            if (donnees && donnees.preview) {
+                cachePreviews.set(trackId, donnees.preview);
+                resolve(donnees.preview);
+            } else {
+                reject(new Error("Aucun aperçu disponible"));
+            }
+        };
+
+        script.onerror = () => {
+            nettoyer();
+            reject(new Error("Erreur réseau"));
+        };
+
+        script.src = `https://api.deezer.com/track/${trackId}?output=jsonp&callback=${callback}`;
+        document.body.appendChild(script);
+    });
+}
+
+/**
+ * Branche les lecteurs audio :
+ *  - chargement de l'aperçu quand la carte devient visible (IntersectionObserver) ;
+ *  - mise en pause automatique des autres titres quand on en lance un.
+ */
+function initLecteurs() {
+    const lecteurs = document.querySelectorAll(".apercu");
+
+    // Un seul titre joué à la fois
+    for (const audio of lecteurs) {
+        audio.addEventListener("play", () => {
+            for (const autre of lecteurs) {
+                if (autre !== audio) {
+                    autre.pause();
+                }
+            }
+        });
+    }
+
+    const charger = (audio) => {
+        if (audio.dataset.chargement) {
+            return;
+        }
+        audio.dataset.chargement = "1";
+        chargerPreviewDeezer(audio.dataset.trackId)
+            .then((url) => {
+                audio.src = url;
+                audio.preload = "metadata";
+            })
+            .catch((erreur) => {
+                console.warn(`Aperçu indisponible (track ${audio.dataset.trackId})`, erreur);
+                const message = document.createElement("p");
+                message.className = "text-body-secondary mb-0 small";
+                message.textContent = "Aperçu indisponible";
+                audio.replaceWith(message);
+            });
+    };
+
+    if ("IntersectionObserver" in window) {
+        const observateur = new IntersectionObserver((entrees, obs) => {
+            for (const entree of entrees) {
+                if (entree.isIntersecting) {
+                    charger(entree.target);
+                    obs.unobserve(entree.target);
+                }
+            }
+        }, { rootMargin: "200px" });
+
+        for (const audio of lecteurs) {
+            observateur.observe(audio);
+        }
+    } else {
+        // Repli : on charge tout directement
+        lecteurs.forEach(charger);
+    }
+}
+
 /* ---------- Point d'entrée ---------- */
 
 async function init() {
@@ -301,6 +405,7 @@ async function init() {
 
         afficherArtistes(tracks);
         afficherTitres(tracks);
+        initLecteurs();
         initRecherche();
     } catch (erreur) {
         console.error("Impossible de charger les données :", erreur);
