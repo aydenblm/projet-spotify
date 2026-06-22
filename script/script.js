@@ -73,9 +73,9 @@ function afficherStats(tracks) {
 /* ---------- Graphiques Chart.js ---------- */
 
 function configurerChartJs() {
-    // Couleurs lisibles sur le thème sombre (contraste WCAG)
-    Chart.defaults.color = "#c9c9c9";
-    Chart.defaults.borderColor = "rgba(255, 255, 255, 0.1)";
+    // Couleurs lisibles sur le thème clair (contraste WCAG)
+    Chart.defaults.color = "#212529";
+    Chart.defaults.borderColor = "rgba(0, 0, 0, 0.1)";
     Chart.defaults.font.family = "system-ui, -apple-system, 'Segoe UI', sans-serif";
 }
 
@@ -90,7 +90,7 @@ function graphArtistes(tracks) {
             datasets: [{
                 label: "Nombre de titres",
                 data: top.map(([, nb]) => nb),
-                backgroundColor: VERT_SPOTIFY,
+                backgroundColor: "#5b9bd5",
             }],
         },
         options: {
@@ -100,7 +100,7 @@ function graphArtistes(tracks) {
     }));
 }
 
-/** Doughnut : répartition des genres (8 premiers + "Autres"). */
+/** Camembert : répartition des genres (8 premiers + "Autres"). */
 function graphGenres(tracks) {
     const occurrences = compterOccurrences(tracks, (t) =>
         [...new Set(t.artists.flatMap((a) => a.genres))]
@@ -112,7 +112,7 @@ function graphGenres(tracks) {
     }
 
     chartsActifs.push(new Chart(document.getElementById("graph-genres"), {
-        type: "doughnut",
+        type: "pie",
         data: {
             labels: principaux.map(([genre]) => genre),
             datasets: [{
@@ -205,53 +205,116 @@ function afficherArtistes(tracks) {
     }
 }
 
-/* ---------- Liste des titres ---------- */
+/* ---------- Albums populaires ---------- */
 
-function afficherTitres(tracks) {
-    const conteneur = document.getElementById("liste-titres");
-    const template = document.getElementById("template-titre");
+function afficherAlbums(tracks) {
+    const conteneur = document.getElementById("liste-albums");
+    const template = document.getElementById("template-album");
 
-    for (const track of tracks) {
+    // Albums uniques (par nom + artiste), triés par popularité
+    const parAlbum = new Map();
+    for (const t of tracks) {
+        const cle = `${t.album.name}|${t.artists[0]?.name ?? ""}`;
+        const existant = parAlbum.get(cle);
+        if (!existant || t.popularity > existant.popularity) {
+            parAlbum.set(cle, t);
+        }
+    }
+    const albums = [...parAlbum.values()]
+        .sort((a, b) => b.popularity - a.popularity)
+        .slice(0, 6);
+
+    for (const t of albums) {
         const clone = template.content.cloneNode(true);
 
         const cover = clone.querySelector(".cover");
-        cover.src = track.album.images[1]?.url ?? track.album.images[0]?.url ?? "";
-        cover.alt = `Pochette de l'album ${track.album.name}`;
+        cover.src = t.album.images?.[0]?.url ?? t.album.images?.[1]?.url ?? "";
+        cover.alt = `Pochette de l'album ${t.album.name}`;
 
-        clone.querySelector(".nom").textContent = track.name;
-        clone.querySelector(".artistes").textContent = track.artists
-            .map((a) => a.name)
-            .join(", ");
-        clone.querySelector(".album small").textContent =
-            `${track.album.name} (${track.album.release_date.slice(0, 4)})`;
-        clone.querySelector(".duree").textContent = formaterDuree(track.duration_ms);
-        clone.querySelector(".popularite").textContent = `Popularité ${track.popularity}`;
-
-        if (track.explicit) {
-            clone.querySelector(".explicit").classList.remove("d-none");
-        }
-
-        // L'aperçu audio est chargé à la demande via l'API Deezer (voir initLecteurs),
-        // car les preview_url du data.json sont signées et expirent en quelques jours.
-        const audio = clone.querySelector(".apercu");
-        // id numérique = identifiant Deezer (recherche directe par id) ;
-        // sinon (ex. id Spotify) on retombera sur une recherche titre + artiste.
-        audio.dataset.deezerId = /^\d+$/.test(String(track.id)) ? track.id : "";
-        audio.dataset.query = `${track.artists.map((a) => a.name).join(" ")} ${track.name}`;
-        audio.setAttribute("aria-label", `Aperçu audio de ${track.name}`);
-
-        // Texte utilisé par la barre de recherche (titre + artistes + album)
-        const carte = clone.querySelector(".col-titre");
-        carte.dataset.recherche = [
-            track.name,
-            ...track.artists.map((a) => a.name),
-            track.album.name,
-        ].join(" ").toLowerCase();
+        clone.querySelector(".nom").textContent = t.album.name;
+        clone.querySelector(".artiste").textContent = t.artists.map((a) => a.name).join(", ");
+        clone.querySelector(".date").textContent = t.album.release_date || "";
+        clone.querySelector(".popularite").textContent = `Popularité ${t.popularity}`;
 
         conteneur.appendChild(clone);
     }
+}
 
+/* ---------- Liste des titres (paginée) ---------- */
+
+const BATCH_TITRES = 48;       // nombre de titres ajoutés par lot
+let titresCourants = [];       // tous les titres de la vue
+let titresFiltres = [];        // titres après recherche
+let titresRendus = 0;          // combien sont déjà affichés
+
+/** Crée la carte DOM d'un titre et branche son lecteur audio. */
+function creerCarteTitre(track) {
+    const template = document.getElementById("template-titre");
+    const clone = template.content.cloneNode(true);
+
+    const cover = clone.querySelector(".cover");
+    cover.src = track.album.images[1]?.url ?? track.album.images[0]?.url ?? "";
+    cover.alt = `Pochette de l'album ${track.album.name}`;
+
+    clone.querySelector(".nom").textContent = track.name;
+    clone.querySelector(".artistes").textContent = track.artists.map((a) => a.name).join(", ");
+    clone.querySelector(".album small").textContent =
+        `${track.album.name} (${track.album.release_date.slice(0, 4)})`;
+    clone.querySelector(".duree").textContent = formaterDuree(track.duration_ms);
+    clone.querySelector(".popularite").textContent = `Popularité ${track.popularity}`;
+
+    if (track.explicit) {
+        clone.querySelector(".explicit").classList.remove("d-none");
+    }
+
+    // id numérique = identifiant Deezer (recherche directe) ; sinon recherche titre + artiste.
+    const audio = clone.querySelector(".apercu");
+    audio.dataset.deezerId = /^\d+$/.test(String(track.id)) ? track.id : "";
+    audio.dataset.query = `${track.artists.map((a) => a.name).join(" ")} ${track.name}`;
+    audio.setAttribute("aria-label", `Aperçu audio de ${track.name}`);
+    wirerAudio(audio);
+
+    return clone;
+}
+
+/** Ajoute le lot de titres suivant et met à jour le bouton « Voir plus ». */
+function rendreLotTitres() {
+    const conteneur = document.getElementById("liste-titres");
+    const fin = Math.min(titresRendus + BATCH_TITRES, titresFiltres.length);
+
+    const fragment = document.createDocumentFragment();
+    for (let i = titresRendus; i < fin; i++) {
+        fragment.appendChild(creerCarteTitre(titresFiltres[i]));
+    }
+    conteneur.appendChild(fragment);
+    titresRendus = fin;
+
+    document.getElementById("btn-voir-plus")
+        .classList.toggle("d-none", titresRendus >= titresFiltres.length);
+}
+
+/** Affiche une liste de titres depuis zéro (premier lot seulement). */
+function afficherListeTitres(tracks) {
+    titresFiltres = tracks;
+    titresRendus = 0;
+    document.getElementById("liste-titres").innerHTML = "";
+    document.getElementById("aucun-resultat").classList.toggle("d-none", tracks.length > 0);
     mettreAJourCompteur(tracks.length);
+    rendreLotTitres();
+}
+
+function afficherTitres(tracks) {
+    titresCourants = tracks;
+    afficherListeTitres(tracks);
+}
+
+/** Filtre les titres de la vue courante sur le texte de recherche. */
+function filtrerTitres(requete) {
+    if (!requete) return titresCourants;
+    return titresCourants.filter((t) => {
+        const texte = `${t.name} ${t.artists.map((a) => a.name).join(" ")} ${t.album.name}`;
+        return texte.toLowerCase().includes(requete);
+    });
 }
 
 function mettreAJourCompteur(nb) {
@@ -282,16 +345,12 @@ function initRecherche() {
             return;
         }
 
-        // Dans une playlist : filtre les titres
-        let visibles = 0;
-        for (const carte of document.querySelectorAll(".col-titre")) {
-            const ok = carte.dataset.recherche.includes(requete);
-            carte.classList.toggle("d-none", !ok);
-            if (ok) visibles++;
-        }
-        document.getElementById("aucun-resultat").classList.toggle("d-none", visibles > 0);
-        mettreAJourCompteur(visibles);
+        // Dans une playlist : filtre les titres (sur la liste complète, puis repagine)
+        afficherListeTitres(filtrerTitres(requete));
     });
+
+    // Bouton « Voir plus » : ajoute le lot suivant
+    document.getElementById("btn-voir-plus").addEventListener("click", rendreLotTitres);
 }
 
 /* ---------- Lecture audio (aperçus Deezer) ---------- */
@@ -377,60 +436,56 @@ async function obtenirPreview(audio) {
     return chargerPreviewParRecherche(audio.dataset.query);
 }
 
-/**
- * Branche les lecteurs audio :
- *  - chargement de l'aperçu quand la carte devient visible (IntersectionObserver) ;
- *  - mise en pause automatique des autres titres quand on en lance un.
- */
-function initLecteurs() {
-    const lecteurs = document.querySelectorAll(".apercu");
+// Observateur unique réutilisé pour tous les lecteurs (chargement paresseux).
+let observateurAudio = null;
 
-    // Un seul titre joué à la fois
-    for (const audio of lecteurs) {
-        audio.addEventListener("play", () => {
-            for (const autre of lecteurs) {
-                if (autre !== audio) {
-                    autre.pause();
-                }
-            }
-        });
+/** Charge l'aperçu d'un titre (une seule fois) quand sa carte devient visible. */
+function chargerApercu(audio) {
+    if (audio.dataset.chargement) {
+        return;
     }
+    audio.dataset.chargement = "1";
+    obtenirPreview(audio)
+        .then((url) => {
+            audio.src = url;
+            audio.preload = "metadata";
+        })
+        .catch((erreur) => {
+            console.warn(`Aperçu indisponible (${audio.dataset.query})`, erreur);
+            const message = document.createElement("p");
+            message.className = "text-body-secondary mb-0 small";
+            message.textContent = "Aperçu indisponible";
+            audio.replaceWith(message);
+        });
+}
 
-    const charger = (audio) => {
-        if (audio.dataset.chargement) {
-            return;
+/**
+ * Branche un lecteur audio :
+ *  - met en pause les autres titres quand on le lance ;
+ *  - charge son aperçu quand sa carte devient visible (observateur partagé).
+ */
+function wirerAudio(audio) {
+    audio.addEventListener("play", () => {
+        for (const autre of document.querySelectorAll(".apercu")) {
+            if (autre !== audio) autre.pause();
         }
-        audio.dataset.chargement = "1";
-        obtenirPreview(audio)
-            .then((url) => {
-                audio.src = url;
-                audio.preload = "metadata";
-            })
-            .catch((erreur) => {
-                console.warn(`Aperçu indisponible (${audio.dataset.query})`, erreur);
-                const message = document.createElement("p");
-                message.className = "text-body-secondary mb-0 small";
-                message.textContent = "Aperçu indisponible";
-                audio.replaceWith(message);
-            });
-    };
+    });
 
-    if ("IntersectionObserver" in window) {
-        const observateur = new IntersectionObserver((entrees, obs) => {
+    if (!observateurAudio && "IntersectionObserver" in window) {
+        observateurAudio = new IntersectionObserver((entrees, obs) => {
             for (const entree of entrees) {
                 if (entree.isIntersecting) {
-                    charger(entree.target);
+                    chargerApercu(entree.target);
                     obs.unobserve(entree.target);
                 }
             }
         }, { rootMargin: "200px" });
+    }
 
-        for (const audio of lecteurs) {
-            observateur.observe(audio);
-        }
+    if (observateurAudio) {
+        observateurAudio.observe(audio);
     } else {
-        // Repli : on charge tout directement
-        lecteurs.forEach(charger);
+        chargerApercu(audio); // repli si IntersectionObserver indisponible
     }
 }
 
@@ -449,7 +504,7 @@ function rendreTout(tracks) {
     chartsActifs = [];
     cachePreviews.clear();
 
-    for (const id of ["stats-cards", "liste-artistes", "liste-titres"]) {
+    for (const id of ["stats-cards", "liste-artistes", "liste-albums", "liste-titres"]) {
         document.getElementById(id).innerHTML = "";
     }
 
@@ -463,8 +518,8 @@ function rendreTout(tracks) {
     graphPopularite(tracks);
 
     afficherArtistes(tracks);
+    afficherAlbums(tracks);
     afficherTitres(tracks);
-    initLecteurs();
 }
 
 /* ---------- Playlists & navigation ---------- */

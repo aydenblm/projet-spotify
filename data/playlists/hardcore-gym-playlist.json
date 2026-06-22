@@ -1,15 +1,14 @@
 ﻿[
     {
+        "id":  "2007556147",
+        "name":  "可愛くてごめん",
+        "duration_ms":  219160,
+        "popularity":  63,
+        "explicit":  false,
         "album":  {
-                      "album_type":  "album",
-                      "total_tracks":  0,
-                      "id":  "373903497",
+                      "name":  "可愛くてごめん",
+                      "release_date":  "2022-11-21",
                       "images":  [
-                                     {
-                                         "height":  1000,
-                                         "url":  "https://cdn-images.dzcdn.net/images/cover/ad0c61cf93aedd6c640652046f40903e/1000x1000-000000-80-0-0.jpg",
-                                         "width":  1000
-                                     },
                                      {
                                          "height":  500,
                                          "url":  "https://cdn-images.dzcdn.net/images/cover/ad0c61cf93aedd6c640652046f40903e/500x500-000000-80-0-0.jpg",
@@ -19,85 +18,37 @@
                                          "height":  250,
                                          "url":  "https://cdn-images.dzcdn.net/images/cover/ad0c61cf93aedd6c640652046f40903e/250x250-000000-80-0-0.jpg",
                                          "width":  250
-                                     },
-                                     {
-                                         "height":  56,
-                                         "url":  "https://cdn-images.dzcdn.net/images/cover/ad0c61cf93aedd6c640652046f40903e/56x56-000000-80-0-0.jpg",
-                                         "width":  56
                                      }
-                                 ],
-                      "name":  "可愛くてごめん",
-                      "release_date":  "2022-11-21",
-                      "release_date_precision":  "day",
-                      "type":  "album",
-                      "genres":  [
-                                     "vocaloid",
-                                     "j-pop",
-                                     "animé"
-                                 ],
-                      "popularity":  63,
-                      "artists":  [
-                                      {
-                                          "followers":  {
-                                                            "total":  0
-                                                        },
-                                          "genres":  [
-                                                         "vocaloid",
-                                                         "j-pop",
-                                                         "animé"
-                                                     ],
-                                          "id":  "honeyworks;ちゅーたん(cv:早見沙織)",
-                                          "images":  [
-
-                                                     ],
-                                          "name":  "HoneyWorks;ちゅーたん(CV:早見沙織)",
-                                          "popularity":  63,
-                                          "type":  "artist"
-                                      }
-                                  ],
-                      "tracks":  [
-
                                  ]
                   },
         "artists":  [
                         {
-                            "followers":  {
-                                              "total":  0
-                                          },
+                            "id":  "honeyworks;ちゅーたん(cv:早見沙織)",
+                            "name":  "HoneyWorks;ちゅーたん(CV:早見沙織)",
                             "genres":  [
                                            "vocaloid",
                                            "j-pop",
                                            "animé"
                                        ],
-                            "id":  "honeyworks;ちゅーたん(cv:早見沙織)",
-                            "images":  [
+                            "followers":  {
+                                              "total":  0
+                                          },
+                            "images":  {
 
-                                       ],
-                            "name":  "HoneyWorks;ちゅーたん(CV:早見沙織)",
-                            "popularity":  63,
-                            "type":  "artist"
+                                       }
                         }
-                    ],
-        "duration_ms":  219160,
-        "explicit":  false,
-        "id":  "2007556147",
-        "name":  "可愛くてごめん",
-        "popularity":  63,
-        "preview_url":  "https://cdnt-preview.dzcdn.net/api/1/1/7/9/4/0/7940d38227684b258b7f16dafe1fa836.mp3?hdnea=exp=1781369093~acl=/api/1/1/7/9/4/0/7940d38227684b258b7f16dafe1fa836.mp3*~data=user_id=0,application_id=42~hmac=cb6b0097be3a2dbc6e203db5d9650e7f6ee5a20e6e9d8cbf5e5ca4a2db337768",
-        "track_number":  0,
-        "type":  "track"
+                    ]
     },
     {
+        "id":  "1268574642",
+        "name":  "Renai Circulation (English Cover) [2012 TV Size]",
+        "duration_ms":  91066,
+        "popularity":  59,
+        "explicit":  false,
         "album":  {
-                      "album_type":  "album",
-                      "total_tracks":  0,
-                      "id":  "213214352",
+                      "name":  "Renai Circulation (English Cover) [TV Size]",
+                      "release_date":  "2020-08-13",
                       "images":  [
-                                     {
-                                         "height":  1000,
-                                         "url":  "https://cdn-images.dzcdn.net/images/cover/d84e2db2b2e7dd485be00e6b47c173b9/1000x1000-000000-80-0-0.jpg",
-                                         "width":  1000
-                                     },
                                      {
                                          "height":  500,
                                          "url":  "https://cdn-images.dzcdn.net/images/cover/d84e2db2b2e7dd485be00e6b47c173b9/500x500-000000-80-0-0.jpg",
@@ -107,79 +58,35 @@
                                          "height":  250,
                                          "url":  "https://cdn-images.dzcdn.net/images/cover/d84e2db2b2e7dd485be00e6b47c173b9/250x250-000000-80-0-0.jpg",
                                          "width":  250
-                                     },
-                                     {
-                                         "height":  56,
-                                         "url":  "https://cdn-images.dzcdn.net/images/cover/d84e2db2b2e7dd485be00e6b47c173b9/56x56-000000-80-0-0.jpg",
-                                         "width":  56
                                      }
-                                 ],
-                      "name":  "Renai Circulation (English Cover) [TV Size]",
-                      "release_date":  "2020-08-13",
-                      "release_date_precision":  "day",
-                      "type":  "album",
-                      "genres":  [
-                                     "animé"
-                                 ],
-                      "popularity":  59,
-                      "artists":  [
-                                      {
-                                          "followers":  {
-                                                            "total":  0
-                                                        },
-                                          "genres":  [
-                                                         "animé"
-                                                     ],
-                                          "id":  "lizz robinett;l-train;y. chang",
-                                          "images":  [
-
-                                                     ],
-                                          "name":  "Lizz Robinett;L-Train;Y. Chang",
-                                          "popularity":  59,
-                                          "type":  "artist"
-                                      }
-                                  ],
-                      "tracks":  [
-
                                  ]
                   },
         "artists":  [
                         {
-                            "followers":  {
-                                              "total":  0
-                                          },
+                            "id":  "lizz robinett;l-train;y. chang",
+                            "name":  "Lizz Robinett;L-Train;Y. Chang",
                             "genres":  [
                                            "animé"
                                        ],
-                            "id":  "lizz robinett;l-train;y. chang",
-                            "images":  [
+                            "followers":  {
+                                              "total":  0
+                                          },
+                            "images":  {
 
-                                       ],
-                            "name":  "Lizz Robinett;L-Train;Y. Chang",
-                            "popularity":  59,
-                            "type":  "artist"
+                                       }
                         }
-                    ],
-        "duration_ms":  91066,
-        "explicit":  false,
-        "id":  "1268574642",
-        "name":  "Renai Circulation (English Cover) [2012 TV Size]",
-        "popularity":  59,
-        "preview_url":  "https://cdnt-preview.dzcdn.net/api/1/1/c/b/b/0/cbbab470f0b1ac2e663e1900c7794019.mp3?hdnea=exp=1781369094~acl=/api/1/1/c/b/b/0/cbbab470f0b1ac2e663e1900c7794019.mp3*~data=user_id=0,application_id=42~hmac=5c77573c1f8c107fc1208ceab41f0c2502a46f585e2e9dd2305f3c28555282c8",
-        "track_number":  0,
-        "type":  "track"
+                    ]
     },
     {
+        "id":  "139740917",
+        "name":  "It\u0027s Not Like I Like You!!",
+        "duration_ms":  280357,
+        "popularity":  70,
+        "explicit":  false,
         "album":  {
-                      "album_type":  "album",
-                      "total_tracks":  0,
-                      "id":  "15030707",
+                      "name":  "It\u0027s Not Like I Like You!!",
+                      "release_date":  "2016-11-02",
                       "images":  [
-                                     {
-                                         "height":  1000,
-                                         "url":  "https://cdn-images.dzcdn.net/images/cover/30782cd7a46180072c15f08fc0cafccb/1000x1000-000000-80-0-0.jpg",
-                                         "width":  1000
-                                     },
                                      {
                                          "height":  500,
                                          "url":  "https://cdn-images.dzcdn.net/images/cover/30782cd7a46180072c15f08fc0cafccb/500x500-000000-80-0-0.jpg",
@@ -189,76 +96,20 @@
                                          "height":  250,
                                          "url":  "https://cdn-images.dzcdn.net/images/cover/30782cd7a46180072c15f08fc0cafccb/250x250-000000-80-0-0.jpg",
                                          "width":  250
-                                     },
-                                     {
-                                         "height":  56,
-                                         "url":  "https://cdn-images.dzcdn.net/images/cover/30782cd7a46180072c15f08fc0cafccb/56x56-000000-80-0-0.jpg",
-                                         "width":  56
                                      }
-                                 ],
-                      "name":  "It\u0027s Not Like I Like You!!",
-                      "release_date":  "2016-11-02",
-                      "release_date_precision":  "day",
-                      "type":  "album",
-                      "genres":  [
-
-                                 ],
-                      "popularity":  70,
-                      "artists":  [
-                                      {
-                                          "followers":  {
-                                                            "total":  1015
-                                                        },
-                                          "genres":  [
-
-                                                     ],
-                                          "id":  "11675401",
-                                          "images":  [
-                                                         {
-                                                             "height":  1000,
-                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/30782cd7a46180072c15f08fc0cafccb/1000x1000-000000-80-0-0.jpg",
-                                                             "width":  1000
-                                                         },
-                                                         {
-                                                             "height":  500,
-                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/30782cd7a46180072c15f08fc0cafccb/500x500-000000-80-0-0.jpg",
-                                                             "width":  500
-                                                         },
-                                                         {
-                                                             "height":  250,
-                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/30782cd7a46180072c15f08fc0cafccb/250x250-000000-80-0-0.jpg",
-                                                             "width":  250
-                                                         },
-                                                         {
-                                                             "height":  56,
-                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/30782cd7a46180072c15f08fc0cafccb/56x56-000000-80-0-0.jpg",
-                                                             "width":  56
-                                                         }
-                                                     ],
-                                          "name":  "Static-P",
-                                          "popularity":  70,
-                                          "type":  "artist"
-                                      }
-                                  ],
-                      "tracks":  [
-
                                  ]
                   },
         "artists":  [
                         {
-                            "followers":  {
-                                              "total":  1015
-                                          },
+                            "id":  "11675401",
+                            "name":  "Static-P",
                             "genres":  [
 
                                        ],
-                            "id":  "11675401",
+                            "followers":  {
+                                              "total":  1015
+                                          },
                             "images":  [
-                                           {
-                                               "height":  1000,
-                                               "url":  "https://cdn-images.dzcdn.net/images/artist/30782cd7a46180072c15f08fc0cafccb/1000x1000-000000-80-0-0.jpg",
-                                               "width":  1000
-                                           },
                                            {
                                                "height":  500,
                                                "url":  "https://cdn-images.dzcdn.net/images/artist/30782cd7a46180072c15f08fc0cafccb/500x500-000000-80-0-0.jpg",
@@ -268,38 +119,21 @@
                                                "height":  250,
                                                "url":  "https://cdn-images.dzcdn.net/images/artist/30782cd7a46180072c15f08fc0cafccb/250x250-000000-80-0-0.jpg",
                                                "width":  250
-                                           },
-                                           {
-                                               "height":  56,
-                                               "url":  "https://cdn-images.dzcdn.net/images/artist/30782cd7a46180072c15f08fc0cafccb/56x56-000000-80-0-0.jpg",
-                                               "width":  56
                                            }
-                                       ],
-                            "name":  "Static-P",
-                            "popularity":  70,
-                            "type":  "artist"
+                                       ]
                         }
-                    ],
-        "duration_ms":  280357,
-        "explicit":  false,
-        "id":  "139740917",
-        "name":  "It\u0027s Not Like I Like You!!",
-        "popularity":  70,
-        "preview_url":  "https://cdnt-preview.dzcdn.net/api/1/1/6/0/7/0/6079e6fa1bdf41181e2165df931735c1.mp3?hdnea=exp=1781369094~acl=/api/1/1/6/0/7/0/6079e6fa1bdf41181e2165df931735c1.mp3*~data=user_id=0,application_id=42~hmac=a4af5b6fd80ddf6430a02dcb3f575441d8e579b149ae1bd864d777eb5550061d",
-        "track_number":  0,
-        "type":  "track"
+                    ]
     },
     {
+        "id":  "976093942",
+        "name":  "光るなら",
+        "duration_ms":  252133,
+        "popularity":  72,
+        "explicit":  false,
         "album":  {
-                      "album_type":  "album",
-                      "total_tracks":  0,
-                      "id":  "151816892",
+                      "name":  "Milk",
+                      "release_date":  "2015-02-25",
                       "images":  [
-                                     {
-                                         "height":  1000,
-                                         "url":  "https://cdn-images.dzcdn.net/images/cover/576fa9358e0332d196c1aa47f38105f8/1000x1000-000000-80-0-0.jpg",
-                                         "width":  1000
-                                     },
                                      {
                                          "height":  500,
                                          "url":  "https://cdn-images.dzcdn.net/images/cover/576fa9358e0332d196c1aa47f38105f8/500x500-000000-80-0-0.jpg",
@@ -309,79 +143,21 @@
                                          "height":  250,
                                          "url":  "https://cdn-images.dzcdn.net/images/cover/576fa9358e0332d196c1aa47f38105f8/250x250-000000-80-0-0.jpg",
                                          "width":  250
-                                     },
-                                     {
-                                         "height":  56,
-                                         "url":  "https://cdn-images.dzcdn.net/images/cover/576fa9358e0332d196c1aa47f38105f8/56x56-000000-80-0-0.jpg",
-                                         "width":  56
                                      }
-                                 ],
-                      "name":  "Milk",
-                      "release_date":  "2015-02-25",
-                      "release_date_precision":  "day",
-                      "type":  "album",
-                      "genres":  [
-                                     "animé",
-                                     "j-pop"
-                                 ],
-                      "popularity":  72,
-                      "artists":  [
-                                      {
-                                          "followers":  {
-                                                            "total":  9032
-                                                        },
-                                          "genres":  [
-                                                         "animé",
-                                                         "j-pop"
-                                                     ],
-                                          "id":  "1413597",
-                                          "images":  [
-                                                         {
-                                                             "height":  1000,
-                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/e0b621263ef57b86c71cdbd03d283485/1000x1000-000000-80-0-0.jpg",
-                                                             "width":  1000
-                                                         },
-                                                         {
-                                                             "height":  500,
-                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/e0b621263ef57b86c71cdbd03d283485/500x500-000000-80-0-0.jpg",
-                                                             "width":  500
-                                                         },
-                                                         {
-                                                             "height":  250,
-                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/e0b621263ef57b86c71cdbd03d283485/250x250-000000-80-0-0.jpg",
-                                                             "width":  250
-                                                         },
-                                                         {
-                                                             "height":  56,
-                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/e0b621263ef57b86c71cdbd03d283485/56x56-000000-80-0-0.jpg",
-                                                             "width":  56
-                                                         }
-                                                     ],
-                                          "name":  "Goose house",
-                                          "popularity":  72,
-                                          "type":  "artist"
-                                      }
-                                  ],
-                      "tracks":  [
-
                                  ]
                   },
         "artists":  [
                         {
-                            "followers":  {
-                                              "total":  9032
-                                          },
+                            "id":  "1413597",
+                            "name":  "Goose house",
                             "genres":  [
                                            "animé",
                                            "j-pop"
                                        ],
-                            "id":  "1413597",
+                            "followers":  {
+                                              "total":  9032
+                                          },
                             "images":  [
-                                           {
-                                               "height":  1000,
-                                               "url":  "https://cdn-images.dzcdn.net/images/artist/e0b621263ef57b86c71cdbd03d283485/1000x1000-000000-80-0-0.jpg",
-                                               "width":  1000
-                                           },
                                            {
                                                "height":  500,
                                                "url":  "https://cdn-images.dzcdn.net/images/artist/e0b621263ef57b86c71cdbd03d283485/500x500-000000-80-0-0.jpg",
@@ -391,38 +167,21 @@
                                                "height":  250,
                                                "url":  "https://cdn-images.dzcdn.net/images/artist/e0b621263ef57b86c71cdbd03d283485/250x250-000000-80-0-0.jpg",
                                                "width":  250
-                                           },
-                                           {
-                                               "height":  56,
-                                               "url":  "https://cdn-images.dzcdn.net/images/artist/e0b621263ef57b86c71cdbd03d283485/56x56-000000-80-0-0.jpg",
-                                               "width":  56
                                            }
-                                       ],
-                            "name":  "Goose house",
-                            "popularity":  72,
-                            "type":  "artist"
+                                       ]
                         }
-                    ],
-        "duration_ms":  252133,
-        "explicit":  false,
-        "id":  "976093942",
-        "name":  "光るなら",
-        "popularity":  72,
-        "preview_url":  "https://cdnt-preview.dzcdn.net/api/1/1/c/3/c/0/c3c9139bd66757f51efc22fee45fa8a5.mp3?hdnea=exp=1781369095~acl=/api/1/1/c/3/c/0/c3c9139bd66757f51efc22fee45fa8a5.mp3*~data=user_id=0,application_id=42~hmac=8f57ca77110d3e8ef8ae5f59875dc7d88a24f767071eb214e84d7640dd1febc5",
-        "track_number":  0,
-        "type":  "track"
+                    ]
     },
     {
+        "id":  "3021208881",
+        "name":  "Michino Timothy Kimino Kimochi",
+        "duration_ms":  215051,
+        "popularity":  54,
+        "explicit":  false,
         "album":  {
-                      "album_type":  "album",
-                      "total_tracks":  0,
-                      "id":  "649407871",
+                      "name":  "Michino Timothy Kimino Kimochi",
+                      "release_date":  "2017-04-20",
                       "images":  [
-                                     {
-                                         "height":  1000,
-                                         "url":  "https://cdn-images.dzcdn.net/images/cover/75afba7163d5b8f2ea4958f3d07727d1/1000x1000-000000-80-0-0.jpg",
-                                         "width":  1000
-                                     },
                                      {
                                          "height":  500,
                                          "url":  "https://cdn-images.dzcdn.net/images/cover/75afba7163d5b8f2ea4958f3d07727d1/500x500-000000-80-0-0.jpg",
@@ -432,76 +191,20 @@
                                          "height":  250,
                                          "url":  "https://cdn-images.dzcdn.net/images/cover/75afba7163d5b8f2ea4958f3d07727d1/250x250-000000-80-0-0.jpg",
                                          "width":  250
-                                     },
-                                     {
-                                         "height":  56,
-                                         "url":  "https://cdn-images.dzcdn.net/images/cover/75afba7163d5b8f2ea4958f3d07727d1/56x56-000000-80-0-0.jpg",
-                                         "width":  56
                                      }
-                                 ],
-                      "name":  "Michino Timothy Kimino Kimochi",
-                      "release_date":  "2017-04-20",
-                      "release_date_precision":  "day",
-                      "type":  "album",
-                      "genres":  [
-                                     "animé"
-                                 ],
-                      "popularity":  54,
-                      "artists":  [
-                                      {
-                                          "followers":  {
-                                                            "total":  64
-                                                        },
-                                          "genres":  [
-                                                         "animé"
-                                                     ],
-                                          "id":  "157873382",
-                                          "images":  [
-                                                         {
-                                                             "height":  1000,
-                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/477baf8d623b6b76e066b8c9eae86418/1000x1000-000000-80-0-0.jpg",
-                                                             "width":  1000
-                                                         },
-                                                         {
-                                                             "height":  500,
-                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/477baf8d623b6b76e066b8c9eae86418/500x500-000000-80-0-0.jpg",
-                                                             "width":  500
-                                                         },
-                                                         {
-                                                             "height":  250,
-                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/477baf8d623b6b76e066b8c9eae86418/250x250-000000-80-0-0.jpg",
-                                                             "width":  250
-                                                         },
-                                                         {
-                                                             "height":  56,
-                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/477baf8d623b6b76e066b8c9eae86418/56x56-000000-80-0-0.jpg",
-                                                             "width":  56
-                                                         }
-                                                     ],
-                                          "name":  "Chitose Morinaga",
-                                          "popularity":  54,
-                                          "type":  "artist"
-                                      }
-                                  ],
-                      "tracks":  [
-
                                  ]
                   },
         "artists":  [
                         {
-                            "followers":  {
-                                              "total":  64
-                                          },
+                            "id":  "157873382",
+                            "name":  "Chitose Morinaga",
                             "genres":  [
                                            "animé"
                                        ],
-                            "id":  "157873382",
+                            "followers":  {
+                                              "total":  64
+                                          },
                             "images":  [
-                                           {
-                                               "height":  1000,
-                                               "url":  "https://cdn-images.dzcdn.net/images/artist/477baf8d623b6b76e066b8c9eae86418/1000x1000-000000-80-0-0.jpg",
-                                               "width":  1000
-                                           },
                                            {
                                                "height":  500,
                                                "url":  "https://cdn-images.dzcdn.net/images/artist/477baf8d623b6b76e066b8c9eae86418/500x500-000000-80-0-0.jpg",
@@ -511,38 +214,21 @@
                                                "height":  250,
                                                "url":  "https://cdn-images.dzcdn.net/images/artist/477baf8d623b6b76e066b8c9eae86418/250x250-000000-80-0-0.jpg",
                                                "width":  250
-                                           },
-                                           {
-                                               "height":  56,
-                                               "url":  "https://cdn-images.dzcdn.net/images/artist/477baf8d623b6b76e066b8c9eae86418/56x56-000000-80-0-0.jpg",
-                                               "width":  56
                                            }
-                                       ],
-                            "name":  "Chitose Morinaga",
-                            "popularity":  54,
-                            "type":  "artist"
+                                       ]
                         }
-                    ],
-        "duration_ms":  215051,
-        "explicit":  false,
-        "id":  "3021208881",
-        "name":  "Michino Timothy Kimino Kimochi",
-        "popularity":  54,
-        "preview_url":  "https://cdnt-preview.dzcdn.net/api/1/1/b/d/c/0/bdc1d664b8b12458367e861c2a11eccb.mp3?hdnea=exp=1781369095~acl=/api/1/1/b/d/c/0/bdc1d664b8b12458367e861c2a11eccb.mp3*~data=user_id=0,application_id=42~hmac=c89d0c925851a8027d35efca3dd57a28036a5dd493580730d7b95c8e06511bb8",
-        "track_number":  0,
-        "type":  "track"
+                    ]
     },
     {
+        "id":  "2716866812",
+        "name":  "Love Love Love Song",
+        "duration_ms":  172666,
+        "popularity":  51,
+        "explicit":  false,
         "album":  {
-                      "album_type":  "album",
-                      "total_tracks":  0,
-                      "id":  "563533992",
+                      "name":  "Love Love Love Song",
+                      "release_date":  "2024-04-16",
                       "images":  [
-                                     {
-                                         "height":  1000,
-                                         "url":  "https://cdn-images.dzcdn.net/images/cover/d9d17b94f21f4514b2a22d2e4888e64d/1000x1000-000000-80-0-0.jpg",
-                                         "width":  1000
-                                     },
                                      {
                                          "height":  500,
                                          "url":  "https://cdn-images.dzcdn.net/images/cover/d9d17b94f21f4514b2a22d2e4888e64d/500x500-000000-80-0-0.jpg",
@@ -552,76 +238,20 @@
                                          "height":  250,
                                          "url":  "https://cdn-images.dzcdn.net/images/cover/d9d17b94f21f4514b2a22d2e4888e64d/250x250-000000-80-0-0.jpg",
                                          "width":  250
-                                     },
-                                     {
-                                         "height":  56,
-                                         "url":  "https://cdn-images.dzcdn.net/images/cover/d9d17b94f21f4514b2a22d2e4888e64d/56x56-000000-80-0-0.jpg",
-                                         "width":  56
                                      }
-                                 ],
-                      "name":  "Love Love Love Song",
-                      "release_date":  "2024-04-16",
-                      "release_date_precision":  "day",
-                      "type":  "album",
-                      "genres":  [
-                                     "animé"
-                                 ],
-                      "popularity":  51,
-                      "artists":  [
-                                      {
-                                          "followers":  {
-                                                            "total":  76
-                                                        },
-                                          "genres":  [
-                                                         "animé"
-                                                     ],
-                                          "id":  "259179032",
-                                          "images":  [
-                                                         {
-                                                             "height":  1000,
-                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/d9d17b94f21f4514b2a22d2e4888e64d/1000x1000-000000-80-0-0.jpg",
-                                                             "width":  1000
-                                                         },
-                                                         {
-                                                             "height":  500,
-                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/d9d17b94f21f4514b2a22d2e4888e64d/500x500-000000-80-0-0.jpg",
-                                                             "width":  500
-                                                         },
-                                                         {
-                                                             "height":  250,
-                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/d9d17b94f21f4514b2a22d2e4888e64d/250x250-000000-80-0-0.jpg",
-                                                             "width":  250
-                                                         },
-                                                         {
-                                                             "height":  56,
-                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/d9d17b94f21f4514b2a22d2e4888e64d/56x56-000000-80-0-0.jpg",
-                                                             "width":  56
-                                                         }
-                                                     ],
-                                          "name":  "フェンリース(CV:釘宮理恵)",
-                                          "popularity":  51,
-                                          "type":  "artist"
-                                      }
-                                  ],
-                      "tracks":  [
-
                                  ]
                   },
         "artists":  [
                         {
-                            "followers":  {
-                                              "total":  76
-                                          },
+                            "id":  "259179032",
+                            "name":  "フェンリース(CV:釘宮理恵)",
                             "genres":  [
                                            "animé"
                                        ],
-                            "id":  "259179032",
+                            "followers":  {
+                                              "total":  76
+                                          },
                             "images":  [
-                                           {
-                                               "height":  1000,
-                                               "url":  "https://cdn-images.dzcdn.net/images/artist/d9d17b94f21f4514b2a22d2e4888e64d/1000x1000-000000-80-0-0.jpg",
-                                               "width":  1000
-                                           },
                                            {
                                                "height":  500,
                                                "url":  "https://cdn-images.dzcdn.net/images/artist/d9d17b94f21f4514b2a22d2e4888e64d/500x500-000000-80-0-0.jpg",
@@ -631,98 +261,37 @@
                                                "height":  250,
                                                "url":  "https://cdn-images.dzcdn.net/images/artist/d9d17b94f21f4514b2a22d2e4888e64d/250x250-000000-80-0-0.jpg",
                                                "width":  250
-                                           },
-                                           {
-                                               "height":  56,
-                                               "url":  "https://cdn-images.dzcdn.net/images/artist/d9d17b94f21f4514b2a22d2e4888e64d/56x56-000000-80-0-0.jpg",
-                                               "width":  56
                                            }
-                                       ],
-                            "name":  "フェンリース(CV:釘宮理恵)",
-                            "popularity":  51,
-                            "type":  "artist"
+                                       ]
                         }
-                    ],
-        "duration_ms":  172666,
-        "explicit":  false,
-        "id":  "2716866812",
-        "name":  "Love Love Love Song",
-        "popularity":  51,
-        "preview_url":  "https://cdnt-preview.dzcdn.net/api/1/1/6/7/f/0/67f3b86d480a1e8638abdd3eee279382.mp3?hdnea=exp=1781369096~acl=/api/1/1/6/7/f/0/67f3b86d480a1e8638abdd3eee279382.mp3*~data=user_id=0,application_id=42~hmac=66efe3c1cf16062504e19faf5519be1a564eda874b96993b060af0979f2ad817",
-        "track_number":  0,
-        "type":  "track"
+                    ]
     },
     {
+        "id":  "spotify:track:3ty4jnVIJ9My8ZnXFMc0Fg",
+        "name":  "愛して 愛して 愛して",
+        "duration_ms":  252000,
+        "popularity":  69,
+        "explicit":  false,
         "album":  {
-                      "album_type":  "album",
-                      "total_tracks":  0,
-                      "id":  "",
-                      "images":  {
-
-                                 },
                       "name":  "きくおミク3",
                       "release_date":  "2013-09-11",
-                      "release_date_precision":  "day",
-                      "type":  "album",
-                      "genres":  [
-                                     "vocaloid"
-                                 ],
-                      "popularity":  69,
-                      "artists":  [
-                                      {
-                                          "followers":  {
-                                                            "total":  28453
-                                                        },
-                                          "genres":  [
-                                                         "vocaloid"
-                                                     ],
-                                          "id":  "1525544",
-                                          "images":  [
-                                                         {
-                                                             "height":  1000,
-                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/74ebd27f06850d365e04d5512e4405a0/1000x1000-000000-80-0-0.jpg",
-                                                             "width":  1000
-                                                         },
-                                                         {
-                                                             "height":  500,
-                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/74ebd27f06850d365e04d5512e4405a0/500x500-000000-80-0-0.jpg",
-                                                             "width":  500
-                                                         },
-                                                         {
-                                                             "height":  250,
-                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/74ebd27f06850d365e04d5512e4405a0/250x250-000000-80-0-0.jpg",
-                                                             "width":  250
-                                                         },
-                                                         {
-                                                             "height":  56,
-                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/74ebd27f06850d365e04d5512e4405a0/56x56-000000-80-0-0.jpg",
-                                                             "width":  56
-                                                         }
-                                                     ],
-                                          "name":  "Kikuo",
-                                          "popularity":  69,
-                                          "type":  "artist"
-                                      }
-                                  ],
-                      "tracks":  [
-
-                                 ]
+                      "images":  {
+                                     "height":  null,
+                                     "url":  null,
+                                     "width":  null
+                                 }
                   },
         "artists":  [
                         {
-                            "followers":  {
-                                              "total":  28453
-                                          },
+                            "id":  "1525544",
+                            "name":  "Kikuo",
                             "genres":  [
                                            "vocaloid"
                                        ],
-                            "id":  "1525544",
+                            "followers":  {
+                                              "total":  28453
+                                          },
                             "images":  [
-                                           {
-                                               "height":  1000,
-                                               "url":  "https://cdn-images.dzcdn.net/images/artist/74ebd27f06850d365e04d5512e4405a0/1000x1000-000000-80-0-0.jpg",
-                                               "width":  1000
-                                           },
                                            {
                                                "height":  500,
                                                "url":  "https://cdn-images.dzcdn.net/images/artist/74ebd27f06850d365e04d5512e4405a0/500x500-000000-80-0-0.jpg",
@@ -732,38 +301,21 @@
                                                "height":  250,
                                                "url":  "https://cdn-images.dzcdn.net/images/artist/74ebd27f06850d365e04d5512e4405a0/250x250-000000-80-0-0.jpg",
                                                "width":  250
-                                           },
-                                           {
-                                               "height":  56,
-                                               "url":  "https://cdn-images.dzcdn.net/images/artist/74ebd27f06850d365e04d5512e4405a0/56x56-000000-80-0-0.jpg",
-                                               "width":  56
                                            }
-                                       ],
-                            "name":  "Kikuo",
-                            "popularity":  69,
-                            "type":  "artist"
+                                       ]
                         }
-                    ],
-        "duration_ms":  252000,
-        "explicit":  false,
-        "id":  "spotify:track:3ty4jnVIJ9My8ZnXFMc0Fg",
-        "name":  "愛して 愛して 愛して",
-        "popularity":  69,
-        "preview_url":  "",
-        "track_number":  0,
-        "type":  "track"
+                    ]
     },
     {
+        "id":  "614750812",
+        "name":  "Gotoubun no Kimochi",
+        "duration_ms":  222226,
+        "popularity":  63,
+        "explicit":  false,
         "album":  {
-                      "album_type":  "album",
-                      "total_tracks":  0,
-                      "id":  "83803722",
+                      "name":  "Gotoubun no Kimochi",
+                      "release_date":  "2019",
                       "images":  [
-                                     {
-                                         "height":  1000,
-                                         "url":  "https://cdn-images.dzcdn.net/images/cover/c1b649706fc6ada292c5245aea5a1ec1/1000x1000-000000-80-0-0.jpg",
-                                         "width":  1000
-                                     },
                                      {
                                          "height":  500,
                                          "url":  "https://cdn-images.dzcdn.net/images/cover/c1b649706fc6ada292c5245aea5a1ec1/500x500-000000-80-0-0.jpg",
@@ -773,76 +325,20 @@
                                          "height":  250,
                                          "url":  "https://cdn-images.dzcdn.net/images/cover/c1b649706fc6ada292c5245aea5a1ec1/250x250-000000-80-0-0.jpg",
                                          "width":  250
-                                     },
-                                     {
-                                         "height":  56,
-                                         "url":  "https://cdn-images.dzcdn.net/images/cover/c1b649706fc6ada292c5245aea5a1ec1/56x56-000000-80-0-0.jpg",
-                                         "width":  56
                                      }
-                                 ],
-                      "name":  "Gotoubun no Kimochi",
-                      "release_date":  "2019",
-                      "release_date_precision":  "year",
-                      "type":  "album",
-                      "genres":  [
-                                     "animé"
-                                 ],
-                      "popularity":  63,
-                      "artists":  [
-                                      {
-                                          "followers":  {
-                                                            "total":  3740
-                                                        },
-                                          "genres":  [
-                                                         "animé"
-                                                     ],
-                                          "id":  "57159672",
-                                          "images":  [
-                                                         {
-                                                             "height":  1000,
-                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/b8f97de2234f84d805498d334634378a/1000x1000-000000-80-0-0.jpg",
-                                                             "width":  1000
-                                                         },
-                                                         {
-                                                             "height":  500,
-                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/b8f97de2234f84d805498d334634378a/500x500-000000-80-0-0.jpg",
-                                                             "width":  500
-                                                         },
-                                                         {
-                                                             "height":  250,
-                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/b8f97de2234f84d805498d334634378a/250x250-000000-80-0-0.jpg",
-                                                             "width":  250
-                                                         },
-                                                         {
-                                                             "height":  56,
-                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/b8f97de2234f84d805498d334634378a/56x56-000000-80-0-0.jpg",
-                                                             "width":  56
-                                                         }
-                                                     ],
-                                          "name":  "中野家の五つ子",
-                                          "popularity":  63,
-                                          "type":  "artist"
-                                      }
-                                  ],
-                      "tracks":  [
-
                                  ]
                   },
         "artists":  [
                         {
-                            "followers":  {
-                                              "total":  3740
-                                          },
+                            "id":  "57159672",
+                            "name":  "中野家の五つ子",
                             "genres":  [
                                            "animé"
                                        ],
-                            "id":  "57159672",
+                            "followers":  {
+                                              "total":  3740
+                                          },
                             "images":  [
-                                           {
-                                               "height":  1000,
-                                               "url":  "https://cdn-images.dzcdn.net/images/artist/b8f97de2234f84d805498d334634378a/1000x1000-000000-80-0-0.jpg",
-                                               "width":  1000
-                                           },
                                            {
                                                "height":  500,
                                                "url":  "https://cdn-images.dzcdn.net/images/artist/b8f97de2234f84d805498d334634378a/500x500-000000-80-0-0.jpg",
@@ -852,38 +348,21 @@
                                                "height":  250,
                                                "url":  "https://cdn-images.dzcdn.net/images/artist/b8f97de2234f84d805498d334634378a/250x250-000000-80-0-0.jpg",
                                                "width":  250
-                                           },
-                                           {
-                                               "height":  56,
-                                               "url":  "https://cdn-images.dzcdn.net/images/artist/b8f97de2234f84d805498d334634378a/56x56-000000-80-0-0.jpg",
-                                               "width":  56
                                            }
-                                       ],
-                            "name":  "中野家の五つ子",
-                            "popularity":  63,
-                            "type":  "artist"
+                                       ]
                         }
-                    ],
-        "duration_ms":  222226,
-        "explicit":  false,
-        "id":  "614750812",
-        "name":  "Gotoubun no Kimochi",
-        "popularity":  63,
-        "preview_url":  "https://cdnt-preview.dzcdn.net/api/1/1/e/a/9/0/ea996665c20e5ac65a087f79f46f8ed4.mp3?hdnea=exp=1781369096~acl=/api/1/1/e/a/9/0/ea996665c20e5ac65a087f79f46f8ed4.mp3*~data=user_id=0,application_id=42~hmac=b58b121f33a4814a90b2cf23916eb0794e2a9dde48b4764f317d4aec3af0c833",
-        "track_number":  0,
-        "type":  "track"
+                    ]
     },
     {
+        "id":  "569781822",
+        "name":  "恋愛サーキュレーション",
+        "duration_ms":  255040,
+        "popularity":  68,
+        "explicit":  false,
         "album":  {
-                      "album_type":  "album",
-                      "total_tracks":  0,
-                      "id":  "75914202",
+                      "name":  "Utamonogatari Special Edition (Original Soundtrack)",
+                      "release_date":  "2018-11-02",
                       "images":  [
-                                     {
-                                         "height":  1000,
-                                         "url":  "https://cdn-images.dzcdn.net/images/cover/1dc201816ddb71224f2de38698318488/1000x1000-000000-80-0-0.jpg",
-                                         "width":  1000
-                                     },
                                      {
                                          "height":  500,
                                          "url":  "https://cdn-images.dzcdn.net/images/cover/1dc201816ddb71224f2de38698318488/500x500-000000-80-0-0.jpg",
@@ -893,79 +372,21 @@
                                          "height":  250,
                                          "url":  "https://cdn-images.dzcdn.net/images/cover/1dc201816ddb71224f2de38698318488/250x250-000000-80-0-0.jpg",
                                          "width":  250
-                                     },
-                                     {
-                                         "height":  56,
-                                         "url":  "https://cdn-images.dzcdn.net/images/cover/1dc201816ddb71224f2de38698318488/56x56-000000-80-0-0.jpg",
-                                         "width":  56
                                      }
-                                 ],
-                      "name":  "Utamonogatari Special Edition (Original Soundtrack)",
-                      "release_date":  "2018-11-02",
-                      "release_date_precision":  "day",
-                      "type":  "album",
-                      "genres":  [
-                                     "animé",
-                                     "j-pop"
-                                 ],
-                      "popularity":  68,
-                      "artists":  [
-                                      {
-                                          "followers":  {
-                                                            "total":  7413
-                                                        },
-                                          "genres":  [
-                                                         "animé",
-                                                         "j-pop"
-                                                     ],
-                                          "id":  "52714562",
-                                          "images":  [
-                                                         {
-                                                             "height":  1000,
-                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/210139a085550e80ba98d736d7b9dfd6/1000x1000-000000-80-0-0.jpg",
-                                                             "width":  1000
-                                                         },
-                                                         {
-                                                             "height":  500,
-                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/210139a085550e80ba98d736d7b9dfd6/500x500-000000-80-0-0.jpg",
-                                                             "width":  500
-                                                         },
-                                                         {
-                                                             "height":  250,
-                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/210139a085550e80ba98d736d7b9dfd6/250x250-000000-80-0-0.jpg",
-                                                             "width":  250
-                                                         },
-                                                         {
-                                                             "height":  56,
-                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/210139a085550e80ba98d736d7b9dfd6/56x56-000000-80-0-0.jpg",
-                                                             "width":  56
-                                                         }
-                                                     ],
-                                          "name":  "物語シリーズ",
-                                          "popularity":  68,
-                                          "type":  "artist"
-                                      }
-                                  ],
-                      "tracks":  [
-
                                  ]
                   },
         "artists":  [
                         {
-                            "followers":  {
-                                              "total":  7413
-                                          },
+                            "id":  "52714562",
+                            "name":  "物語シリーズ",
                             "genres":  [
                                            "animé",
                                            "j-pop"
                                        ],
-                            "id":  "52714562",
+                            "followers":  {
+                                              "total":  7413
+                                          },
                             "images":  [
-                                           {
-                                               "height":  1000,
-                                               "url":  "https://cdn-images.dzcdn.net/images/artist/210139a085550e80ba98d736d7b9dfd6/1000x1000-000000-80-0-0.jpg",
-                                               "width":  1000
-                                           },
                                            {
                                                "height":  500,
                                                "url":  "https://cdn-images.dzcdn.net/images/artist/210139a085550e80ba98d736d7b9dfd6/500x500-000000-80-0-0.jpg",
@@ -975,98 +396,37 @@
                                                "height":  250,
                                                "url":  "https://cdn-images.dzcdn.net/images/artist/210139a085550e80ba98d736d7b9dfd6/250x250-000000-80-0-0.jpg",
                                                "width":  250
-                                           },
-                                           {
-                                               "height":  56,
-                                               "url":  "https://cdn-images.dzcdn.net/images/artist/210139a085550e80ba98d736d7b9dfd6/56x56-000000-80-0-0.jpg",
-                                               "width":  56
                                            }
-                                       ],
-                            "name":  "物語シリーズ",
-                            "popularity":  68,
-                            "type":  "artist"
+                                       ]
                         }
-                    ],
-        "duration_ms":  255040,
-        "explicit":  false,
-        "id":  "569781822",
-        "name":  "恋愛サーキュレーション",
-        "popularity":  68,
-        "preview_url":  "https://cdnt-preview.dzcdn.net/api/1/1/2/7/f/0/27f9b0b214c720e860166dd055b6e54d.mp3?hdnea=exp=1781369097~acl=/api/1/1/2/7/f/0/27f9b0b214c720e860166dd055b6e54d.mp3*~data=user_id=0,application_id=42~hmac=83b3b2f54bb5f557c755752c026a822de01ff2fa46d5cb4f844da34226102bbc",
-        "track_number":  0,
-        "type":  "track"
+                    ]
     },
     {
+        "id":  "spotify:track:75DS9CHM2XEzxYrnsguHls",
+        "name":  "Gotoubun no Hanayome ~Arigatou no Hana~",
+        "duration_ms":  211026,
+        "popularity":  55,
+        "explicit":  false,
         "album":  {
-                      "album_type":  "album",
-                      "total_tracks":  0,
-                      "id":  "",
-                      "images":  {
-
-                                 },
                       "name":  "Gotoubun no Hanayome ~Arigatou no Hana~",
                       "release_date":  "2022-05-21",
-                      "release_date_precision":  "day",
-                      "type":  "album",
-                      "genres":  [
-                                     "animé"
-                                 ],
-                      "popularity":  55,
-                      "artists":  [
-                                      {
-                                          "followers":  {
-                                                            "total":  3740
-                                                        },
-                                          "genres":  [
-                                                         "animé"
-                                                     ],
-                                          "id":  "57159672",
-                                          "images":  [
-                                                         {
-                                                             "height":  1000,
-                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/b8f97de2234f84d805498d334634378a/1000x1000-000000-80-0-0.jpg",
-                                                             "width":  1000
-                                                         },
-                                                         {
-                                                             "height":  500,
-                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/b8f97de2234f84d805498d334634378a/500x500-000000-80-0-0.jpg",
-                                                             "width":  500
-                                                         },
-                                                         {
-                                                             "height":  250,
-                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/b8f97de2234f84d805498d334634378a/250x250-000000-80-0-0.jpg",
-                                                             "width":  250
-                                                         },
-                                                         {
-                                                             "height":  56,
-                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/b8f97de2234f84d805498d334634378a/56x56-000000-80-0-0.jpg",
-                                                             "width":  56
-                                                         }
-                                                     ],
-                                          "name":  "中野家の五つ子",
-                                          "popularity":  55,
-                                          "type":  "artist"
-                                      }
-                                  ],
-                      "tracks":  [
-
-                                 ]
+                      "images":  {
+                                     "height":  null,
+                                     "url":  null,
+                                     "width":  null
+                                 }
                   },
         "artists":  [
                         {
-                            "followers":  {
-                                              "total":  3740
-                                          },
+                            "id":  "57159672",
+                            "name":  "中野家の五つ子",
                             "genres":  [
                                            "animé"
                                        ],
-                            "id":  "57159672",
+                            "followers":  {
+                                              "total":  3740
+                                          },
                             "images":  [
-                                           {
-                                               "height":  1000,
-                                               "url":  "https://cdn-images.dzcdn.net/images/artist/b8f97de2234f84d805498d334634378a/1000x1000-000000-80-0-0.jpg",
-                                               "width":  1000
-                                           },
                                            {
                                                "height":  500,
                                                "url":  "https://cdn-images.dzcdn.net/images/artist/b8f97de2234f84d805498d334634378a/500x500-000000-80-0-0.jpg",
@@ -1076,38 +436,21 @@
                                                "height":  250,
                                                "url":  "https://cdn-images.dzcdn.net/images/artist/b8f97de2234f84d805498d334634378a/250x250-000000-80-0-0.jpg",
                                                "width":  250
-                                           },
-                                           {
-                                               "height":  56,
-                                               "url":  "https://cdn-images.dzcdn.net/images/artist/b8f97de2234f84d805498d334634378a/56x56-000000-80-0-0.jpg",
-                                               "width":  56
                                            }
-                                       ],
-                            "name":  "中野家の五つ子",
-                            "popularity":  55,
-                            "type":  "artist"
+                                       ]
                         }
-                    ],
-        "duration_ms":  211026,
-        "explicit":  false,
-        "id":  "spotify:track:75DS9CHM2XEzxYrnsguHls",
-        "name":  "Gotoubun no Hanayome ~Arigatou no Hana~",
-        "popularity":  55,
-        "preview_url":  "",
-        "track_number":  0,
-        "type":  "track"
+                    ]
     },
     {
+        "id":  "2943563441",
+        "name":  "Cupid - Twin Version",
+        "duration_ms":  174253,
+        "popularity":  70,
+        "explicit":  false,
         "album":  {
-                      "album_type":  "album",
-                      "total_tracks":  0,
-                      "id":  "628234701",
+                      "name":  "The Beginning: Cupid",
+                      "release_date":  "2023-02-24",
                       "images":  [
-                                     {
-                                         "height":  1000,
-                                         "url":  "https://cdn-images.dzcdn.net/images/cover/3b6d47ed87da4116f45d0859559327c1/1000x1000-000000-80-0-0.jpg",
-                                         "width":  1000
-                                     },
                                      {
                                          "height":  500,
                                          "url":  "https://cdn-images.dzcdn.net/images/cover/3b6d47ed87da4116f45d0859559327c1/500x500-000000-80-0-0.jpg",
@@ -1117,76 +460,20 @@
                                          "height":  250,
                                          "url":  "https://cdn-images.dzcdn.net/images/cover/3b6d47ed87da4116f45d0859559327c1/250x250-000000-80-0-0.jpg",
                                          "width":  250
-                                     },
-                                     {
-                                         "height":  56,
-                                         "url":  "https://cdn-images.dzcdn.net/images/cover/3b6d47ed87da4116f45d0859559327c1/56x56-000000-80-0-0.jpg",
-                                         "width":  56
                                      }
-                                 ],
-                      "name":  "The Beginning: Cupid",
-                      "release_date":  "2023-02-24",
-                      "release_date_precision":  "day",
-                      "type":  "album",
-                      "genres":  [
-                                     "k-pop"
-                                 ],
-                      "popularity":  70,
-                      "artists":  [
-                                      {
-                                          "followers":  {
-                                                            "total":  35126
-                                                        },
-                                          "genres":  [
-                                                         "k-pop"
-                                                     ],
-                                          "id":  "192285787",
-                                          "images":  [
-                                                         {
-                                                             "height":  1000,
-                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/931234642ed5db69b66e10df64a03d91/1000x1000-000000-80-0-0.jpg",
-                                                             "width":  1000
-                                                         },
-                                                         {
-                                                             "height":  500,
-                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/931234642ed5db69b66e10df64a03d91/500x500-000000-80-0-0.jpg",
-                                                             "width":  500
-                                                         },
-                                                         {
-                                                             "height":  250,
-                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/931234642ed5db69b66e10df64a03d91/250x250-000000-80-0-0.jpg",
-                                                             "width":  250
-                                                         },
-                                                         {
-                                                             "height":  56,
-                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/931234642ed5db69b66e10df64a03d91/56x56-000000-80-0-0.jpg",
-                                                             "width":  56
-                                                         }
-                                                     ],
-                                          "name":  "FIFTY FIFTY",
-                                          "popularity":  70,
-                                          "type":  "artist"
-                                      }
-                                  ],
-                      "tracks":  [
-
                                  ]
                   },
         "artists":  [
                         {
-                            "followers":  {
-                                              "total":  35126
-                                          },
+                            "id":  "192285787",
+                            "name":  "FIFTY FIFTY",
                             "genres":  [
                                            "k-pop"
                                        ],
-                            "id":  "192285787",
+                            "followers":  {
+                                              "total":  35126
+                                          },
                             "images":  [
-                                           {
-                                               "height":  1000,
-                                               "url":  "https://cdn-images.dzcdn.net/images/artist/931234642ed5db69b66e10df64a03d91/1000x1000-000000-80-0-0.jpg",
-                                               "width":  1000
-                                           },
                                            {
                                                "height":  500,
                                                "url":  "https://cdn-images.dzcdn.net/images/artist/931234642ed5db69b66e10df64a03d91/500x500-000000-80-0-0.jpg",
@@ -1196,38 +483,21 @@
                                                "height":  250,
                                                "url":  "https://cdn-images.dzcdn.net/images/artist/931234642ed5db69b66e10df64a03d91/250x250-000000-80-0-0.jpg",
                                                "width":  250
-                                           },
-                                           {
-                                               "height":  56,
-                                               "url":  "https://cdn-images.dzcdn.net/images/artist/931234642ed5db69b66e10df64a03d91/56x56-000000-80-0-0.jpg",
-                                               "width":  56
                                            }
-                                       ],
-                            "name":  "FIFTY FIFTY",
-                            "popularity":  70,
-                            "type":  "artist"
+                                       ]
                         }
-                    ],
-        "duration_ms":  174253,
-        "explicit":  false,
-        "id":  "2943563441",
-        "name":  "Cupid - Twin Version",
-        "popularity":  70,
-        "preview_url":  "https://cdnt-preview.dzcdn.net/api/1/1/6/d/0/0/6d007dd44c8becdadb36d6e4322bf1b0.mp3?hdnea=exp=1781369097~acl=/api/1/1/6/d/0/0/6d007dd44c8becdadb36d6e4322bf1b0.mp3*~data=user_id=0,application_id=42~hmac=3b950a626fbd803bbeb5ed6a8e7119bbc894a732e7b3a3fd6bf71d907757cdd4",
-        "track_number":  0,
-        "type":  "track"
+                    ]
     },
     {
+        "id":  "2969469301",
+        "name":  "Gotobun no Katachi",
+        "duration_ms":  243733,
+        "popularity":  55,
+        "explicit":  false,
         "album":  {
-                      "album_type":  "album",
-                      "total_tracks":  0,
-                      "id":  "635779961",
+                      "name":  "Gotobun no Katachi / Hatsukoi",
+                      "release_date":  "2021",
                       "images":  [
-                                     {
-                                         "height":  1000,
-                                         "url":  "https://cdn-images.dzcdn.net/images/cover/81a118e0c3e8d78c17414041b8c10846/1000x1000-000000-80-0-0.jpg",
-                                         "width":  1000
-                                     },
                                      {
                                          "height":  500,
                                          "url":  "https://cdn-images.dzcdn.net/images/cover/81a118e0c3e8d78c17414041b8c10846/500x500-000000-80-0-0.jpg",
@@ -1237,76 +507,20 @@
                                          "height":  250,
                                          "url":  "https://cdn-images.dzcdn.net/images/cover/81a118e0c3e8d78c17414041b8c10846/250x250-000000-80-0-0.jpg",
                                          "width":  250
-                                     },
-                                     {
-                                         "height":  56,
-                                         "url":  "https://cdn-images.dzcdn.net/images/cover/81a118e0c3e8d78c17414041b8c10846/56x56-000000-80-0-0.jpg",
-                                         "width":  56
                                      }
-                                 ],
-                      "name":  "Gotobun no Katachi / Hatsukoi",
-                      "release_date":  "2021",
-                      "release_date_precision":  "year",
-                      "type":  "album",
-                      "genres":  [
-                                     "animé"
-                                 ],
-                      "popularity":  55,
-                      "artists":  [
-                                      {
-                                          "followers":  {
-                                                            "total":  3740
-                                                        },
-                                          "genres":  [
-                                                         "animé"
-                                                     ],
-                                          "id":  "57159672",
-                                          "images":  [
-                                                         {
-                                                             "height":  1000,
-                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/b8f97de2234f84d805498d334634378a/1000x1000-000000-80-0-0.jpg",
-                                                             "width":  1000
-                                                         },
-                                                         {
-                                                             "height":  500,
-                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/b8f97de2234f84d805498d334634378a/500x500-000000-80-0-0.jpg",
-                                                             "width":  500
-                                                         },
-                                                         {
-                                                             "height":  250,
-                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/b8f97de2234f84d805498d334634378a/250x250-000000-80-0-0.jpg",
-                                                             "width":  250
-                                                         },
-                                                         {
-                                                             "height":  56,
-                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/b8f97de2234f84d805498d334634378a/56x56-000000-80-0-0.jpg",
-                                                             "width":  56
-                                                         }
-                                                     ],
-                                          "name":  "中野家の五つ子",
-                                          "popularity":  55,
-                                          "type":  "artist"
-                                      }
-                                  ],
-                      "tracks":  [
-
                                  ]
                   },
         "artists":  [
                         {
-                            "followers":  {
-                                              "total":  3740
-                                          },
+                            "id":  "57159672",
+                            "name":  "中野家の五つ子",
                             "genres":  [
                                            "animé"
                                        ],
-                            "id":  "57159672",
+                            "followers":  {
+                                              "total":  3740
+                                          },
                             "images":  [
-                                           {
-                                               "height":  1000,
-                                               "url":  "https://cdn-images.dzcdn.net/images/artist/b8f97de2234f84d805498d334634378a/1000x1000-000000-80-0-0.jpg",
-                                               "width":  1000
-                                           },
                                            {
                                                "height":  500,
                                                "url":  "https://cdn-images.dzcdn.net/images/artist/b8f97de2234f84d805498d334634378a/500x500-000000-80-0-0.jpg",
@@ -1316,38 +530,21 @@
                                                "height":  250,
                                                "url":  "https://cdn-images.dzcdn.net/images/artist/b8f97de2234f84d805498d334634378a/250x250-000000-80-0-0.jpg",
                                                "width":  250
-                                           },
-                                           {
-                                               "height":  56,
-                                               "url":  "https://cdn-images.dzcdn.net/images/artist/b8f97de2234f84d805498d334634378a/56x56-000000-80-0-0.jpg",
-                                               "width":  56
                                            }
-                                       ],
-                            "name":  "中野家の五つ子",
-                            "popularity":  55,
-                            "type":  "artist"
+                                       ]
                         }
-                    ],
-        "duration_ms":  243733,
-        "explicit":  false,
-        "id":  "2969469301",
-        "name":  "Gotobun no Katachi",
-        "popularity":  55,
-        "preview_url":  "https://cdnt-preview.dzcdn.net/api/1/1/2/c/9/0/2c949b936f8bf7a0f9f05744488845e3.mp3?hdnea=exp=1781369098~acl=/api/1/1/2/c/9/0/2c949b936f8bf7a0f9f05744488845e3.mp3*~data=user_id=0,application_id=42~hmac=505c62a86db1a7720f63c528366526234f373d4cb5b638113cfd494b57992655",
-        "track_number":  0,
-        "type":  "track"
+                    ]
     },
     {
+        "id":  "121134224",
+        "name":  "熱情のスペクトラム",
+        "duration_ms":  223613,
+        "popularity":  68,
+        "explicit":  false,
         "album":  {
-                      "album_type":  "album",
-                      "total_tracks":  0,
-                      "id":  "12653446",
+                      "name":  "Chou Ikimonobakari Tennen Kinen Members Best Selection",
+                      "release_date":  "2006",
                       "images":  [
-                                     {
-                                         "height":  1000,
-                                         "url":  "https://cdn-images.dzcdn.net/images/cover/4e21e5785cc9099ee2b464dab6ed273c/1000x1000-000000-80-0-0.jpg",
-                                         "width":  1000
-                                     },
                                      {
                                          "height":  500,
                                          "url":  "https://cdn-images.dzcdn.net/images/cover/4e21e5785cc9099ee2b464dab6ed273c/500x500-000000-80-0-0.jpg",
@@ -1357,82 +554,22 @@
                                          "height":  250,
                                          "url":  "https://cdn-images.dzcdn.net/images/cover/4e21e5785cc9099ee2b464dab6ed273c/250x250-000000-80-0-0.jpg",
                                          "width":  250
-                                     },
-                                     {
-                                         "height":  56,
-                                         "url":  "https://cdn-images.dzcdn.net/images/cover/4e21e5785cc9099ee2b464dab6ed273c/56x56-000000-80-0-0.jpg",
-                                         "width":  56
                                      }
-                                 ],
-                      "name":  "Chou Ikimonobakari Tennen Kinen Members Best Selection",
-                      "release_date":  "2006",
-                      "release_date_precision":  "year",
-                      "type":  "album",
-                      "genres":  [
-                                     "animé",
-                                     "j-pop",
-                                     "j-rock"
-                                 ],
-                      "popularity":  68,
-                      "artists":  [
-                                      {
-                                          "followers":  {
-                                                            "total":  38963
-                                                        },
-                                          "genres":  [
-                                                         "animé",
-                                                         "j-pop",
-                                                         "j-rock"
-                                                     ],
-                                          "id":  "5960768",
-                                          "images":  [
-                                                         {
-                                                             "height":  1000,
-                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/5ee97f6f52f9043debc578e4f33c49c5/1000x1000-000000-80-0-0.jpg",
-                                                             "width":  1000
-                                                         },
-                                                         {
-                                                             "height":  500,
-                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/5ee97f6f52f9043debc578e4f33c49c5/500x500-000000-80-0-0.jpg",
-                                                             "width":  500
-                                                         },
-                                                         {
-                                                             "height":  250,
-                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/5ee97f6f52f9043debc578e4f33c49c5/250x250-000000-80-0-0.jpg",
-                                                             "width":  250
-                                                         },
-                                                         {
-                                                             "height":  56,
-                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/5ee97f6f52f9043debc578e4f33c49c5/56x56-000000-80-0-0.jpg",
-                                                             "width":  56
-                                                         }
-                                                     ],
-                                          "name":  "Ikimonogakari",
-                                          "popularity":  68,
-                                          "type":  "artist"
-                                      }
-                                  ],
-                      "tracks":  [
-
                                  ]
                   },
         "artists":  [
                         {
-                            "followers":  {
-                                              "total":  38963
-                                          },
+                            "id":  "5960768",
+                            "name":  "Ikimonogakari",
                             "genres":  [
                                            "animé",
                                            "j-pop",
                                            "j-rock"
                                        ],
-                            "id":  "5960768",
+                            "followers":  {
+                                              "total":  38963
+                                          },
                             "images":  [
-                                           {
-                                               "height":  1000,
-                                               "url":  "https://cdn-images.dzcdn.net/images/artist/5ee97f6f52f9043debc578e4f33c49c5/1000x1000-000000-80-0-0.jpg",
-                                               "width":  1000
-                                           },
                                            {
                                                "height":  500,
                                                "url":  "https://cdn-images.dzcdn.net/images/artist/5ee97f6f52f9043debc578e4f33c49c5/500x500-000000-80-0-0.jpg",
@@ -1442,38 +579,21 @@
                                                "height":  250,
                                                "url":  "https://cdn-images.dzcdn.net/images/artist/5ee97f6f52f9043debc578e4f33c49c5/250x250-000000-80-0-0.jpg",
                                                "width":  250
-                                           },
-                                           {
-                                               "height":  56,
-                                               "url":  "https://cdn-images.dzcdn.net/images/artist/5ee97f6f52f9043debc578e4f33c49c5/56x56-000000-80-0-0.jpg",
-                                               "width":  56
                                            }
-                                       ],
-                            "name":  "Ikimonogakari",
-                            "popularity":  68,
-                            "type":  "artist"
+                                       ]
                         }
-                    ],
-        "duration_ms":  223613,
-        "explicit":  false,
-        "id":  "121134224",
-        "name":  "熱情のスペクトラム",
-        "popularity":  68,
-        "preview_url":  "https://cdnt-preview.dzcdn.net/api/1/1/5/7/1/0/571282c8eb668c3ae3942a4c54e4d97f.mp3?hdnea=exp=1781369098~acl=/api/1/1/5/7/1/0/571282c8eb668c3ae3942a4c54e4d97f.mp3*~data=user_id=0,application_id=42~hmac=29a7c1593fb755714c077fedb60dfba12d4d8cf14308f69c9b178ec743356728",
-        "track_number":  0,
-        "type":  "track"
+                    ]
     },
     {
+        "id":  "3904277371",
+        "name":  "Omae Wa Mou",
+        "duration_ms":  113548,
+        "popularity":  61,
+        "explicit":  false,
         "album":  {
-                      "album_type":  "album",
-                      "total_tracks":  0,
-                      "id":  "941108631",
+                      "name":  "Omae Wa Mou",
+                      "release_date":  "2017-09-22",
                       "images":  [
-                                     {
-                                         "height":  1000,
-                                         "url":  "https://cdn-images.dzcdn.net/images/cover/711a5503f0b7b39c7396a1d947dad582/1000x1000-000000-80-0-0.jpg",
-                                         "width":  1000
-                                     },
                                      {
                                          "height":  500,
                                          "url":  "https://cdn-images.dzcdn.net/images/cover/711a5503f0b7b39c7396a1d947dad582/500x500-000000-80-0-0.jpg",
@@ -1483,76 +603,20 @@
                                          "height":  250,
                                          "url":  "https://cdn-images.dzcdn.net/images/cover/711a5503f0b7b39c7396a1d947dad582/250x250-000000-80-0-0.jpg",
                                          "width":  250
-                                     },
-                                     {
-                                         "height":  56,
-                                         "url":  "https://cdn-images.dzcdn.net/images/cover/711a5503f0b7b39c7396a1d947dad582/56x56-000000-80-0-0.jpg",
-                                         "width":  56
                                      }
-                                 ],
-                      "name":  "Omae Wa Mou",
-                      "release_date":  "2017-09-22",
-                      "release_date_precision":  "day",
-                      "type":  "album",
-                      "genres":  [
-                                     "animé"
-                                 ],
-                      "popularity":  61,
-                      "artists":  [
-                                      {
-                                          "followers":  {
-                                                            "total":  4198
-                                                        },
-                                          "genres":  [
-                                                         "animé"
-                                                     ],
-                                          "id":  "70092792",
-                                          "images":  [
-                                                         {
-                                                             "height":  1000,
-                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/c750373a217f079bed6497052d5a824a/1000x1000-000000-80-0-0.jpg",
-                                                             "width":  1000
-                                                         },
-                                                         {
-                                                             "height":  500,
-                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/c750373a217f079bed6497052d5a824a/500x500-000000-80-0-0.jpg",
-                                                             "width":  500
-                                                         },
-                                                         {
-                                                             "height":  250,
-                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/c750373a217f079bed6497052d5a824a/250x250-000000-80-0-0.jpg",
-                                                             "width":  250
-                                                         },
-                                                         {
-                                                             "height":  56,
-                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/c750373a217f079bed6497052d5a824a/56x56-000000-80-0-0.jpg",
-                                                             "width":  56
-                                                         }
-                                                     ],
-                                          "name":  "deadman 死人",
-                                          "popularity":  61,
-                                          "type":  "artist"
-                                      }
-                                  ],
-                      "tracks":  [
-
                                  ]
                   },
         "artists":  [
                         {
-                            "followers":  {
-                                              "total":  4198
-                                          },
+                            "id":  "70092792",
+                            "name":  "deadman 死人",
                             "genres":  [
                                            "animé"
                                        ],
-                            "id":  "70092792",
+                            "followers":  {
+                                              "total":  4198
+                                          },
                             "images":  [
-                                           {
-                                               "height":  1000,
-                                               "url":  "https://cdn-images.dzcdn.net/images/artist/c750373a217f079bed6497052d5a824a/1000x1000-000000-80-0-0.jpg",
-                                               "width":  1000
-                                           },
                                            {
                                                "height":  500,
                                                "url":  "https://cdn-images.dzcdn.net/images/artist/c750373a217f079bed6497052d5a824a/500x500-000000-80-0-0.jpg",
@@ -1562,38 +626,21 @@
                                                "height":  250,
                                                "url":  "https://cdn-images.dzcdn.net/images/artist/c750373a217f079bed6497052d5a824a/250x250-000000-80-0-0.jpg",
                                                "width":  250
-                                           },
-                                           {
-                                               "height":  56,
-                                               "url":  "https://cdn-images.dzcdn.net/images/artist/c750373a217f079bed6497052d5a824a/56x56-000000-80-0-0.jpg",
-                                               "width":  56
                                            }
-                                       ],
-                            "name":  "deadman 死人",
-                            "popularity":  61,
-                            "type":  "artist"
+                                       ]
                         }
-                    ],
-        "duration_ms":  113548,
-        "explicit":  false,
-        "id":  "3904277371",
-        "name":  "Omae Wa Mou",
-        "popularity":  61,
-        "preview_url":  "https://cdnt-preview.dzcdn.net/api/1/1/7/0/5/0/705b9cd7675ab7d51c72dfe465021d31.mp3?hdnea=exp=1781369099~acl=/api/1/1/7/0/5/0/705b9cd7675ab7d51c72dfe465021d31.mp3*~data=user_id=0,application_id=42~hmac=b1ddc074be6460e52f3ecb1e6c9411ad2316575a1004294736119fd8f08c9007",
-        "track_number":  0,
-        "type":  "track"
+                    ]
     },
     {
+        "id":  "824731152",
+        "name":  "夜に駆ける",
+        "duration_ms":  258840,
+        "popularity":  73,
+        "explicit":  false,
         "album":  {
-                      "album_type":  "album",
-                      "total_tracks":  0,
-                      "id":  "121611042",
+                      "name":  "THE BOOK",
+                      "release_date":  "2021-01-06",
                       "images":  [
-                                     {
-                                         "height":  1000,
-                                         "url":  "https://cdn-images.dzcdn.net/images/cover/854c187b098aa81c1c50938f6c51470a/1000x1000-000000-80-0-0.jpg",
-                                         "width":  1000
-                                     },
                                      {
                                          "height":  500,
                                          "url":  "https://cdn-images.dzcdn.net/images/cover/854c187b098aa81c1c50938f6c51470a/500x500-000000-80-0-0.jpg",
@@ -1603,79 +650,21 @@
                                          "height":  250,
                                          "url":  "https://cdn-images.dzcdn.net/images/cover/854c187b098aa81c1c50938f6c51470a/250x250-000000-80-0-0.jpg",
                                          "width":  250
-                                     },
-                                     {
-                                         "height":  56,
-                                         "url":  "https://cdn-images.dzcdn.net/images/cover/854c187b098aa81c1c50938f6c51470a/56x56-000000-80-0-0.jpg",
-                                         "width":  56
                                      }
-                                 ],
-                      "name":  "THE BOOK",
-                      "release_date":  "2021-01-06",
-                      "release_date_precision":  "day",
-                      "type":  "album",
-                      "genres":  [
-                                     "j-pop",
-                                     "animé"
-                                 ],
-                      "popularity":  73,
-                      "artists":  [
-                                      {
-                                          "followers":  {
-                                                            "total":  122216
-                                                        },
-                                          "genres":  [
-                                                         "j-pop",
-                                                         "animé"
-                                                     ],
-                                          "id":  "108153772",
-                                          "images":  [
-                                                         {
-                                                             "height":  1000,
-                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/b51f641191a77b3756e486c62957ee48/1000x1000-000000-80-0-0.jpg",
-                                                             "width":  1000
-                                                         },
-                                                         {
-                                                             "height":  500,
-                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/b51f641191a77b3756e486c62957ee48/500x500-000000-80-0-0.jpg",
-                                                             "width":  500
-                                                         },
-                                                         {
-                                                             "height":  250,
-                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/b51f641191a77b3756e486c62957ee48/250x250-000000-80-0-0.jpg",
-                                                             "width":  250
-                                                         },
-                                                         {
-                                                             "height":  56,
-                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/b51f641191a77b3756e486c62957ee48/56x56-000000-80-0-0.jpg",
-                                                             "width":  56
-                                                         }
-                                                     ],
-                                          "name":  "YOASOBI",
-                                          "popularity":  73,
-                                          "type":  "artist"
-                                      }
-                                  ],
-                      "tracks":  [
-
                                  ]
                   },
         "artists":  [
                         {
-                            "followers":  {
-                                              "total":  122216
-                                          },
+                            "id":  "108153772",
+                            "name":  "YOASOBI",
                             "genres":  [
                                            "j-pop",
                                            "animé"
                                        ],
-                            "id":  "108153772",
+                            "followers":  {
+                                              "total":  122216
+                                          },
                             "images":  [
-                                           {
-                                               "height":  1000,
-                                               "url":  "https://cdn-images.dzcdn.net/images/artist/b51f641191a77b3756e486c62957ee48/1000x1000-000000-80-0-0.jpg",
-                                               "width":  1000
-                                           },
                                            {
                                                "height":  500,
                                                "url":  "https://cdn-images.dzcdn.net/images/artist/b51f641191a77b3756e486c62957ee48/500x500-000000-80-0-0.jpg",
@@ -1685,88 +674,40 @@
                                                "height":  250,
                                                "url":  "https://cdn-images.dzcdn.net/images/artist/b51f641191a77b3756e486c62957ee48/250x250-000000-80-0-0.jpg",
                                                "width":  250
-                                           },
-                                           {
-                                               "height":  56,
-                                               "url":  "https://cdn-images.dzcdn.net/images/artist/b51f641191a77b3756e486c62957ee48/56x56-000000-80-0-0.jpg",
-                                               "width":  56
                                            }
-                                       ],
-                            "name":  "YOASOBI",
-                            "popularity":  73,
-                            "type":  "artist"
+                                       ]
                         }
-                    ],
-        "duration_ms":  258840,
-        "explicit":  false,
-        "id":  "824731152",
-        "name":  "夜に駆ける",
-        "popularity":  73,
-        "preview_url":  "https://cdnt-preview.dzcdn.net/api/1/1/5/9/5/0/595610abca3f0ada2830cd38e6151940.mp3?hdnea=exp=1781369099~acl=/api/1/1/5/9/5/0/595610abca3f0ada2830cd38e6151940.mp3*~data=user_id=0,application_id=42~hmac=850c037c5b5220d7ef3b767f95e2b96bf3d6f620e41f61983132f6f4f619263f",
-        "track_number":  0,
-        "type":  "track"
+                    ]
     },
     {
+        "id":  "spotify:track:2Zj2AqmjkgpBix8cZAu6iY",
+        "name":  "不可思議のカルテ",
+        "duration_ms":  239146,
+        "popularity":  70,
+        "explicit":  false,
         "album":  {
-                      "album_type":  "album",
-                      "total_tracks":  0,
-                      "id":  "",
-                      "images":  {
-
-                                 },
                       "name":  "【青春ブタ野郎はバニーガール先輩の夢を見ない】不可思議のカルテ",
                       "release_date":  "2018-10-03",
-                      "release_date_precision":  "day",
-                      "type":  "album",
-                      "genres":  [
-                                     "animé"
-                                 ],
-                      "popularity":  70,
-                      "artists":  [
-                                      {
-                                          "followers":  {
-                                                            "total":  0
-                                                        },
-                                          "genres":  [
-                                                         "animé"
-                                                     ],
-                                          "id":  "桜島麻衣(cv:瀬戸麻沙美);古賀朋絵(cv:東山奈央);双葉理央(cv:種﨑敦美);豊浜のどか(cv:内田真礼);梓川かえで(cv:久保ユリカ);牧之原翔子(cv:水瀬いのり)",
-                                          "images":  [
-
-                                                     ],
-                                          "name":  "桜島麻衣(CV:瀬戸麻沙美);古賀朋絵(CV:東山奈央);双葉理央(CV:種﨑敦美);豊浜のどか(CV:内田真礼);梓川かえで(CV:久保ユリカ);牧之原翔子(CV:水瀬いのり)",
-                                          "popularity":  70,
-                                          "type":  "artist"
-                                      }
-                                  ],
-                      "tracks":  [
-
-                                 ]
+                      "images":  {
+                                     "height":  null,
+                                     "url":  null,
+                                     "width":  null
+                                 }
                   },
         "artists":  [
                         {
-                            "followers":  {
-                                              "total":  0
-                                          },
+                            "id":  "桜島麻衣(cv:瀬戸麻沙美);古賀朋絵(cv:東山奈央);双葉理央(cv:種﨑敦美);豊浜のどか(cv:内田真礼);梓川かえで(cv:久保ユリカ);牧之原翔子(cv:水瀬いのり)",
+                            "name":  "桜島麻衣(CV:瀬戸麻沙美);古賀朋絵(CV:東山奈央);双葉理央(CV:種﨑敦美);豊浜のどか(CV:内田真礼);梓川かえで(CV:久保ユリカ);牧之原翔子(CV:水瀬いのり)",
                             "genres":  [
                                            "animé"
                                        ],
-                            "id":  "桜島麻衣(cv:瀬戸麻沙美);古賀朋絵(cv:東山奈央);双葉理央(cv:種﨑敦美);豊浜のどか(cv:内田真礼);梓川かえで(cv:久保ユリカ);牧之原翔子(cv:水瀬いのり)",
-                            "images":  [
+                            "followers":  {
+                                              "total":  0
+                                          },
+                            "images":  {
 
-                                       ],
-                            "name":  "桜島麻衣(CV:瀬戸麻沙美);古賀朋絵(CV:東山奈央);双葉理央(CV:種﨑敦美);豊浜のどか(CV:内田真礼);梓川かえで(CV:久保ユリカ);牧之原翔子(CV:水瀬いのり)",
-                            "popularity":  70,
-                            "type":  "artist"
+                                       }
                         }
-                    ],
-        "duration_ms":  239146,
-        "explicit":  false,
-        "id":  "spotify:track:2Zj2AqmjkgpBix8cZAu6iY",
-        "name":  "不可思議のカルテ",
-        "popularity":  70,
-        "preview_url":  "",
-        "track_number":  0,
-        "type":  "track"
+                    ]
     }
 ]

@@ -1,135 +1,14 @@
 ﻿[
     {
-        "album":  {
-                      "album_type":  "album",
-                      "total_tracks":  0,
-                      "id":  "8178950",
-                      "images":  [
-                                     {
-                                         "height":  1000,
-                                         "url":  "https://cdn-images.dzcdn.net/images/cover/c108a55ba866c0b2ea17c07aba98d4bb/1000x1000-000000-80-0-0.jpg",
-                                         "width":  1000
-                                     },
-                                     {
-                                         "height":  500,
-                                         "url":  "https://cdn-images.dzcdn.net/images/cover/c108a55ba866c0b2ea17c07aba98d4bb/500x500-000000-80-0-0.jpg",
-                                         "width":  500
-                                     },
-                                     {
-                                         "height":  250,
-                                         "url":  "https://cdn-images.dzcdn.net/images/cover/c108a55ba866c0b2ea17c07aba98d4bb/250x250-000000-80-0-0.jpg",
-                                         "width":  250
-                                     },
-                                     {
-                                         "height":  56,
-                                         "url":  "https://cdn-images.dzcdn.net/images/cover/c108a55ba866c0b2ea17c07aba98d4bb/56x56-000000-80-0-0.jpg",
-                                         "width":  56
-                                     }
-                                 ],
-                      "name":  "Hot",
-                      "release_date":  "2010",
-                      "release_date_precision":  "year",
-                      "type":  "album",
-                      "genres":  [
-                                     "europop"
-                                 ],
-                      "popularity":  75,
-                      "artists":  [
-                                      {
-                                          "followers":  {
-                                                            "total":  1877402
-                                                        },
-                                          "genres":  [
-                                                         "europop"
-                                                     ],
-                                          "id":  "288252",
-                                          "images":  [
-                                                         {
-                                                             "height":  1000,
-                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/1d11298e5b3e7629277f1bc81ca707fb/1000x1000-000000-80-0-0.jpg",
-                                                             "width":  1000
-                                                         },
-                                                         {
-                                                             "height":  500,
-                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/1d11298e5b3e7629277f1bc81ca707fb/500x500-000000-80-0-0.jpg",
-                                                             "width":  500
-                                                         },
-                                                         {
-                                                             "height":  250,
-                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/1d11298e5b3e7629277f1bc81ca707fb/250x250-000000-80-0-0.jpg",
-                                                             "width":  250
-                                                         },
-                                                         {
-                                                             "height":  56,
-                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/1d11298e5b3e7629277f1bc81ca707fb/56x56-000000-80-0-0.jpg",
-                                                             "width":  56
-                                                         }
-                                                     ],
-                                          "name":  "INNA",
-                                          "popularity":  75,
-                                          "type":  "artist"
-                                      }
-                                  ],
-                      "tracks":  [
-
-                                 ]
-                  },
-        "artists":  [
-                        {
-                            "followers":  {
-                                              "total":  1877402
-                                          },
-                            "genres":  [
-                                           "europop"
-                                       ],
-                            "id":  "288252",
-                            "images":  [
-                                           {
-                                               "height":  1000,
-                                               "url":  "https://cdn-images.dzcdn.net/images/artist/1d11298e5b3e7629277f1bc81ca707fb/1000x1000-000000-80-0-0.jpg",
-                                               "width":  1000
-                                           },
-                                           {
-                                               "height":  500,
-                                               "url":  "https://cdn-images.dzcdn.net/images/artist/1d11298e5b3e7629277f1bc81ca707fb/500x500-000000-80-0-0.jpg",
-                                               "width":  500
-                                           },
-                                           {
-                                               "height":  250,
-                                               "url":  "https://cdn-images.dzcdn.net/images/artist/1d11298e5b3e7629277f1bc81ca707fb/250x250-000000-80-0-0.jpg",
-                                               "width":  250
-                                           },
-                                           {
-                                               "height":  56,
-                                               "url":  "https://cdn-images.dzcdn.net/images/artist/1d11298e5b3e7629277f1bc81ca707fb/56x56-000000-80-0-0.jpg",
-                                               "width":  56
-                                           }
-                                       ],
-                            "name":  "INNA",
-                            "popularity":  75,
-                            "type":  "artist"
-                        }
-                    ],
-        "duration_ms":  207330,
-        "explicit":  false,
         "id":  "81661460",
         "name":  "Amazing",
+        "duration_ms":  207330,
         "popularity":  75,
-        "preview_url":  "https://cdnt-preview.dzcdn.net/api/1/1/c/c/8/0/cc8500ac8a04a2b8c7097d0b245eb88f.mp3?hdnea=exp=1781369458~acl=/api/1/1/c/c/8/0/cc8500ac8a04a2b8c7097d0b245eb88f.mp3*~data=user_id=0,application_id=42~hmac=08681d7b1603e55493e269978c1fa0292c4487c308c025d5df1d9b9fb9d5bee1",
-        "track_number":  0,
-        "type":  "track"
-    },
-    {
+        "explicit":  false,
         "album":  {
-                      "album_type":  "album",
-                      "total_tracks":  0,
-                      "id":  "8178950",
+                      "name":  "Hot",
+                      "release_date":  "2010",
                       "images":  [
-                                     {
-                                         "height":  1000,
-                                         "url":  "https://cdn-images.dzcdn.net/images/cover/c108a55ba866c0b2ea17c07aba98d4bb/1000x1000-000000-80-0-0.jpg",
-                                         "width":  1000
-                                     },
                                      {
                                          "height":  500,
                                          "url":  "https://cdn-images.dzcdn.net/images/cover/c108a55ba866c0b2ea17c07aba98d4bb/500x500-000000-80-0-0.jpg",
@@ -139,76 +18,20 @@
                                          "height":  250,
                                          "url":  "https://cdn-images.dzcdn.net/images/cover/c108a55ba866c0b2ea17c07aba98d4bb/250x250-000000-80-0-0.jpg",
                                          "width":  250
-                                     },
-                                     {
-                                         "height":  56,
-                                         "url":  "https://cdn-images.dzcdn.net/images/cover/c108a55ba866c0b2ea17c07aba98d4bb/56x56-000000-80-0-0.jpg",
-                                         "width":  56
                                      }
-                                 ],
-                      "name":  "Hot",
-                      "release_date":  "2010",
-                      "release_date_precision":  "year",
-                      "type":  "album",
-                      "genres":  [
-                                     "europop"
-                                 ],
-                      "popularity":  76,
-                      "artists":  [
-                                      {
-                                          "followers":  {
-                                                            "total":  1877402
-                                                        },
-                                          "genres":  [
-                                                         "europop"
-                                                     ],
-                                          "id":  "288252",
-                                          "images":  [
-                                                         {
-                                                             "height":  1000,
-                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/1d11298e5b3e7629277f1bc81ca707fb/1000x1000-000000-80-0-0.jpg",
-                                                             "width":  1000
-                                                         },
-                                                         {
-                                                             "height":  500,
-                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/1d11298e5b3e7629277f1bc81ca707fb/500x500-000000-80-0-0.jpg",
-                                                             "width":  500
-                                                         },
-                                                         {
-                                                             "height":  250,
-                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/1d11298e5b3e7629277f1bc81ca707fb/250x250-000000-80-0-0.jpg",
-                                                             "width":  250
-                                                         },
-                                                         {
-                                                             "height":  56,
-                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/1d11298e5b3e7629277f1bc81ca707fb/56x56-000000-80-0-0.jpg",
-                                                             "width":  56
-                                                         }
-                                                     ],
-                                          "name":  "INNA",
-                                          "popularity":  76,
-                                          "type":  "artist"
-                                      }
-                                  ],
-                      "tracks":  [
-
                                  ]
                   },
         "artists":  [
                         {
-                            "followers":  {
-                                              "total":  1877402
-                                          },
+                            "id":  "288252",
+                            "name":  "INNA",
                             "genres":  [
                                            "europop"
                                        ],
-                            "id":  "288252",
+                            "followers":  {
+                                              "total":  1877402
+                                          },
                             "images":  [
-                                           {
-                                               "height":  1000,
-                                               "url":  "https://cdn-images.dzcdn.net/images/artist/1d11298e5b3e7629277f1bc81ca707fb/1000x1000-000000-80-0-0.jpg",
-                                               "width":  1000
-                                           },
                                            {
                                                "height":  500,
                                                "url":  "https://cdn-images.dzcdn.net/images/artist/1d11298e5b3e7629277f1bc81ca707fb/500x500-000000-80-0-0.jpg",
@@ -218,38 +41,68 @@
                                                "height":  250,
                                                "url":  "https://cdn-images.dzcdn.net/images/artist/1d11298e5b3e7629277f1bc81ca707fb/250x250-000000-80-0-0.jpg",
                                                "width":  250
-                                           },
-                                           {
-                                               "height":  56,
-                                               "url":  "https://cdn-images.dzcdn.net/images/artist/1d11298e5b3e7629277f1bc81ca707fb/56x56-000000-80-0-0.jpg",
-                                               "width":  56
                                            }
-                                       ],
-                            "name":  "INNA",
-                            "popularity":  76,
-                            "type":  "artist"
+                                       ]
                         }
-                    ],
-        "duration_ms":  217036,
-        "explicit":  false,
-        "id":  "81661454",
-        "name":  "Hot",
-        "popularity":  76,
-        "preview_url":  "https://cdnt-preview.dzcdn.net/api/1/1/b/0/3/0/b0346405aed181dfe17e4fbf241f6040.mp3?hdnea=exp=1781369479~acl=/api/1/1/b/0/3/0/b0346405aed181dfe17e4fbf241f6040.mp3*~data=user_id=0,application_id=42~hmac=79ed24635927ce97b8e2a9c92bfde3c69a830801af234080cce443ab4637e5ab",
-        "track_number":  0,
-        "type":  "track"
+                    ]
     },
     {
+        "id":  "81661454",
+        "name":  "Hot",
+        "duration_ms":  217036,
+        "popularity":  76,
+        "explicit":  false,
         "album":  {
-                      "album_type":  "album",
-                      "total_tracks":  0,
-                      "id":  "7324276",
+                      "name":  "Hot",
+                      "release_date":  "2010",
                       "images":  [
                                      {
-                                         "height":  1000,
-                                         "url":  "https://cdn-images.dzcdn.net/images/cover/f211fec9daca37fc6fc91ffdc738a213/1000x1000-000000-80-0-0.jpg",
-                                         "width":  1000
+                                         "height":  500,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/c108a55ba866c0b2ea17c07aba98d4bb/500x500-000000-80-0-0.jpg",
+                                         "width":  500
                                      },
+                                     {
+                                         "height":  250,
+                                         "url":  "https://cdn-images.dzcdn.net/images/cover/c108a55ba866c0b2ea17c07aba98d4bb/250x250-000000-80-0-0.jpg",
+                                         "width":  250
+                                     }
+                                 ]
+                  },
+        "artists":  [
+                        {
+                            "id":  "288252",
+                            "name":  "INNA",
+                            "genres":  [
+                                           "europop"
+                                       ],
+                            "followers":  {
+                                              "total":  1877402
+                                          },
+                            "images":  [
+                                           {
+                                               "height":  500,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/1d11298e5b3e7629277f1bc81ca707fb/500x500-000000-80-0-0.jpg",
+                                               "width":  500
+                                           },
+                                           {
+                                               "height":  250,
+                                               "url":  "https://cdn-images.dzcdn.net/images/artist/1d11298e5b3e7629277f1bc81ca707fb/250x250-000000-80-0-0.jpg",
+                                               "width":  250
+                                           }
+                                       ]
+                        }
+                    ]
+    },
+    {
+        "id":  "74196011",
+        "name":  "Caliente",
+        "duration_ms":  201230,
+        "popularity":  77,
+        "explicit":  false,
+        "album":  {
+                      "name":  "Party Never Ends, Part 1 (Deluxe Edition)",
+                      "release_date":  "2013",
+                      "images":  [
                                      {
                                          "height":  500,
                                          "url":  "https://cdn-images.dzcdn.net/images/cover/f211fec9daca37fc6fc91ffdc738a213/500x500-000000-80-0-0.jpg",
@@ -259,76 +112,20 @@
                                          "height":  250,
                                          "url":  "https://cdn-images.dzcdn.net/images/cover/f211fec9daca37fc6fc91ffdc738a213/250x250-000000-80-0-0.jpg",
                                          "width":  250
-                                     },
-                                     {
-                                         "height":  56,
-                                         "url":  "https://cdn-images.dzcdn.net/images/cover/f211fec9daca37fc6fc91ffdc738a213/56x56-000000-80-0-0.jpg",
-                                         "width":  56
                                      }
-                                 ],
-                      "name":  "Party Never Ends, Part 1 (Deluxe Edition)",
-                      "release_date":  "2013",
-                      "release_date_precision":  "year",
-                      "type":  "album",
-                      "genres":  [
-                                     "europop"
-                                 ],
-                      "popularity":  77,
-                      "artists":  [
-                                      {
-                                          "followers":  {
-                                                            "total":  1877402
-                                                        },
-                                          "genres":  [
-                                                         "europop"
-                                                     ],
-                                          "id":  "288252",
-                                          "images":  [
-                                                         {
-                                                             "height":  1000,
-                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/1d11298e5b3e7629277f1bc81ca707fb/1000x1000-000000-80-0-0.jpg",
-                                                             "width":  1000
-                                                         },
-                                                         {
-                                                             "height":  500,
-                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/1d11298e5b3e7629277f1bc81ca707fb/500x500-000000-80-0-0.jpg",
-                                                             "width":  500
-                                                         },
-                                                         {
-                                                             "height":  250,
-                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/1d11298e5b3e7629277f1bc81ca707fb/250x250-000000-80-0-0.jpg",
-                                                             "width":  250
-                                                         },
-                                                         {
-                                                             "height":  56,
-                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/1d11298e5b3e7629277f1bc81ca707fb/56x56-000000-80-0-0.jpg",
-                                                             "width":  56
-                                                         }
-                                                     ],
-                                          "name":  "INNA",
-                                          "popularity":  77,
-                                          "type":  "artist"
-                                      }
-                                  ],
-                      "tracks":  [
-
                                  ]
                   },
         "artists":  [
                         {
-                            "followers":  {
-                                              "total":  1877402
-                                          },
+                            "id":  "288252",
+                            "name":  "INNA",
                             "genres":  [
                                            "europop"
                                        ],
-                            "id":  "288252",
+                            "followers":  {
+                                              "total":  1877402
+                                          },
                             "images":  [
-                                           {
-                                               "height":  1000,
-                                               "url":  "https://cdn-images.dzcdn.net/images/artist/1d11298e5b3e7629277f1bc81ca707fb/1000x1000-000000-80-0-0.jpg",
-                                               "width":  1000
-                                           },
                                            {
                                                "height":  500,
                                                "url":  "https://cdn-images.dzcdn.net/images/artist/1d11298e5b3e7629277f1bc81ca707fb/500x500-000000-80-0-0.jpg",
@@ -338,38 +135,21 @@
                                                "height":  250,
                                                "url":  "https://cdn-images.dzcdn.net/images/artist/1d11298e5b3e7629277f1bc81ca707fb/250x250-000000-80-0-0.jpg",
                                                "width":  250
-                                           },
-                                           {
-                                               "height":  56,
-                                               "url":  "https://cdn-images.dzcdn.net/images/artist/1d11298e5b3e7629277f1bc81ca707fb/56x56-000000-80-0-0.jpg",
-                                               "width":  56
                                            }
-                                       ],
-                            "name":  "INNA",
-                            "popularity":  77,
-                            "type":  "artist"
+                                       ]
                         }
-                    ],
-        "duration_ms":  201230,
-        "explicit":  false,
-        "id":  "74196011",
-        "name":  "Caliente",
-        "popularity":  77,
-        "preview_url":  "https://cdnt-preview.dzcdn.net/api/1/1/4/6/a/0/46acfa11ae064c0bd8c9473269d86907.mp3?hdnea=exp=1781369480~acl=/api/1/1/4/6/a/0/46acfa11ae064c0bd8c9473269d86907.mp3*~data=user_id=0,application_id=42~hmac=b0f0183470786efc1d533d7af7cea8c053ecb0e13173722c0e099f0640d1248e",
-        "track_number":  0,
-        "type":  "track"
+                    ]
     },
     {
+        "id":  "89169783",
+        "name":  "Love - Club Version",
+        "duration_ms":  268240,
+        "popularity":  61,
+        "explicit":  false,
         "album":  {
-                      "album_type":  "album",
-                      "total_tracks":  0,
-                      "id":  "9018743",
+                      "name":  "Just Dance 3",
+                      "release_date":  "2010-01-01",
                       "images":  [
-                                     {
-                                         "height":  1000,
-                                         "url":  "https://cdn-images.dzcdn.net/images/cover/ba9cc427054c652d2b545f92bb56a945/1000x1000-000000-80-0-0.jpg",
-                                         "width":  1000
-                                     },
                                      {
                                          "height":  500,
                                          "url":  "https://cdn-images.dzcdn.net/images/cover/ba9cc427054c652d2b545f92bb56a945/500x500-000000-80-0-0.jpg",
@@ -379,76 +159,20 @@
                                          "height":  250,
                                          "url":  "https://cdn-images.dzcdn.net/images/cover/ba9cc427054c652d2b545f92bb56a945/250x250-000000-80-0-0.jpg",
                                          "width":  250
-                                     },
-                                     {
-                                         "height":  56,
-                                         "url":  "https://cdn-images.dzcdn.net/images/cover/ba9cc427054c652d2b545f92bb56a945/56x56-000000-80-0-0.jpg",
-                                         "width":  56
                                      }
-                                 ],
-                      "name":  "Just Dance 3",
-                      "release_date":  "2010-01-01",
-                      "release_date_precision":  "day",
-                      "type":  "album",
-                      "genres":  [
-                                     "europop"
-                                 ],
-                      "popularity":  61,
-                      "artists":  [
-                                      {
-                                          "followers":  {
-                                                            "total":  1877402
-                                                        },
-                                          "genres":  [
-                                                         "europop"
-                                                     ],
-                                          "id":  "288252",
-                                          "images":  [
-                                                         {
-                                                             "height":  1000,
-                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/1d11298e5b3e7629277f1bc81ca707fb/1000x1000-000000-80-0-0.jpg",
-                                                             "width":  1000
-                                                         },
-                                                         {
-                                                             "height":  500,
-                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/1d11298e5b3e7629277f1bc81ca707fb/500x500-000000-80-0-0.jpg",
-                                                             "width":  500
-                                                         },
-                                                         {
-                                                             "height":  250,
-                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/1d11298e5b3e7629277f1bc81ca707fb/250x250-000000-80-0-0.jpg",
-                                                             "width":  250
-                                                         },
-                                                         {
-                                                             "height":  56,
-                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/1d11298e5b3e7629277f1bc81ca707fb/56x56-000000-80-0-0.jpg",
-                                                             "width":  56
-                                                         }
-                                                     ],
-                                          "name":  "INNA",
-                                          "popularity":  61,
-                                          "type":  "artist"
-                                      }
-                                  ],
-                      "tracks":  [
-
                                  ]
                   },
         "artists":  [
                         {
-                            "followers":  {
-                                              "total":  1877402
-                                          },
+                            "id":  "288252",
+                            "name":  "INNA",
                             "genres":  [
                                            "europop"
                                        ],
-                            "id":  "288252",
+                            "followers":  {
+                                              "total":  1877402
+                                          },
                             "images":  [
-                                           {
-                                               "height":  1000,
-                                               "url":  "https://cdn-images.dzcdn.net/images/artist/1d11298e5b3e7629277f1bc81ca707fb/1000x1000-000000-80-0-0.jpg",
-                                               "width":  1000
-                                           },
                                            {
                                                "height":  500,
                                                "url":  "https://cdn-images.dzcdn.net/images/artist/1d11298e5b3e7629277f1bc81ca707fb/500x500-000000-80-0-0.jpg",
@@ -458,38 +182,21 @@
                                                "height":  250,
                                                "url":  "https://cdn-images.dzcdn.net/images/artist/1d11298e5b3e7629277f1bc81ca707fb/250x250-000000-80-0-0.jpg",
                                                "width":  250
-                                           },
-                                           {
-                                               "height":  56,
-                                               "url":  "https://cdn-images.dzcdn.net/images/artist/1d11298e5b3e7629277f1bc81ca707fb/56x56-000000-80-0-0.jpg",
-                                               "width":  56
                                            }
-                                       ],
-                            "name":  "INNA",
-                            "popularity":  61,
-                            "type":  "artist"
+                                       ]
                         }
-                    ],
-        "duration_ms":  268240,
-        "explicit":  false,
-        "id":  "89169783",
-        "name":  "Love - Club Version",
-        "popularity":  61,
-        "preview_url":  "https://cdnt-preview.dzcdn.net/api/1/1/3/d/5/0/3d5115f7f9f0af03a7b0bd963c5bb76f.mp3?hdnea=exp=1781369480~acl=/api/1/1/3/d/5/0/3d5115f7f9f0af03a7b0bd963c5bb76f.mp3*~data=user_id=0,application_id=42~hmac=e9892b978bf10622e0264242f03260011b76b0199bc81d881e48fba735d721cd",
-        "track_number":  0,
-        "type":  "track"
+                    ]
     },
     {
+        "id":  "14405161",
+        "name":  "Welcome to St. Tropez - DJ Antoine vs. Mad Mark Radio Edit",
+        "duration_ms":  195192,
+        "popularity":  65,
+        "explicit":  true,
         "album":  {
-                      "album_type":  "album",
-                      "total_tracks":  0,
-                      "id":  "1321219",
+                      "name":  "WOW",
+                      "release_date":  "2010-11-05",
                       "images":  [
-                                     {
-                                         "height":  1000,
-                                         "url":  "https://cdn-images.dzcdn.net/images/cover/376217706b38f515f4062fa4617811dc/1000x1000-000000-80-0-0.jpg",
-                                         "width":  1000
-                                     },
                                      {
                                          "height":  500,
                                          "url":  "https://cdn-images.dzcdn.net/images/cover/376217706b38f515f4062fa4617811dc/500x500-000000-80-0-0.jpg",
@@ -499,76 +206,20 @@
                                          "height":  250,
                                          "url":  "https://cdn-images.dzcdn.net/images/cover/376217706b38f515f4062fa4617811dc/250x250-000000-80-0-0.jpg",
                                          "width":  250
-                                     },
-                                     {
-                                         "height":  56,
-                                         "url":  "https://cdn-images.dzcdn.net/images/cover/376217706b38f515f4062fa4617811dc/56x56-000000-80-0-0.jpg",
-                                         "width":  56
                                      }
-                                 ],
-                      "name":  "WOW",
-                      "release_date":  "2010-11-05",
-                      "release_date_precision":  "day",
-                      "type":  "album",
-                      "genres":  [
-
-                                 ],
-                      "popularity":  65,
-                      "artists":  [
-                                      {
-                                          "followers":  {
-                                                            "total":  31
-                                                        },
-                                          "genres":  [
-
-                                                     ],
-                                          "id":  "2623231",
-                                          "images":  [
-                                                         {
-                                                             "height":  1000,
-                                                             "url":  "https://cdn-images.dzcdn.net/images/artist//1000x1000-000000-80-0-0.jpg",
-                                                             "width":  1000
-                                                         },
-                                                         {
-                                                             "height":  500,
-                                                             "url":  "https://cdn-images.dzcdn.net/images/artist//500x500-000000-80-0-0.jpg",
-                                                             "width":  500
-                                                         },
-                                                         {
-                                                             "height":  250,
-                                                             "url":  "https://cdn-images.dzcdn.net/images/artist//250x250-000000-80-0-0.jpg",
-                                                             "width":  250
-                                                         },
-                                                         {
-                                                             "height":  56,
-                                                             "url":  "https://cdn-images.dzcdn.net/images/artist//56x56-000000-80-0-0.jpg",
-                                                             "width":  56
-                                                         }
-                                                     ],
-                                          "name":  "DJ Antoine;Timati;Kalenna",
-                                          "popularity":  65,
-                                          "type":  "artist"
-                                      }
-                                  ],
-                      "tracks":  [
-
                                  ]
                   },
         "artists":  [
                         {
-                            "followers":  {
-                                              "total":  31
-                                          },
+                            "id":  "2623231",
+                            "name":  "DJ Antoine;Timati;Kalenna",
                             "genres":  [
 
                                        ],
-                            "id":  "2623231",
+                            "followers":  {
+                                              "total":  31
+                                          },
                             "images":  [
-                                           {
-                                               "height":  1000,
-                                               "url":  "https://cdn-images.dzcdn.net/images/artist//1000x1000-000000-80-0-0.jpg",
-                                               "width":  1000
-                                           },
                                            {
                                                "height":  500,
                                                "url":  "https://cdn-images.dzcdn.net/images/artist//500x500-000000-80-0-0.jpg",
@@ -578,38 +229,21 @@
                                                "height":  250,
                                                "url":  "https://cdn-images.dzcdn.net/images/artist//250x250-000000-80-0-0.jpg",
                                                "width":  250
-                                           },
-                                           {
-                                               "height":  56,
-                                               "url":  "https://cdn-images.dzcdn.net/images/artist//56x56-000000-80-0-0.jpg",
-                                               "width":  56
                                            }
-                                       ],
-                            "name":  "DJ Antoine;Timati;Kalenna",
-                            "popularity":  65,
-                            "type":  "artist"
+                                       ]
                         }
-                    ],
-        "duration_ms":  195192,
-        "explicit":  true,
-        "id":  "14405161",
-        "name":  "Welcome to St. Tropez - DJ Antoine vs. Mad Mark Radio Edit",
-        "popularity":  65,
-        "preview_url":  "https://cdnt-preview.dzcdn.net/api/1/1/c/9/9/0/c99af6aca6066f08e14789975ba5adbb.mp3?hdnea=exp=1781369480~acl=/api/1/1/c/9/9/0/c99af6aca6066f08e14789975ba5adbb.mp3*~data=user_id=0,application_id=42~hmac=80d41890fde2337e9fece4d11d8d11a72dd9e17a870f55632da26ba85029c7ee",
-        "track_number":  0,
-        "type":  "track"
+                    ]
     },
     {
+        "id":  "673165762",
+        "name":  "Sexy Bitch (feat. Akon)",
+        "duration_ms":  195853,
+        "popularity":  84,
+        "explicit":  true,
         "album":  {
-                      "album_type":  "album",
-                      "total_tracks":  0,
-                      "id":  "95314202",
+                      "name":  "One More Love",
+                      "release_date":  "2010-11-22",
                       "images":  [
-                                     {
-                                         "height":  1000,
-                                         "url":  "https://cdn-images.dzcdn.net/images/cover/052de888ea3a0a6f30d564850a07967d/1000x1000-000000-80-0-0.jpg",
-                                         "width":  1000
-                                     },
                                      {
                                          "height":  500,
                                          "url":  "https://cdn-images.dzcdn.net/images/cover/052de888ea3a0a6f30d564850a07967d/500x500-000000-80-0-0.jpg",
@@ -619,79 +253,35 @@
                                          "height":  250,
                                          "url":  "https://cdn-images.dzcdn.net/images/cover/052de888ea3a0a6f30d564850a07967d/250x250-000000-80-0-0.jpg",
                                          "width":  250
-                                     },
-                                     {
-                                         "height":  56,
-                                         "url":  "https://cdn-images.dzcdn.net/images/cover/052de888ea3a0a6f30d564850a07967d/56x56-000000-80-0-0.jpg",
-                                         "width":  56
                                      }
-                                 ],
-                      "name":  "One More Love",
-                      "release_date":  "2010-11-22",
-                      "release_date_precision":  "day",
-                      "type":  "album",
-                      "genres":  [
-                                     "edm"
-                                 ],
-                      "popularity":  84,
-                      "artists":  [
-                                      {
-                                          "followers":  {
-                                                            "total":  0
-                                                        },
-                                          "genres":  [
-                                                         "edm"
-                                                     ],
-                                          "id":  "david guetta;akon",
-                                          "images":  [
-
-                                                     ],
-                                          "name":  "David Guetta;Akon",
-                                          "popularity":  84,
-                                          "type":  "artist"
-                                      }
-                                  ],
-                      "tracks":  [
-
                                  ]
                   },
         "artists":  [
                         {
-                            "followers":  {
-                                              "total":  0
-                                          },
+                            "id":  "david guetta;akon",
+                            "name":  "David Guetta;Akon",
                             "genres":  [
                                            "edm"
                                        ],
-                            "id":  "david guetta;akon",
-                            "images":  [
+                            "followers":  {
+                                              "total":  0
+                                          },
+                            "images":  {
 
-                                       ],
-                            "name":  "David Guetta;Akon",
-                            "popularity":  84,
-                            "type":  "artist"
+                                       }
                         }
-                    ],
-        "duration_ms":  195853,
-        "explicit":  true,
-        "id":  "673165762",
-        "name":  "Sexy Bitch (feat. Akon)",
-        "popularity":  84,
-        "preview_url":  "https://cdnt-preview.dzcdn.net/api/1/1/4/0/2/0/4025ca1b09a4c56e8fa788dc6cf4fa6d.mp3?hdnea=exp=1781369481~acl=/api/1/1/4/0/2/0/4025ca1b09a4c56e8fa788dc6cf4fa6d.mp3*~data=user_id=0,application_id=42~hmac=3477b2ce1b17afa8a3d8949229e9083f6848e0c18e2bb92c34cc5f9bd69dd7f4",
-        "track_number":  0,
-        "type":  "track"
+                    ]
     },
     {
+        "id":  "12565421",
+        "name":  "Sexy And I Know It",
+        "duration_ms":  199480,
+        "popularity":  75,
+        "explicit":  false,
         "album":  {
-                      "album_type":  "album",
-                      "total_tracks":  0,
-                      "id":  "1152698",
+                      "name":  "Sorry For Party Rocking",
+                      "release_date":  "2011-01-01",
                       "images":  [
-                                     {
-                                         "height":  1000,
-                                         "url":  "https://cdn-images.dzcdn.net/images/cover/63278375978f200fb751cd63624151bb/1000x1000-000000-80-0-0.jpg",
-                                         "width":  1000
-                                     },
                                      {
                                          "height":  500,
                                          "url":  "https://cdn-images.dzcdn.net/images/cover/63278375978f200fb751cd63624151bb/500x500-000000-80-0-0.jpg",
@@ -701,76 +291,20 @@
                                          "height":  250,
                                          "url":  "https://cdn-images.dzcdn.net/images/cover/63278375978f200fb751cd63624151bb/250x250-000000-80-0-0.jpg",
                                          "width":  250
-                                     },
-                                     {
-                                         "height":  56,
-                                         "url":  "https://cdn-images.dzcdn.net/images/cover/63278375978f200fb751cd63624151bb/56x56-000000-80-0-0.jpg",
-                                         "width":  56
                                      }
-                                 ],
-                      "name":  "Sorry For Party Rocking",
-                      "release_date":  "2011-01-01",
-                      "release_date_precision":  "day",
-                      "type":  "album",
-                      "genres":  [
-
-                                 ],
-                      "popularity":  75,
-                      "artists":  [
-                                      {
-                                          "followers":  {
-                                                            "total":  4273311
-                                                        },
-                                          "genres":  [
-
-                                                     ],
-                                          "id":  "167225",
-                                          "images":  [
-                                                         {
-                                                             "height":  1000,
-                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/d639f46bfe29ec47d3f1bbf50d705a61/1000x1000-000000-80-0-0.jpg",
-                                                             "width":  1000
-                                                         },
-                                                         {
-                                                             "height":  500,
-                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/d639f46bfe29ec47d3f1bbf50d705a61/500x500-000000-80-0-0.jpg",
-                                                             "width":  500
-                                                         },
-                                                         {
-                                                             "height":  250,
-                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/d639f46bfe29ec47d3f1bbf50d705a61/250x250-000000-80-0-0.jpg",
-                                                             "width":  250
-                                                         },
-                                                         {
-                                                             "height":  56,
-                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/d639f46bfe29ec47d3f1bbf50d705a61/56x56-000000-80-0-0.jpg",
-                                                             "width":  56
-                                                         }
-                                                     ],
-                                          "name":  "LMFAO",
-                                          "popularity":  75,
-                                          "type":  "artist"
-                                      }
-                                  ],
-                      "tracks":  [
-
                                  ]
                   },
         "artists":  [
                         {
-                            "followers":  {
-                                              "total":  4273311
-                                          },
+                            "id":  "167225",
+                            "name":  "LMFAO",
                             "genres":  [
 
                                        ],
-                            "id":  "167225",
+                            "followers":  {
+                                              "total":  4273311
+                                          },
                             "images":  [
-                                           {
-                                               "height":  1000,
-                                               "url":  "https://cdn-images.dzcdn.net/images/artist/d639f46bfe29ec47d3f1bbf50d705a61/1000x1000-000000-80-0-0.jpg",
-                                               "width":  1000
-                                           },
                                            {
                                                "height":  500,
                                                "url":  "https://cdn-images.dzcdn.net/images/artist/d639f46bfe29ec47d3f1bbf50d705a61/500x500-000000-80-0-0.jpg",
@@ -780,38 +314,21 @@
                                                "height":  250,
                                                "url":  "https://cdn-images.dzcdn.net/images/artist/d639f46bfe29ec47d3f1bbf50d705a61/250x250-000000-80-0-0.jpg",
                                                "width":  250
-                                           },
-                                           {
-                                               "height":  56,
-                                               "url":  "https://cdn-images.dzcdn.net/images/artist/d639f46bfe29ec47d3f1bbf50d705a61/56x56-000000-80-0-0.jpg",
-                                               "width":  56
                                            }
-                                       ],
-                            "name":  "LMFAO",
-                            "popularity":  75,
-                            "type":  "artist"
+                                       ]
                         }
-                    ],
-        "duration_ms":  199480,
-        "explicit":  false,
-        "id":  "12565421",
-        "name":  "Sexy And I Know It",
-        "popularity":  75,
-        "preview_url":  "https://cdnt-preview.dzcdn.net/api/1/1/4/1/2/0/412b81b0c17304be65729554fdd707c1.mp3?hdnea=exp=1781369481~acl=/api/1/1/4/1/2/0/412b81b0c17304be65729554fdd707c1.mp3*~data=user_id=0,application_id=42~hmac=7b8179f6e18d33b212c3cfa0658fe62b5a858904a5b7207f61e9013eb63b899a",
-        "track_number":  0,
-        "type":  "track"
+                    ]
     },
     {
+        "id":  "13529563",
+        "name":  "Only Girl (In The World)",
+        "duration_ms":  235493,
+        "popularity":  89,
+        "explicit":  false,
         "album":  {
-                      "album_type":  "album",
-                      "total_tracks":  0,
-                      "id":  "1238967",
+                      "name":  "Loud",
+                      "release_date":  "2010-01-01",
                       "images":  [
-                                     {
-                                         "height":  1000,
-                                         "url":  "https://cdn-images.dzcdn.net/images/cover/3a12c64bb52a167944783878ffe41f02/1000x1000-000000-80-0-0.jpg",
-                                         "width":  1000
-                                     },
                                      {
                                          "height":  500,
                                          "url":  "https://cdn-images.dzcdn.net/images/cover/3a12c64bb52a167944783878ffe41f02/500x500-000000-80-0-0.jpg",
@@ -821,76 +338,20 @@
                                          "height":  250,
                                          "url":  "https://cdn-images.dzcdn.net/images/cover/3a12c64bb52a167944783878ffe41f02/250x250-000000-80-0-0.jpg",
                                          "width":  250
-                                     },
-                                     {
-                                         "height":  56,
-                                         "url":  "https://cdn-images.dzcdn.net/images/cover/3a12c64bb52a167944783878ffe41f02/56x56-000000-80-0-0.jpg",
-                                         "width":  56
                                      }
-                                 ],
-                      "name":  "Loud",
-                      "release_date":  "2010-01-01",
-                      "release_date_precision":  "day",
-                      "type":  "album",
-                      "genres":  [
-
-                                 ],
-                      "popularity":  89,
-                      "artists":  [
-                                      {
-                                          "followers":  {
-                                                            "total":  17892028
-                                                        },
-                                          "genres":  [
-
-                                                     ],
-                                          "id":  "564",
-                                          "images":  [
-                                                         {
-                                                             "height":  1000,
-                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/b78cdc205fae2641b89208e78b30e1b3/1000x1000-000000-80-0-0.jpg",
-                                                             "width":  1000
-                                                         },
-                                                         {
-                                                             "height":  500,
-                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/b78cdc205fae2641b89208e78b30e1b3/500x500-000000-80-0-0.jpg",
-                                                             "width":  500
-                                                         },
-                                                         {
-                                                             "height":  250,
-                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/b78cdc205fae2641b89208e78b30e1b3/250x250-000000-80-0-0.jpg",
-                                                             "width":  250
-                                                         },
-                                                         {
-                                                             "height":  56,
-                                                             "url":  "https://cdn-images.dzcdn.net/images/artist/b78cdc205fae2641b89208e78b30e1b3/56x56-000000-80-0-0.jpg",
-                                                             "width":  56
-                                                         }
-                                                     ],
-                                          "name":  "Rihanna",
-                                          "popularity":  89,
-                                          "type":  "artist"
-                                      }
-                                  ],
-                      "tracks":  [
-
                                  ]
                   },
         "artists":  [
                         {
-                            "followers":  {
-                                              "total":  17892028
-                                          },
+                            "id":  "564",
+                            "name":  "Rihanna",
                             "genres":  [
 
                                        ],
-                            "id":  "564",
+                            "followers":  {
+                                              "total":  17892028
+                                          },
                             "images":  [
-                                           {
-                                               "height":  1000,
-                                               "url":  "https://cdn-images.dzcdn.net/images/artist/b78cdc205fae2641b89208e78b30e1b3/1000x1000-000000-80-0-0.jpg",
-                                               "width":  1000
-                                           },
                                            {
                                                "height":  500,
                                                "url":  "https://cdn-images.dzcdn.net/images/artist/b78cdc205fae2641b89208e78b30e1b3/500x500-000000-80-0-0.jpg",
@@ -900,38 +361,21 @@
                                                "height":  250,
                                                "url":  "https://cdn-images.dzcdn.net/images/artist/b78cdc205fae2641b89208e78b30e1b3/250x250-000000-80-0-0.jpg",
                                                "width":  250
-                                           },
-                                           {
-                                               "height":  56,
-                                               "url":  "https://cdn-images.dzcdn.net/images/artist/b78cdc205fae2641b89208e78b30e1b3/56x56-000000-80-0-0.jpg",
-                                               "width":  56
                                            }
-                                       ],
-                            "name":  "Rihanna",
-                            "popularity":  89,
-                            "type":  "artist"
+                                       ]
                         }
-                    ],
-        "duration_ms":  235493,
-        "explicit":  false,
-        "id":  "13529563",
-        "name":  "Only Girl (In The World)",
-        "popularity":  89,
-        "preview_url":  "https://cdnt-preview.dzcdn.net/api/1/1/3/d/1/0/3d19eee9be5382b0e93b98a55a16c507.mp3?hdnea=exp=1781369481~acl=/api/1/1/3/d/1/0/3d19eee9be5382b0e93b98a55a16c507.mp3*~data=user_id=0,application_id=42~hmac=3a72cf1f7b1710f3fb4962ccaf2bb34bfbde4ff70276643678aa0f5ec57df912",
-        "track_number":  0,
-        "type":  "track"
+                    ]
     },
     {
+        "id":  "1575417",
+        "name":  "The Sweet Escape",
+        "duration_ms":  246466,
+        "popularity":  79,
+        "explicit":  false,
         "album":  {
-                      "album_type":  "album",
-                      "total_tracks":  0,
-                      "id":  "161519",
+                      "name":  "The Sweet Escape",
+                      "release_date":  "2006-01-01",
                       "images":  [
-                                     {
-                                         "height":  1000,
-                                         "url":  "https://cdn-images.dzcdn.net/images/cover/4c017b094ca59f87b0215fdc3dd706b9/1000x1000-000000-80-0-0.jpg",
-                                         "width":  1000
-                                     },
                                      {
                                          "height":  500,
                                          "url":  "https://cdn-images.dzcdn.net/images/cover/4c017b094ca59f87b0215fdc3dd706b9/500x500-000000-80-0-0.jpg",
@@ -941,79 +385,35 @@
                                          "height":  250,
                                          "url":  "https://cdn-images.dzcdn.net/images/cover/4c017b094ca59f87b0215fdc3dd706b9/250x250-000000-80-0-0.jpg",
                                          "width":  250
-                                     },
-                                     {
-                                         "height":  56,
-                                         "url":  "https://cdn-images.dzcdn.net/images/cover/4c017b094ca59f87b0215fdc3dd706b9/56x56-000000-80-0-0.jpg",
-                                         "width":  56
                                      }
-                                 ],
-                      "name":  "The Sweet Escape",
-                      "release_date":  "2006-01-01",
-                      "release_date_precision":  "day",
-                      "type":  "album",
-                      "genres":  [
-
-                                 ],
-                      "popularity":  79,
-                      "artists":  [
-                                      {
-                                          "followers":  {
-                                                            "total":  0
-                                                        },
-                                          "genres":  [
-
-                                                     ],
-                                          "id":  "gwen stefani;akon",
-                                          "images":  [
-
-                                                     ],
-                                          "name":  "Gwen Stefani;Akon",
-                                          "popularity":  79,
-                                          "type":  "artist"
-                                      }
-                                  ],
-                      "tracks":  [
-
                                  ]
                   },
         "artists":  [
                         {
-                            "followers":  {
-                                              "total":  0
-                                          },
+                            "id":  "gwen stefani;akon",
+                            "name":  "Gwen Stefani;Akon",
                             "genres":  [
 
                                        ],
-                            "id":  "gwen stefani;akon",
-                            "images":  [
+                            "followers":  {
+                                              "total":  0
+                                          },
+                            "images":  {
 
-                                       ],
-                            "name":  "Gwen Stefani;Akon",
-                            "popularity":  79,
-                            "type":  "artist"
+                                       }
                         }
-                    ],
-        "duration_ms":  246466,
-        "explicit":  false,
-        "id":  "1575417",
-        "name":  "The Sweet Escape",
-        "popularity":  79,
-        "preview_url":  "https://cdnt-preview.dzcdn.net/api/1/1/b/8/9/0/b89844f989378122077c9533663fd74f.mp3?hdnea=exp=1781369482~acl=/api/1/1/b/8/9/0/b89844f989378122077c9533663fd74f.mp3*~data=user_id=0,application_id=42~hmac=14daf3347d2438c98ebd63cb4b465cefffd2ccb98712fe8dce9de2403f8388e6",
-        "track_number":  0,
-        "type":  "track"
+                    ]
     },
     {
+        "id":  "88936743",
+        "name":  "Outside (feat. Ellie Goulding)",
+        "duration_ms":  227266,
+        "popularity":  90,
+        "explicit":  false,
         "album":  {
-                      "album_type":  "album",
-                      "total_tracks":  0,
-                      "id":  "8990105",
+                      "name":  "Motion",
+                      "release_date":  "2014-10-31",
                       "images":  [
-                                     {
-                                         "height":  1000,
-                                         "url":  "https://cdn-images.dzcdn.net/images/cover/a72e5db10e9168cd6f5065fbe750cdbb/1000x1000-000000-80-0-0.jpg",
-                                         "width":  1000
-                                     },
                                      {
                                          "height":  500,
                                          "url":  "https://cdn-images.dzcdn.net/images/cover/a72e5db10e9168cd6f5065fbe750cdbb/500x500-000000-80-0-0.jpg",
@@ -1023,76 +423,20 @@
                                          "height":  250,
                                          "url":  "https://cdn-images.dzcdn.net/images/cover/a72e5db10e9168cd6f5065fbe750cdbb/250x250-000000-80-0-0.jpg",
                                          "width":  250
-                                     },
-                                     {
-                                         "height":  56,
-                                         "url":  "https://cdn-images.dzcdn.net/images/cover/a72e5db10e9168cd6f5065fbe750cdbb/56x56-000000-80-0-0.jpg",
-                                         "width":  56
                                      }
-                                 ],
-                      "name":  "Motion",
-                      "release_date":  "2014-10-31",
-                      "release_date_precision":  "day",
-                      "type":  "album",
-                      "genres":  [
-                                     "edm"
-                                 ],
-                      "popularity":  90,
-                      "artists":  [
-                                      {
-                                          "followers":  {
-                                                            "total":  1583
-                                                        },
-                                          "genres":  [
-                                                         "edm"
-                                                     ],
-                                          "id":  "4660505",
-                                          "images":  [
-                                                         {
-                                                             "height":  1000,
-                                                             "url":  "https://cdn-images.dzcdn.net/images/artist//1000x1000-000000-80-0-0.jpg",
-                                                             "width":  1000
-                                                         },
-                                                         {
-                                                             "height":  500,
-                                                             "url":  "https://cdn-images.dzcdn.net/images/artist//500x500-000000-80-0-0.jpg",
-                                                             "width":  500
-                                                         },
-                                                         {
-                                                             "height":  250,
-                                                             "url":  "https://cdn-images.dzcdn.net/images/artist//250x250-000000-80-0-0.jpg",
-                                                             "width":  250
-                                                         },
-                                                         {
-                                                             "height":  56,
-                                                             "url":  "https://cdn-images.dzcdn.net/images/artist//56x56-000000-80-0-0.jpg",
-                                                             "width":  56
-                                                         }
-                                                     ],
-                                          "name":  "Calvin Harris;Ellie Goulding",
-                                          "popularity":  90,
-                                          "type":  "artist"
-                                      }
-                                  ],
-                      "tracks":  [
-
                                  ]
                   },
         "artists":  [
                         {
-                            "followers":  {
-                                              "total":  1583
-                                          },
+                            "id":  "4660505",
+                            "name":  "Calvin Harris;Ellie Goulding",
                             "genres":  [
                                            "edm"
                                        ],
-                            "id":  "4660505",
+                            "followers":  {
+                                              "total":  1583
+                                          },
                             "images":  [
-                                           {
-                                               "height":  1000,
-                                               "url":  "https://cdn-images.dzcdn.net/images/artist//1000x1000-000000-80-0-0.jpg",
-                                               "width":  1000
-                                           },
                                            {
                                                "height":  500,
                                                "url":  "https://cdn-images.dzcdn.net/images/artist//500x500-000000-80-0-0.jpg",
@@ -1102,25 +446,9 @@
                                                "height":  250,
                                                "url":  "https://cdn-images.dzcdn.net/images/artist//250x250-000000-80-0-0.jpg",
                                                "width":  250
-                                           },
-                                           {
-                                               "height":  56,
-                                               "url":  "https://cdn-images.dzcdn.net/images/artist//56x56-000000-80-0-0.jpg",
-                                               "width":  56
                                            }
-                                       ],
-                            "name":  "Calvin Harris;Ellie Goulding",
-                            "popularity":  90,
-                            "type":  "artist"
+                                       ]
                         }
-                    ],
-        "duration_ms":  227266,
-        "explicit":  false,
-        "id":  "88936743",
-        "name":  "Outside (feat. Ellie Goulding)",
-        "popularity":  90,
-        "preview_url":  "https://cdnt-preview.dzcdn.net/api/1/1/3/c/4/0/3c4daee2648f39ef899116dadd065559.mp3?hdnea=exp=1781369241~acl=/api/1/1/3/c/4/0/3c4daee2648f39ef899116dadd065559.mp3*~data=user_id=0,application_id=42~hmac=88b831c24b32c1b554fa77ca1458edd6f3ae863752f409f9197409fe6b902150",
-        "track_number":  0,
-        "type":  "track"
+                    ]
     }
 ]

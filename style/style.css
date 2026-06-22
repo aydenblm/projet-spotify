@@ -1,10 +1,4 @@
-/* Spoti'stat — le style est géré par Bootstrap.
-   Seule personnalisation : la couleur "success" de Bootstrap est passée
-   au vert Spotify, ce qui colore toutes les classes Bootstrap associées
-   (text-success, bg-success, btn-success, badge…). */
-
-:root,
-[data-bs-theme="dark"] {
-    --bs-success: #1db954;
-    --bs-success-rgb: 29, 185, 84;
-}
+/* Spoti'stat — le style est entièrement géré par Bootstrap 5.
+   Aucune règle personnalisée n'est nécessaire : couleurs, thème clair,
+   cartes, bandeaux colorés (bg-primary/success/info/warning), grilles,
+   ratios d'images et badges proviennent tous des classes Bootstrap. */
