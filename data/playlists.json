@@ -39,7 +39,7 @@
                        "https://cdn-images.dzcdn.net/images/cover/fd59d47a03516470f86b3b0ab6d45251/500x500-000000-80-0-0.jpg",
                        "https://cdn-images.dzcdn.net/images/cover/b93598ce01c7c80e131cf8c3ffe9b578/500x500-000000-80-0-0.jpg"
                    ],
-        "hidden":  false
+        "hidden":  true
     },
     {
         "slug":  "Bivouac",
@@ -109,7 +109,7 @@
                        "https://cdn-images.dzcdn.net/images/cover/30782cd7a46180072c15f08fc0cafccb/500x500-000000-80-0-0.jpg",
                        "https://cdn-images.dzcdn.net/images/cover/576fa9358e0332d196c1aa47f38105f8/500x500-000000-80-0-0.jpg"
                    ],
-        "hidden":  false
+        "hidden":  true
     },
     {
         "slug":  "Black Pill",
@@ -123,7 +123,7 @@
                        "https://cdn-images.dzcdn.net/images/cover/33a16e077e047d4e0fee044ecb597c7e/500x500-000000-80-0-0.jpg",
                        "https://cdn-images.dzcdn.net/images/cover/1d3ad2aa429eb7112e80279e19546bc5/500x500-000000-80-0-0.jpg"
                    ],
-        "hidden":  false
+        "hidden":  true
     },
     {
         "slug":  "hell-yeah",
