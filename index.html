@@ -4,17 +4,21 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="icon" href="spotify.ico" sizes="any">
-    <title>Spoti'stat</title>
+    <title>Spoti'stat - Statistiques de mes playlists</title>
     <meta name="description" content="Statistiques et visualisations de mes playlists Spotify : artistes, genres, popularité et durées.">
+    <!-- Bootstrap 5 -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="style/style.css">
 </head>
 <body>
+    <!-- Lien d'évitement pour l'accessibilité (WCAG 2.4.1) -->
     <a class="visually-hidden-focusable" href="#contenu">Aller au contenu principal</a>
-    <header class="navbar navbar-expand-md border-bottom sticky-top entete">
+
+    <!-- En-tête -->
+    <header class="navbar navbar-expand-md border-bottom sticky-top bg-dark">
         <div class="container gap-2 flex-wrap">
             <a class="navbar-brand fw-bold fs-3 me-auto" href="#/">
-                <span class="accent">Spoti'</span>stat
+                <span class="text-success">Spoti'</span>stat
             </a>
             <nav class="d-flex gap-1" aria-label="Navigation principale">
                 <a class="btn btn-sm btn-outline-light" href="#/">Playlists</a>
@@ -27,21 +31,33 @@
             </form>
         </div>
     </header>
+
     <main id="contenu" class="container py-4">
+
+        <!-- Message d'erreur éventuel -->
         <div id="alerte" class="alert alert-danger d-none" role="alert"></div>
+
+        <!-- VUE ACCUEIL : grille de playlists -->
         <section id="vue-accueil" aria-labelledby="titre-accueil">
             <h1 id="titre-accueil" class="h2 mb-4">Mes playlists</h1>
             <p id="aucune-playlist" class="text-body-secondary d-none">Aucune playlist ne correspond à la recherche.</p>
             <div id="liste-playlists" class="row g-3">
+                <!-- Cartes de playlists injectées via le template -->
             </div>
         </section>
+
+        <!-- VUE PLAYLIST : stats + graphiques + artistes + titres (réutilisée pour « Tous les titres ») -->
         <section id="vue-playlist" class="d-none">
             <a href="#/" class="btn btn-link px-0 mb-2">&larr; Toutes les playlists</a>
             <h1 id="titre-playlist" class="h2 mb-1">Playlist</h1>
             <p id="sous-titre-playlist" class="text-body-secondary mb-4"></p>
+
+            <!-- Statistiques générales -->
             <section aria-label="Statistiques générales" class="mb-5">
                 <div id="stats-cards" class="row g-3"></div>
             </section>
+
+            <!-- Graphiques -->
             <section aria-labelledby="titre-graphiques" class="mb-5">
                 <h2 id="titre-graphiques" class="mb-4">Visualisations</h2>
                 <div class="row g-4">
@@ -75,10 +91,14 @@
                     </div>
                 </div>
             </section>
+
+            <!-- Top artistes -->
             <section aria-labelledby="titre-artistes" class="mb-5">
                 <h2 id="titre-artistes" class="mb-4">Top artistes</h2>
                 <div id="liste-artistes" class="row g-3"></div>
             </section>
+
+            <!-- Liste des titres -->
             <section aria-labelledby="titre-liste">
                 <h2 id="titre-liste" class="mb-4">Les titres
                     <span id="compteur-titres" class="badge text-bg-success align-middle"></span></h2>
@@ -86,17 +106,21 @@
                 <div id="liste-titres" class="row g-3"></div>
             </section>
         </section>
+
     </main>
+
     <footer class="border-top py-3 mt-5">
         <div class="container text-body-secondary">
             <p class="mb-0">Spoti'stat — Projet R212 — Données issues de Spotify</p>
         </div>
     </footer>
+
+    <!-- Template d'une carte de playlist -->
     <template id="template-playlist">
         <div class="col-6 col-md-4 col-lg-3 col-playlist">
-            <a class="lien-playlist text-decoration-none text-reset d-block h-100" href="">
-                <div class="card h-100 carte-playlist">
-                    <div class="mosaique" aria-hidden="true"></div>
+            <a class="lien-playlist text-decoration-none text-reset d-block h-100 focus-ring rounded" href="">
+                <div class="card h-100 carte-playlist overflow-hidden">
+                    <div class="mosaique row row-cols-2 g-0" aria-hidden="true"></div>
                     <div class="card-body">
                         <h2 class="nom h6 card-title mb-1"></h2>
                         <p class="meta card-text text-body-secondary small mb-0"></p>
@@ -105,18 +129,22 @@
             </a>
         </div>
     </template>
+
+    <!-- Template d'une carte de statistique -->
     <template id="template-stat">
         <div class="col-6 col-md-3">
             <div class="card h-100 text-center"><div class="card-body">
-                <p class="stat-valeur card-title fs-2 fw-bold accent mb-1"></p>
+                <p class="stat-valeur card-title fs-2 fw-bold text-success mb-1"></p>
                 <p class="stat-label card-text text-body-secondary mb-0"></p>
             </div></div>
         </div>
     </template>
+
+    <!-- Template d'une carte d'artiste -->
     <template id="template-artiste">
         <div class="col-6 col-md-4 col-lg-2">
             <div class="card h-100 text-center carte-artiste">
-                <img class="photo card-img-top rounded-circle mx-auto mt-3" src="" alt="" width="96" height="96">
+                <img class="photo rounded-circle object-fit-cover mx-auto mt-3" src="" alt="" width="96" height="96">
                 <div class="card-body">
                     <h3 class="nom h6 card-title mb-1"></h3>
                     <p class="nb-titres card-text text-body-secondary mb-1"><small></small></p>
@@ -125,10 +153,14 @@
             </div>
         </div>
     </template>
+
+    <!-- Template d'une carte de titre -->
     <template id="template-titre">
         <div class="col-12 col-sm-6 col-lg-4 col-titre">
-            <article class="card h-100 carte-titre">
-                <img class="cover card-img-top" src="" alt="" loading="lazy">
+            <article class="card h-100 carte-titre overflow-hidden">
+                <div class="ratio ratio-1x1">
+                    <img class="cover object-fit-cover" src="" alt="" loading="lazy">
+                </div>
                 <div class="card-body d-flex flex-column">
                     <h3 class="nom h5 card-title mb-1"></h3>
                     <p class="artistes card-text mb-1 text-body-secondary"></p>
@@ -143,6 +175,8 @@
             </article>
         </div>
     </template>
+
+    <!-- Chart.js -->
     <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.3/dist/chart.umd.min.js"></script>
     <script src="script/script.js"></script>
 </body>
