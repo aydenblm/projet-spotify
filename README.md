@@ -51,23 +51,6 @@ Tout se règle dans `data/playlists.json`, sans toucher au code :
   sur les graphiques), focus visible, contrastes suffisants, `prefers-reduced-motion` respecté
   (animations du fond désactivées).
 
-## Lancer le projet
-
-Les données étant chargées en `fetch`, il faut servir le site via un petit serveur local
-(l'ouverture directe du fichier en `file://` ne fonctionne pas) :
-
-```bash
-npx serve .
-```
-
-ou, sous Windows avec Python :
-
-```powershell
-python -m http.server 8123
-```
-
-puis ouvrir http://localhost:8123. (Alternative : extension **Live Server** de VS Code.)
-
 ## Données
 
 Les données proviennent d'exports CSV [Exportify](https://exportify.net) des playlists Spotify,
