@@ -6,12 +6,20 @@
     <link rel="icon" href="spotify.ico" sizes="any">
     <title>Spoti'stat - Statistiques de mes playlists</title>
     <meta name="description" content="Statistiques et visualisations de mes playlists Spotify : artistes, genres, popularité et durées.">
-    <!-- Bootstrap 5 -->
+    <!-- Bootstrap 5 + Bootstrap Icons -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css" rel="stylesheet">
     <link rel="stylesheet" href="style/style.css">
 </head>
-<body>
-    <!-- Lien d'évitement pour l'accessibilité (WCAG 2.4.1) -->
+<body class="bg-light">
+    <!-- Fond décoratif animé -->
+    <div class="bg-blobs" aria-hidden="true">
+        <div class="blob blob1"></div>
+        <div class="blob blob2"></div>
+        <div class="blob blob3"></div>
+    </div>
+
+    <!-- Lien d'évitement (WCAG 2.4.1) -->
     <a class="visually-hidden-focusable" href="#contenu">Aller au contenu principal</a>
 
     <!-- En-tête -->
@@ -21,72 +29,67 @@
                 <span class="text-success">Spoti'</span>stat
             </a>
             <nav class="d-flex gap-1" aria-label="Navigation principale">
-                <a class="btn btn-sm btn-outline-primary" href="#/">Playlists</a>
-                <a class="btn btn-sm btn-outline-primary" href="#/all">Tous les titres</a>
+                <a class="btn btn-sm btn-outline-primary" href="#/"><i class="bi bi-grid-fill me-1" aria-hidden="true"></i>Playlists</a>
+                <a class="btn btn-sm btn-outline-primary" href="#/all"><i class="bi bi-music-note-list me-1" aria-hidden="true"></i>Tous les titres</a>
             </nav>
             <form role="search" class="d-flex flex-grow-1 flex-md-grow-0" id="form-recherche">
-                <label class="visually-hidden" for="recherche">Rechercher</label>
+                <label class="visually-hidden" for="recherche">Rechercher une playlist</label>
                 <input class="form-control" type="search" id="recherche"
-                       placeholder="Rechercher…" autocomplete="off">
+                       placeholder="Rechercher une playlist…" autocomplete="off">
             </form>
         </div>
     </header>
 
-    <main id="contenu" class="container py-4">
+    <main id="contenu" class="container pb-5">
 
         <!-- Message d'erreur éventuel -->
-        <div id="alerte" class="alert alert-danger d-none" role="alert"></div>
+        <div id="alerte" class="alert alert-danger d-none mt-4" role="alert"></div>
 
         <!-- VUE ACCUEIL : grille de playlists -->
-        <section id="vue-accueil" aria-labelledby="titre-accueil">
-            <h1 id="titre-accueil" class="h2 mb-4">Mes playlists</h1>
+        <section id="vue-accueil" class="pt-4">
+            <h1 class="h2 mb-4">Mes playlists</h1>
             <p id="aucune-playlist" class="text-body-secondary d-none">Aucune playlist ne correspond à la recherche.</p>
-            <div id="liste-playlists" class="row g-3">
-                <!-- Cartes de playlists injectées via le template -->
-            </div>
+            <div id="liste-playlists" class="row g-3"></div>
         </section>
 
-        <!-- VUE PLAYLIST : stats + graphiques + artistes + titres (réutilisée pour « Tous les titres ») -->
+        <!-- VUE PLAYLIST : héro + graphiques + tableau + albums -->
         <section id="vue-playlist" class="d-none">
-            <a href="#/" class="btn btn-link px-0 mb-2">&larr; Toutes les playlists</a>
-            <h1 id="titre-playlist" class="h2 mb-1">Playlist</h1>
-            <p id="sous-titre-playlist" class="text-body-secondary mb-4"></p>
 
-            <!-- Statistiques générales -->
-            <section aria-label="Statistiques générales" class="mb-5">
-                <div id="stats-cards" class="row g-3"></div>
-            </section>
+            <!-- En-tête héro -->
+            <div class="bg-primary text-white text-center rounded-3 p-4 p-md-5 my-4">
+                <h1 id="titre-playlist" class="display-5 fw-bold mb-2">Playlist</h1>
+                <p id="sous-titre-playlist" class="lead mb-0"></p>
+            </div>
 
             <!-- Graphiques -->
-            <section aria-labelledby="titre-graphiques" class="mb-5">
-                <h2 id="titre-graphiques" class="mb-4">Visualisations</h2>
+            <section aria-label="Graphiques statistiques" class="mb-5">
                 <div class="row g-4">
                     <div class="col-12 col-lg-6">
-                        <div class="card h-100">
-                            <div class="card-header bg-primary text-white">
-                                <h3 class="h6 mb-0">Top 10 des Artistes</h3>
+                        <div class="card shadow-sm h-100">
+                            <div class="card-header fw-semibold text-white bg-primary">
+                                <i class="bi bi-bar-chart-fill me-2" aria-hidden="true"></i>Top 10 des Artistes
                             </div>
                             <div class="card-body">
                                 <canvas id="graph-artistes" role="img"
-                                        aria-label="Nombre de titres par artiste"></canvas>
+                                        aria-label="Top 10 des artistes par nombre de morceaux"></canvas>
                             </div>
                         </div>
                     </div>
                     <div class="col-12 col-lg-6">
-                        <div class="card h-100">
-                            <div class="card-header bg-success text-white">
-                                <h3 class="h6 mb-0">Distribution des Genres</h3>
+                        <div class="card shadow-sm h-100">
+                            <div class="card-header fw-semibold text-white bg-success">
+                                <i class="bi bi-pie-chart-fill me-2" aria-hidden="true"></i>Distribution des Genres
                             </div>
-                            <div class="card-body">
-                                <canvas id="graph-genres" role="img"
+                            <div class="card-body d-flex align-items-center justify-content-center">
+                                <canvas id="graph-genres" role="img" style="max-height:320px;"
                                         aria-label="Répartition des genres musicaux"></canvas>
                             </div>
                         </div>
                     </div>
                     <div class="col-12 col-lg-6">
-                        <div class="card h-100">
-                            <div class="card-header bg-info text-white">
-                                <h3 class="h6 mb-0">Titres par décennie</h3>
+                        <div class="card shadow-sm h-100">
+                            <div class="card-header fw-semibold text-white bg-info">
+                                <i class="bi bi-calendar3 me-2" aria-hidden="true"></i>Titres par décennie
                             </div>
                             <div class="card-body">
                                 <canvas id="graph-annees" role="img"
@@ -95,9 +98,9 @@
                         </div>
                     </div>
                     <div class="col-12 col-lg-6">
-                        <div class="card h-100">
-                            <div class="card-header bg-warning text-dark">
-                                <h3 class="h6 mb-0">Titres les plus populaires</h3>
+                        <div class="card shadow-sm h-100">
+                            <div class="card-header fw-semibold text-dark bg-warning">
+                                <i class="bi bi-fire me-2" aria-hidden="true"></i>Titres les plus populaires
                             </div>
                             <div class="card-body">
                                 <canvas id="graph-popularite" role="img"
@@ -108,37 +111,119 @@
                 </div>
             </section>
 
-            <!-- Top artistes -->
-            <section aria-labelledby="titre-artistes" class="mb-5">
-                <h2 id="titre-artistes" class="mb-4">Top artistes</h2>
-                <div id="liste-artistes" class="row g-3"></div>
+            <!-- Liste des morceaux (tableau) -->
+            <section aria-label="Liste des morceaux" class="mb-5">
+                <div class="card shadow-sm">
+                    <div class="card-header d-flex flex-wrap align-items-center justify-content-between gap-2 text-white bg-info">
+                        <span class="fw-semibold fs-5">
+                            <i class="bi bi-music-note-list me-2" aria-hidden="true"></i>Liste des Morceaux
+                            <span id="compteur-titres" class="badge rounded-pill text-bg-light ms-1"></span>
+                        </span>
+                        <div class="input-group input-group-sm" style="max-width:260px;">
+                            <span class="input-group-text"><i class="bi bi-search" aria-hidden="true"></i></span>
+                            <label for="recherche-titres" class="visually-hidden">Rechercher un morceau, un artiste ou un album</label>
+                            <input id="recherche-titres" type="search" class="form-control"
+                                   placeholder="Rechercher…" autocomplete="off">
+                        </div>
+                    </div>
+                    <div class="table-responsive">
+                        <table class="table table-hover align-middle mb-0">
+                            <thead class="table-light">
+                                <tr>
+                                    <th scope="col">Titre</th>
+                                    <th scope="col">Artiste</th>
+                                    <th scope="col" class="d-none d-md-table-cell">Album</th>
+                                    <th scope="col">Action</th>
+                                </tr>
+                            </thead>
+                            <tbody id="corps-titres"></tbody>
+                        </table>
+                    </div>
+                </div>
             </section>
 
             <!-- Albums populaires -->
-            <section aria-labelledby="titre-albums" class="mb-5">
-                <h2 id="titre-albums" class="mb-4">Albums populaires</h2>
+            <section aria-labelledby="titre-albums">
+                <h2 id="titre-albums" class="fw-bold mb-4">Albums populaires</h2>
                 <div id="liste-albums" class="row g-3"></div>
-            </section>
-
-            <!-- Liste des titres -->
-            <section aria-labelledby="titre-liste">
-                <h2 id="titre-liste" class="mb-4">Les titres
-                    <span id="compteur-titres" class="badge text-bg-success align-middle"></span></h2>
-                <p id="aucun-resultat" class="text-body-secondary d-none">Aucun titre ne correspond à la recherche.</p>
-                <div id="liste-titres" class="row g-3"></div>
-                <div class="text-center mt-4">
-                    <button type="button" id="btn-voir-plus" class="btn btn-outline-primary d-none">
-                        Voir plus
-                    </button>
-                </div>
             </section>
         </section>
 
     </main>
 
-    <footer class="border-top py-3 mt-5">
-        <div class="container text-body-secondary">
-            <p class="mb-0">Spoti'stat — Projet R212 — Données issues de Spotify</p>
+    <!-- Modale : détails d'un morceau -->
+    <div class="modal fade" id="detailModal" tabindex="-1" aria-labelledby="detailModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h2 class="modal-title h5" id="detailModalLabel">Détails du morceau</h2>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Fermer"></button>
+                </div>
+                <div class="modal-body">
+                    <div class="row g-4">
+                        <div class="col-md-4 text-center">
+                            <img id="modal-cover" src="" alt="" class="img-fluid rounded-3 shadow mb-3" style="max-width:200px;">
+                            <div id="modal-album-nom" class="fw-semibold text-truncate"></div>
+                            <div id="modal-album-date" class="text-muted small mt-1"></div>
+                        </div>
+                        <div class="col-md-8">
+                            <h3 id="modal-titre" class="h5 fw-bold mb-3"></h3>
+
+                            <div id="modal-audio-zone" class="mb-3">
+                                <div class="text-muted small fw-semibold mb-1">Aperçu audio</div>
+                                <audio id="modal-audio" controls class="w-100" preload="none"
+                                       aria-label="Extrait audio du morceau"></audio>
+                                <div id="modal-audio-absent" class="text-muted small d-none">Aperçu indisponible.</div>
+                            </div>
+
+                            <div class="fw-semibold mb-2">Informations</div>
+                            <table class="table table-sm table-borderless mb-3">
+                                <tbody>
+                                    <tr class="border-bottom">
+                                        <td class="text-muted ps-0">Durée</td>
+                                        <td class="text-end pe-0"><span id="modal-duree" class="badge rounded-pill text-bg-secondary"></span></td>
+                                    </tr>
+                                    <tr class="border-bottom">
+                                        <td class="text-muted ps-0">Popularité</td>
+                                        <td class="pe-0">
+                                            <div class="d-flex align-items-center gap-2 justify-content-end">
+                                                <div class="progress flex-grow-1" style="height:8px; max-width:120px;"
+                                                     role="progressbar" id="modal-pop-bar"
+                                                     aria-valuemin="0" aria-valuemax="100">
+                                                    <div class="progress-bar bg-info" id="modal-pop-fill"></div>
+                                                </div>
+                                                <span id="modal-pop-val" class="text-muted small"></span>
+                                            </div>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="text-muted ps-0">Explicite</td>
+                                        <td id="modal-explicit" class="text-end pe-0 fw-semibold"></td>
+                                    </tr>
+                                </tbody>
+                            </table>
+
+                            <div class="fw-semibold mb-2">Artistes</div>
+                            <div id="modal-artistes" class="d-flex flex-column gap-2 mb-3"></div>
+
+                            <div class="fw-semibold mb-2">Genres</div>
+                            <div id="modal-genres" class="d-flex flex-wrap gap-1"></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <a id="modal-deezer" href="#" target="_blank" rel="noopener noreferrer" class="btn btn-primary me-auto d-none">
+                        <i class="bi bi-music-note-beamed me-1" aria-hidden="true"></i>Ouvrir dans Deezer
+                    </a>
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Fermer</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <footer class="mt-5 py-4 text-center text-white bg-black">
+        <div class="container">
+            <p class="mb-0 small">Spoti'stat — Projet R212 — Données issues de Spotify</p>
         </div>
     </footer>
 
@@ -146,7 +231,7 @@
     <template id="template-playlist">
         <div class="col-6 col-md-4 col-lg-3 col-playlist">
             <a class="lien-playlist text-decoration-none text-reset d-block h-100 focus-ring rounded" href="">
-                <div class="card h-100 carte-playlist overflow-hidden">
+                <div class="card h-100 carte-playlist shadow-sm overflow-hidden">
                     <div class="mosaique row row-cols-2 g-0" aria-hidden="true"></div>
                     <div class="card-body">
                         <h2 class="nom h6 card-title mb-1"></h2>
@@ -157,70 +242,25 @@
         </div>
     </template>
 
-    <!-- Template d'une carte de statistique -->
-    <template id="template-stat">
-        <div class="col-6 col-md-3">
-            <div class="card h-100 text-center"><div class="card-body">
-                <p class="stat-valeur card-title fs-2 fw-bold text-success mb-1"></p>
-                <p class="stat-label card-text text-body-secondary mb-0"></p>
-            </div></div>
-        </div>
-    </template>
-
-    <!-- Template d'une carte d'artiste -->
-    <template id="template-artiste">
-        <div class="col-6 col-md-4 col-lg-2">
-            <div class="card h-100 text-center carte-artiste">
-                <img class="photo rounded-circle object-fit-cover mx-auto mt-3" src="" alt="" width="96" height="96">
-                <div class="card-body">
-                    <h3 class="nom h6 card-title mb-1"></h3>
-                    <p class="nb-titres card-text text-body-secondary mb-1"><small></small></p>
-                    <p class="followers card-text text-body-secondary mb-0"><small></small></p>
-                </div>
-            </div>
-        </div>
-    </template>
-
-    <!-- Template d'une carte de titre -->
-    <template id="template-titre">
-        <div class="col-12 col-sm-6 col-lg-4 col-titre">
-            <article class="card h-100 carte-titre overflow-hidden">
-                <div class="ratio ratio-1x1">
-                    <img class="cover object-fit-cover" src="" alt="" loading="lazy">
-                </div>
-                <div class="card-body d-flex flex-column">
-                    <h3 class="nom h5 card-title mb-1"></h3>
-                    <p class="artistes card-text mb-1 text-body-secondary"></p>
-                    <p class="album card-text mb-2"><small></small></p>
-                    <div class="mb-2">
-                        <span class="duree badge text-bg-dark border me-1"></span>
-                        <span class="popularite badge text-bg-success me-1"></span>
-                        <span class="explicit badge text-bg-danger d-none">Explicite</span>
-                    </div>
-                    <audio class="apercu w-100 mt-auto" controls preload="none"></audio>
-                </div>
-            </article>
-        </div>
-    </template>
-
-    <!-- Template d'une carte d'album populaire -->
+    <!-- Template d'une carte d'album -->
     <template id="template-album">
-        <div class="col-12 col-sm-6 col-lg-4 col-album">
-            <div class="card h-100 carte-album overflow-hidden">
-                <div class="ratio ratio-16x9">
-                    <img class="cover object-fit-cover" src="" alt="" loading="lazy">
-                </div>
-                <div class="card-body">
-                    <h3 class="nom h6 card-title mb-1"></h3>
-                    <p class="artiste card-text text-body-secondary small mb-1"></p>
-                    <p class="date card-text text-body-secondary small mb-2"></p>
-                    <span class="popularite badge text-bg-success"></span>
+        <div class="col-6 col-sm-4 col-md-3 col-xl-2 col-album">
+            <div class="card album-card h-100 shadow-sm">
+                <img class="cover card-img-top object-fit-cover" src="" alt="" loading="lazy" style="aspect-ratio:1/1;">
+                <div class="card-body p-2">
+                    <div class="nom fw-semibold small text-truncate"></div>
+                    <div class="artiste text-muted small text-truncate"></div>
+                    <div class="date text-muted small mt-1"></div>
+                    <div class="mt-2">
+                        <span class="popularite badge rounded-pill text-bg-success"></span>
+                    </div>
                 </div>
             </div>
         </div>
     </template>
 
-    <!-- Chart.js -->
+    <!-- Bootstrap JS (modale) + Chart.js -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.3/dist/chart.umd.min.js"></script>
     <script src="script/script.js"></script>
 </body>

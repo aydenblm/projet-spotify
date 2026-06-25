@@ -1,4 +1,50 @@
-/* Spoti'stat — le style est entièrement géré par Bootstrap 5.
-   Aucune règle personnalisée n'est nécessaire : couleurs, thème clair,
-   cartes, bandeaux colorés (bg-primary/success/info/warning), grilles,
-   ratios d'images et badges proviennent tous des classes Bootstrap. */
+/* Spoti'stat — le style est géré par Bootstrap ; seules quelques touches
+   décoratives (fond animé, survol des cartes) sont ajoutées, comme la maquette. */
+
+body {
+    font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+
+/* Survol des cartes album */
+.album-card {
+    transition: transform 0.18s ease, box-shadow 0.18s ease;
+}
+@media (prefers-reduced-motion: no-preference) {
+    .album-card:hover {
+        transform: translateY(-4px);
+        box-shadow: 0 8px 24px rgba(0, 0, 0, 0.14) !important;
+    }
+    .lien-playlist:hover .carte-playlist,
+    .lien-playlist:focus-visible .carte-playlist {
+        transform: translateY(-4px);
+    }
+    .carte-playlist {
+        transition: transform 0.18s ease;
+    }
+}
+
+/* Fond décoratif animé (blobs flous) */
+.bg-blobs {
+    position: fixed;
+    inset: 0;
+    z-index: -1;
+    overflow: hidden;
+}
+.blob {
+    position: absolute;
+    border-radius: 50%;
+    filter: blur(100px);
+    opacity: 0.35;
+}
+.blob1 { width: 400px; height: 400px; background: #1db954; animation: move1 20s infinite alternate; }
+.blob2 { width: 350px; height: 350px; background: #ff2687; animation: move2 25s infinite alternate; }
+.blob3 { width: 300px; height: 300px; background: #008cff; animation: move3 18s infinite alternate; }
+
+@keyframes move1 { from { transform: translate(0, 0); } to { transform: translate(70vw, 50vh); } }
+@keyframes move2 { from { transform: translate(80vw, 20vh); } to { transform: translate(20vw, 70vh); } }
+@keyframes move3 { from { transform: translate(40vw, 80vh); } to { transform: translate(80vw, 10vh); } }
+
+/* Respecte la préférence de réduction d'animation */
+@media (prefers-reduced-motion: reduce) {
+    .blob { animation: none; }
+}

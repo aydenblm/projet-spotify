@@ -43,33 +43,6 @@ function compterOccurrences(tracks, extraire) {
     return [...compteur.entries()].sort((a, b) => b[1] - a[1]);
 }
 
-/* ---------- Statistiques générales ---------- */
-
-function afficherStats(tracks) {
-    const conteneur = document.getElementById("stats-cards");
-    const template = document.getElementById("template-stat");
-
-    const dureeTotale = tracks.reduce((somme, t) => somme + t.duration_ms, 0);
-    const artistes = new Set(tracks.flatMap((t) => t.artists.map((a) => a.id)));
-    const popMoyenne = Math.round(
-        tracks.reduce((somme, t) => somme + t.popularity, 0) / tracks.length
-    );
-
-    const stats = [
-        { valeur: tracks.length, label: "titres" },
-        { valeur: formaterDureeTotale(dureeTotale), label: "d'écoute" },
-        { valeur: artistes.size, label: "artistes" },
-        { valeur: `${popMoyenne}/100`, label: "popularité moyenne" },
-    ];
-
-    for (const stat of stats) {
-        const clone = template.content.cloneNode(true);
-        clone.querySelector(".stat-valeur").textContent = stat.valeur;
-        clone.querySelector(".stat-label").textContent = stat.label;
-        conteneur.appendChild(clone);
-    }
-}
-
 /* ---------- Graphiques Chart.js ---------- */
 
 function configurerChartJs() {
@@ -79,7 +52,7 @@ function configurerChartJs() {
     Chart.defaults.font.family = "system-ui, -apple-system, 'Segoe UI', sans-serif";
 }
 
-/** Barres : nombre de titres par artiste (top 10). */
+/** Barres horizontales : nombre de titres par artiste (top 10). */
 function graphArtistes(tracks) {
     const top = compterOccurrences(tracks, (t) => t.artists.map((a) => a.name)).slice(0, 10);
 
@@ -90,12 +63,13 @@ function graphArtistes(tracks) {
             datasets: [{
                 label: "Nombre de titres",
                 data: top.map(([, nb]) => nb),
-                backgroundColor: "#5b9bd5",
+                backgroundColor: "#0d6efd",
             }],
         },
         options: {
+            indexAxis: "y",
             plugins: { legend: { display: false } },
-            scales: { y: { beginAtZero: true, ticks: { stepSize: 1 } } },
+            scales: { x: { beginAtZero: true, ticks: { stepSize: 1 } } },
         },
     }));
 }
@@ -175,36 +149,6 @@ function graphPopularite(tracks) {
     }));
 }
 
-/* ---------- Top artistes ---------- */
-
-function afficherArtistes(tracks) {
-    const conteneur = document.getElementById("liste-artistes");
-    const template = document.getElementById("template-artiste");
-
-    // Artistes triés par nombre d'apparitions dans la playlist
-    const occurrences = compterOccurrences(tracks, (t) => t.artists.map((a) => a.id));
-    const artistesParId = new Map(
-        tracks.flatMap((t) => t.artists.map((a) => [a.id, a]))
-    );
-
-    for (const [id, nb] of occurrences.slice(0, 6)) {
-        const artiste = artistesParId.get(id);
-        const clone = template.content.cloneNode(true);
-
-        const photo = clone.querySelector(".photo");
-        photo.src = artiste.images?.[1]?.url ?? artiste.images?.[0]?.url ?? "";
-        photo.alt = `Photo de ${artiste.name}`;
-
-        clone.querySelector(".nom").textContent = artiste.name;
-        clone.querySelector(".nb-titres small").textContent =
-            `${nb} titre${nb > 1 ? "s" : ""}`;
-        clone.querySelector(".followers small").textContent =
-            `${formaterNombre(artiste.followers.total)} followers`;
-
-        conteneur.appendChild(clone);
-    }
-}
-
 /* ---------- Albums populaires ---------- */
 
 function afficherAlbums(tracks) {
@@ -222,90 +166,87 @@ function afficherAlbums(tracks) {
     }
     const albums = [...parAlbum.values()]
         .sort((a, b) => b.popularity - a.popularity)
-        .slice(0, 6);
+        .slice(0, 12);
 
     for (const t of albums) {
         const clone = template.content.cloneNode(true);
 
         const cover = clone.querySelector(".cover");
-        cover.src = t.album.images?.[0]?.url ?? t.album.images?.[1]?.url ?? "";
+        cover.src = t.album.images?.[1]?.url ?? t.album.images?.[0]?.url ?? "";
         cover.alt = `Pochette de l'album ${t.album.name}`;
 
         clone.querySelector(".nom").textContent = t.album.name;
+        clone.querySelector(".nom").title = t.album.name;
         clone.querySelector(".artiste").textContent = t.artists.map((a) => a.name).join(", ");
-        clone.querySelector(".date").textContent = t.album.release_date || "";
-        clone.querySelector(".popularite").textContent = `Popularité ${t.popularity}`;
+        clone.querySelector(".date").textContent =
+            t.album.release_date ? t.album.release_date.slice(0, 4) : "";
+        clone.querySelector(".popularite").textContent = `${t.popularity}/100`;
 
         conteneur.appendChild(clone);
     }
 }
 
-/* ---------- Liste des titres (paginée) ---------- */
+/* ---------- Liste des titres (tableau) ---------- */
 
-const BATCH_TITRES = 48;       // nombre de titres ajoutés par lot
-let titresCourants = [];       // tous les titres de la vue
-let titresFiltres = [];        // titres après recherche
-let titresRendus = 0;          // combien sont déjà affichés
+let titresCourants = [];     // titres de la vue courante (base de la recherche)
+let modalDetail = null;      // instance Bootstrap Modal réutilisée
 
-/** Crée la carte DOM d'un titre et branche son lecteur audio. */
-function creerCarteTitre(track) {
-    const template = document.getElementById("template-titre");
-    const clone = template.content.cloneNode(true);
-
-    const cover = clone.querySelector(".cover");
-    cover.src = track.album.images[1]?.url ?? track.album.images[0]?.url ?? "";
-    cover.alt = `Pochette de l'album ${track.album.name}`;
-
-    clone.querySelector(".nom").textContent = track.name;
-    clone.querySelector(".artistes").textContent = track.artists.map((a) => a.name).join(", ");
-    clone.querySelector(".album small").textContent =
-        `${track.album.name} (${track.album.release_date.slice(0, 4)})`;
-    clone.querySelector(".duree").textContent = formaterDuree(track.duration_ms);
-    clone.querySelector(".popularite").textContent = `Popularité ${track.popularity}`;
-
-    if (track.explicit) {
-        clone.querySelector(".explicit").classList.remove("d-none");
-    }
-
-    // id numérique = identifiant Deezer (recherche directe) ; sinon recherche titre + artiste.
-    const audio = clone.querySelector(".apercu");
-    audio.dataset.deezerId = /^\d+$/.test(String(track.id)) ? track.id : "";
-    audio.dataset.query = `${track.artists.map((a) => a.name).join(" ")} ${track.name}`;
-    audio.setAttribute("aria-label", `Aperçu audio de ${track.name}`);
-    wirerAudio(audio);
-
-    return clone;
+function mettreAJourCompteur(nb) {
+    document.getElementById("compteur-titres").textContent = nb;
 }
 
-/** Ajoute le lot de titres suivant et met à jour le bouton « Voir plus ». */
-function rendreLotTitres() {
-    const conteneur = document.getElementById("liste-titres");
-    const fin = Math.min(titresRendus + BATCH_TITRES, titresFiltres.length);
+/** Crée une ligne <tr> pour un titre, avec son bouton « Détails ». */
+function creerLigneTitre(track) {
+    const tr = document.createElement("tr");
 
-    const fragment = document.createDocumentFragment();
-    for (let i = titresRendus; i < fin; i++) {
-        fragment.appendChild(creerCarteTitre(titresFiltres[i]));
-    }
-    conteneur.appendChild(fragment);
-    titresRendus = fin;
+    const tdTitre = document.createElement("td");
+    tdTitre.className = "fw-medium";
+    tdTitre.textContent = track.name;
 
-    document.getElementById("btn-voir-plus")
-        .classList.toggle("d-none", titresRendus >= titresFiltres.length);
+    const tdArtiste = document.createElement("td");
+    tdArtiste.className = "text-muted";
+    tdArtiste.textContent = track.artists.map((a) => a.name).join(", ");
+
+    const tdAlbum = document.createElement("td");
+    tdAlbum.className = "text-muted d-none d-md-table-cell";
+    tdAlbum.textContent = track.album.name;
+
+    const tdAction = document.createElement("td");
+    const btn = document.createElement("button");
+    btn.type = "button";
+    btn.className = "btn btn-primary btn-sm";
+    btn.innerHTML = '<i class="bi bi-info-circle me-1" aria-hidden="true"></i>Détails';
+    btn.setAttribute("aria-label", `Voir les détails de ${track.name}`);
+    btn.addEventListener("click", () => ouvrirModal(track));
+    tdAction.appendChild(btn);
+
+    tr.append(tdTitre, tdArtiste, tdAlbum, tdAction);
+    return tr;
 }
 
-/** Affiche une liste de titres depuis zéro (premier lot seulement). */
-function afficherListeTitres(tracks) {
-    titresFiltres = tracks;
-    titresRendus = 0;
-    document.getElementById("liste-titres").innerHTML = "";
-    document.getElementById("aucun-resultat").classList.toggle("d-none", tracks.length > 0);
+/** Affiche les lignes du tableau (le texte est léger, on rend tout). */
+function rendreTableTitres(tracks) {
+    const corps = document.getElementById("corps-titres");
+    corps.innerHTML = "";
+
+    if (tracks.length === 0) {
+        const tr = document.createElement("tr");
+        tr.innerHTML = '<td colspan="4" class="text-center text-muted py-4">Aucun morceau trouvé.</td>';
+        corps.appendChild(tr);
+    } else {
+        const fragment = document.createDocumentFragment();
+        for (const t of tracks) {
+            fragment.appendChild(creerLigneTitre(t));
+        }
+        corps.appendChild(fragment);
+    }
     mettreAJourCompteur(tracks.length);
-    rendreLotTitres();
 }
 
 function afficherTitres(tracks) {
     titresCourants = tracks;
-    afficherListeTitres(tracks);
+    document.getElementById("recherche-titres").value = "";
+    rendreTableTitres(tracks);
 }
 
 /** Filtre les titres de la vue courante sur le texte de recherche. */
@@ -317,40 +258,121 @@ function filtrerTitres(requete) {
     });
 }
 
-function mettreAJourCompteur(nb) {
-    document.getElementById("compteur-titres").textContent = nb;
+/* ---------- Modale de détails d'un morceau ---------- */
+
+function ouvrirModal(track) {
+    document.getElementById("modal-cover").src =
+        track.album.images?.[1]?.url ?? track.album.images?.[0]?.url ?? "";
+    document.getElementById("modal-cover").alt = `Pochette de ${track.album.name}`;
+    document.getElementById("modal-album-nom").textContent = track.album.name;
+    document.getElementById("modal-album-date").textContent =
+        track.album.release_date ? track.album.release_date.slice(0, 4) : "";
+    document.getElementById("modal-titre").textContent = track.name;
+
+    document.getElementById("modal-duree").textContent = formaterDuree(track.duration_ms);
+    document.getElementById("modal-pop-fill").style.width = `${track.popularity}%`;
+    document.getElementById("modal-pop-bar").setAttribute("aria-valuenow", track.popularity);
+    document.getElementById("modal-pop-val").textContent = `${track.popularity}/100`;
+    const exp = document.getElementById("modal-explicit");
+    exp.textContent = track.explicit ? "Oui" : "Non";
+    exp.className = `text-end pe-0 fw-semibold ${track.explicit ? "text-danger" : "text-success"}`;
+
+    // Artistes
+    const conteneurArtistes = document.getElementById("modal-artistes");
+    conteneurArtistes.innerHTML = "";
+    for (const a of track.artists) {
+        const ligne = document.createElement("div");
+        ligne.className = "d-flex align-items-center gap-3";
+
+        const img = document.createElement("img");
+        img.src = a.images?.[1]?.url ?? a.images?.[0]?.url ?? "";
+        img.alt = "";
+        img.className = "rounded-circle flex-shrink-0 object-fit-cover";
+        img.width = 44;
+        img.height = 44;
+
+        const info = document.createElement("div");
+        const nom = document.createElement("div");
+        nom.className = "fw-semibold small";
+        nom.textContent = a.name;
+        const meta = document.createElement("div");
+        meta.className = "text-muted small";
+        meta.textContent = `${formaterNombre(a.followers?.total ?? 0)} followers`;
+        info.append(nom, meta);
+
+        ligne.append(img, info);
+        conteneurArtistes.appendChild(ligne);
+    }
+
+    // Genres
+    const conteneurGenres = document.getElementById("modal-genres");
+    const genres = [...new Set(track.artists.flatMap((a) => a.genres))];
+    conteneurGenres.innerHTML = "";
+    if (genres.length === 0) {
+        conteneurGenres.innerHTML = '<span class="text-muted small">N/A</span>';
+    } else {
+        for (const g of genres) {
+            const badge = document.createElement("span");
+            badge.className = "badge rounded-pill text-bg-dark";
+            badge.textContent = g;
+            conteneurGenres.appendChild(badge);
+        }
+    }
+
+    // Lien Deezer (si identifiant numérique)
+    const lien = document.getElementById("modal-deezer");
+    if (/^\d+$/.test(String(track.id))) {
+        lien.href = `https://www.deezer.com/track/${track.id}`;
+        lien.classList.remove("d-none");
+    } else {
+        lien.classList.add("d-none");
+    }
+
+    // Aperçu audio (récupéré via Deezer à l'ouverture)
+    const audio = document.getElementById("modal-audio");
+    const absent = document.getElementById("modal-audio-absent");
+    audio.pause();
+    audio.removeAttribute("src");
+    audio.classList.remove("d-none");
+    absent.classList.add("d-none");
+    audio.dataset.deezerId = /^\d+$/.test(String(track.id)) ? track.id : "";
+    audio.dataset.query = `${track.artists.map((a) => a.name).join(" ")} ${track.name}`;
+    obtenirPreview(audio)
+        .then((url) => { audio.src = url; })
+        .catch(() => {
+            audio.classList.add("d-none");
+            absent.classList.remove("d-none");
+        });
+
+    if (!modalDetail) {
+        const el = document.getElementById("detailModal");
+        modalDetail = new bootstrap.Modal(el);
+        el.addEventListener("hidden.bs.modal", () => audio.pause());
+    }
+    modalDetail.show();
 }
 
 /* ---------- Barre de recherche ---------- */
 
 function initRecherche() {
+    // Recherche de playlists (accueil)
     const champ = document.getElementById("recherche");
-
-    document.getElementById("form-recherche").addEventListener("submit", (e) => {
-        e.preventDefault();
-    });
-
+    document.getElementById("form-recherche").addEventListener("submit", (e) => e.preventDefault());
     champ.addEventListener("input", () => {
         const requete = champ.value.trim().toLowerCase();
-
-        // Sur l'accueil : filtre les cartes de playlists
-        if (!document.getElementById("vue-accueil").classList.contains("d-none")) {
-            let visibles = 0;
-            for (const carte of document.querySelectorAll(".col-playlist")) {
-                const ok = carte.dataset.recherche.includes(requete);
-                carte.classList.toggle("d-none", !ok);
-                if (ok) visibles++;
-            }
-            document.getElementById("aucune-playlist").classList.toggle("d-none", visibles > 0);
-            return;
+        let visibles = 0;
+        for (const carte of document.querySelectorAll(".col-playlist")) {
+            const ok = carte.dataset.recherche.includes(requete);
+            carte.classList.toggle("d-none", !ok);
+            if (ok) visibles++;
         }
-
-        // Dans une playlist : filtre les titres (sur la liste complète, puis repagine)
-        afficherListeTitres(filtrerTitres(requete));
+        document.getElementById("aucune-playlist").classList.toggle("d-none", visibles > 0);
     });
 
-    // Bouton « Voir plus » : ajoute le lot suivant
-    document.getElementById("btn-voir-plus").addEventListener("click", rendreLotTitres);
+    // Recherche de titres (dans une playlist)
+    document.getElementById("recherche-titres").addEventListener("input", (e) => {
+        rendreTableTitres(filtrerTitres(e.target.value.trim().toLowerCase()));
+    });
 }
 
 /* ---------- Lecture audio (aperçus Deezer) ---------- */
@@ -436,59 +458,6 @@ async function obtenirPreview(audio) {
     return chargerPreviewParRecherche(audio.dataset.query);
 }
 
-// Observateur unique réutilisé pour tous les lecteurs (chargement paresseux).
-let observateurAudio = null;
-
-/** Charge l'aperçu d'un titre (une seule fois) quand sa carte devient visible. */
-function chargerApercu(audio) {
-    if (audio.dataset.chargement) {
-        return;
-    }
-    audio.dataset.chargement = "1";
-    obtenirPreview(audio)
-        .then((url) => {
-            audio.src = url;
-            audio.preload = "metadata";
-        })
-        .catch((erreur) => {
-            console.warn(`Aperçu indisponible (${audio.dataset.query})`, erreur);
-            const message = document.createElement("p");
-            message.className = "text-body-secondary mb-0 small";
-            message.textContent = "Aperçu indisponible";
-            audio.replaceWith(message);
-        });
-}
-
-/**
- * Branche un lecteur audio :
- *  - met en pause les autres titres quand on le lance ;
- *  - charge son aperçu quand sa carte devient visible (observateur partagé).
- */
-function wirerAudio(audio) {
-    audio.addEventListener("play", () => {
-        for (const autre of document.querySelectorAll(".apercu")) {
-            if (autre !== audio) autre.pause();
-        }
-    });
-
-    if (!observateurAudio && "IntersectionObserver" in window) {
-        observateurAudio = new IntersectionObserver((entrees, obs) => {
-            for (const entree of entrees) {
-                if (entree.isIntersecting) {
-                    chargerApercu(entree.target);
-                    obs.unobserve(entree.target);
-                }
-            }
-        }, { rootMargin: "200px" });
-    }
-
-    if (observateurAudio) {
-        observateurAudio.observe(audio);
-    } else {
-        chargerApercu(audio); // repli si IntersectionObserver indisponible
-    }
-}
-
 /* ---------- Rendu d'une playlist ---------- */
 
 /**
@@ -504,20 +473,17 @@ function rendreTout(tracks) {
     chartsActifs = [];
     cachePreviews.clear();
 
-    for (const id of ["stats-cards", "liste-artistes", "liste-albums", "liste-titres"]) {
+    for (const id of ["liste-albums", "corps-titres"]) {
         document.getElementById(id).innerHTML = "";
     }
 
     // Nouveau rendu
-    afficherStats(tracks);
-
     configurerChartJs();
     graphArtistes(tracks);
     graphGenres(tracks);
     graphAnnees(tracks);
     graphPopularite(tracks);
 
-    afficherArtistes(tracks);
     afficherAlbums(tracks);
     afficherTitres(tracks);
 }
@@ -606,6 +572,8 @@ async function chargerTout() {
 function montrerVue(nom) {
     document.getElementById("vue-accueil").classList.toggle("d-none", nom !== "accueil");
     document.getElementById("vue-playlist").classList.toggle("d-none", nom !== "playlist");
+    // La recherche de la navbar ne sert qu'à l'accueil (filtre les playlists)
+    document.getElementById("form-recherche").classList.toggle("d-none", nom !== "accueil");
 }
 
 async function routeur() {
